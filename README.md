@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-Hello! I'm **Shivam Kachhadiya**, currently pursuing B.Tech from **VIT Vellore, Tamil Nadu**.  
+Hello! I'm **Shivam Kachhadiya**, currently pursuing M.Tech from **VIT Vellore, Tamil Nadu**.  
 My long-term goal is to work in a **top fintech product-based company** where I can apply my skills in **DSA, Java, Spring Boot, SQL**, and more.
 
 This repository automatically syncs my solved **LeetCode problems in C++** using a Chrome extension. It's my way of tracking progress and staying consistent with problem solving.
