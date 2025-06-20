@@ -3,7 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivamkachhadiya/DSA_IN_CPP)
 ![LeetCode Progress](https://img.shields.io/badge/leetcode-automated%20sync-brightgreen)
 ![Languages](https://img.shields.io/github/languages/top/shivamkachhadiya/DSA_IN_CPP)
-![Lines of code](https://img.shields.io/tokei/lines/github/shivamkachhadiya/DSA_IN_CPP)
 ![TimeZone](https://img.shields.io/badge/timezone-IST-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamkachhadiya)
 
