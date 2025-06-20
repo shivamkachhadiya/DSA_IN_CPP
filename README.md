@@ -92,6 +92,7 @@ If you're on a similar journey, feel free to fork or follow!
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -121,5 +122,10 @@ If you're on a similar journey, feel free to fork or follow!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
