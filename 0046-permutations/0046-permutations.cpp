@@ -1,28 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
-        getPerms(nums, 0, ans);
-        return ans;
-    }
-
-private:
-    void getPerms(vector<int>& nums, int idx, vector<vector<int>>& ans) {
-        // Base Case: If the index reaches the end, store the permutation
-        if (idx == nums.size()) {
-            ans.push_back(nums);
+    void permute(vector<int>& ds, vector<int>& nums, vector<vector<int>>& ans, vector<int>& freq) {
+        if (ds.size() == nums.size()) {
+            ans.push_back(ds);
             return;
         }
 
-        for (int i = idx; i < nums.size(); ++i) {
-            // Swap to fix ith element at current index
-            swap(nums[idx], nums[i]);
+        for (int i = 0; i < nums.size(); i++) {
+            if (!freq[i]) {
+                ds.push_back(nums[i]);
+                freq[i] = 1;
 
-            // Recursive call with next index
-            getPerms(nums, idx + 1, ans);
+                permute(ds, nums, ans, freq);
 
-            // Backtrack (undo the swap)
-            swap(nums[idx], nums[i]);
+                freq[i] = 0;
+                ds.pop_back();
+            }
         }
+    }
+
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int> ds;
+        vector<int> freq(nums.size(), 0); // ✅ VLA replaced with vector
+        permute(ds, nums, ans, freq);
+        return ans;
     }
 };
