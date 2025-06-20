@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivamkachhadiya/DSA_IN_CPP)
 ![LeetCode Progress](https://img.shields.io/badge/leetcode-automated%20sync-brightgreen)
-![Problems Solved](https://img.shields.io/badge/solved-150%2B-brightgreen) 
+![Problems Solved](https://img.shields.io/badge/solved-80%2B-brightgreen) 
 ![Goal](https://img.shields.io/badge/goal-Fintech_PBC-orange)
 ![Location](https://img.shields.io/badge/location-VIT_Vellore-9cf)
 ![Languages](https://img.shields.io/github/languages/top/shivamkachhadiya/DSA_IN_CPP)
