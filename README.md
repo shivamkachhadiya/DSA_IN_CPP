@@ -92,6 +92,7 @@ If you're on a similar journey, feel free to fork or follow!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
@@ -129,7 +130,16 @@ If you're on a similar journey, feel free to fork or follow!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
