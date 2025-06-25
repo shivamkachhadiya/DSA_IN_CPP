@@ -31,6 +31,7 @@ public:
 
     void nQueens(vector<string>& board, int row, int n,
                  vector<vector<string>>& ans) {
+                    
         if (row == n) {
             ans.push_back(board);
             return;
