@@ -6,7 +6,8 @@
 ![Goal](https://img.shields.io/badge/goal-Fintech_PBC-orange)
 ![Location](https://img.shields.io/badge/location-VIT_Vellore-9cf)
 ![Languages](https://img.shields.io/github/languages/top/shivamkachhadiya/DSA_IN_CPP)
-![TimeZone](https://img.shields.io/badge/timezone-IST-blue)
+![Date](https://img.shields.io/badge/date-27--June--2025-blue)
+![Time](https://img.shields.io/badge/time-03:58%20PM%20IST-yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamkachhadiya)
 
 
