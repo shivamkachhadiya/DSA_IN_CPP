@@ -8,6 +8,12 @@
 ![Languages](https://img.shields.io/github/languages/top/shivamkachhadiya/DSA_IN_CPP)
 ![Date Of Creation](https://img.shields.io/badge/date-15--June--2025-blue)
 ![Time](https://img.shields.io/badge/time-03:58%20PM%20IST-yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/shivamkachhadiya/DSA_IN_CPP)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shivamkachhadiya/DSA_IN_CPP)
+![GitHub file count](https://img.shields.io/github/directory-file-count/shivamkachhadiya/DSA_IN_CPP)
+![GitHub language count](https://img.shields.io/github/languages/count/shivamkachhadiya/DSA_IN_CPP)
+![Learning](https://img.shields.io/badge/Learning-SpringBoot-lightgreen)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamkachhadiya)
 
 
