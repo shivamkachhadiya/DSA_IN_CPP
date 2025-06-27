@@ -23,6 +23,25 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 
 
 # DSA_IN_CPP
+![Array](https://img.shields.io/badge/Array-17.6%25-blue)
+![Divide%20and%20Conquer](https://img.shields.io/badge/Divide%20and%20Conquer-2.9%25-lightgrey)
+![Tree](https://img.shields.io/badge/Tree-2.9%25-lightgrey)
+![Binary%20Search%20Tree](https://img.shields.io/badge/Binary%20Search%20Tree-2.9%25-lightgrey)
+![Binary%20Tree](https://img.shields.io/badge/Binary%20Tree-2.9%25-lightgrey)
+![Math](https://img.shields.io/badge/Math-5.9%25-yellow)
+![Recursion](https://img.shields.io/badge/Recursion-5.9%25-yellow)
+![Bit%20Manipulation](https://img.shields.io/badge/Bit%20Manipulation-5.9%25-yellow)
+![Backtracking](https://img.shields.io/badge/Backtracking-11.8%25-orange)
+![Hash%20Table](https://img.shields.io/badge/Hash%20Table-5.9%25-yellow)
+![Matrix](https://img.shields.io/badge/Matrix-2.9%25-lightgrey)
+![Linked%20List](https://img.shields.io/badge/Linked%20List-5.9%25-yellow)
+![Two%20Pointers](https://img.shields.io/badge/Two%20Pointers-2.9%25-lightgrey)
+![String](https://img.shields.io/badge/String-2.9%25-lightgrey)
+![Stack](https://img.shields.io/badge/Stack-8.8%25-green)
+![Design](https://img.shields.io/badge/Design-2.9%25-lightgrey)
+![Monotonic%20Stack](https://img.shields.io/badge/Monotonic%20Stack-5.9%25-yellow)
+![Data%20Stream](https://img.shields.io/badge/Data%20Stream-2.9%25-lightgrey)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
