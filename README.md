@@ -121,10 +121,12 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 ## Design
@@ -134,12 +136,17 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
 
 
