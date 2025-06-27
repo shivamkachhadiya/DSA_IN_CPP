@@ -152,4 +152,12 @@ If you're on a similar journey, feel free to fork or follow!
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
