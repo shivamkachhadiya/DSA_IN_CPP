@@ -20,70 +20,6 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 
 ---
 
-## 💡 Repository Highlights
-
-- ✅ Clean directory structure: Each problem has its own folder.
-- 📂 Synced via [LeetHub](https://github.com/QasimWani/LeetHub) extension.
-- 🧠 Problems range from Easy to Hard covering real interview topics.
-- 🚀 Aimed to build solid fundamentals in:
-  - Bit Manipulation
-  - Recursion and Backtracking
-  - Linked Lists, Trees, Graphs
-  - Dynamic Programming
-  - System Design (future update)
-
----
-
-## 🧠 My Tech Stack
-
-| Language | Tools/Frameworks |
-|----------|------------------|
-| C++, Java | Spring Boot, Hibernate |
-| SQL      | MySQL Workbench, PostgreSQL |
-| Web Dev  | HTML, CSS, JavaScript, PHP |
-| Version Control | Git, GitHub |
-| Others   | Data Structures & Algorithms |
-
----
-
-## 🎯 Current Focus
-
-- 💼 Preparing for **Product-Based Company** placements
-- 🧮 Solving 1-2 LeetCode problems daily
-- 🌱 Learning Spring Boot for backend development
-- 🏦 Target: Fintech Sector
-
----
-
-
-Each folder contains:
-- `.cpp` solution file
-- Auto-generated comments for time & space complexity
-
----
-
-## 📊 GitHub Stats
-
-Stay tuned! I’m working on integrating:
-- LeetCode stats badge
-- Heatmap activity
-- Weekly progress updates
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: [shivamkachhadiya012@gmail.com](mailto:shivamkachhadiya012@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shivamkachhadiya](https://www.linkedin.com/in/shivam012/)
-- 🧠 LeetCode: [leetcode.com/shivamkachhadiya](https://leetcode.com/u/shivamkachhadiya012/)
-
----
-
-## ⭐ Final Note
-
-If you're on a similar journey, feel free to fork or follow!  
-**Consistency beats intensity. Keep solving!**
-
 
 
 # DSA_IN_CPP
@@ -178,3 +114,69 @@ If you're on a similar journey, feel free to fork or follow!
 | ------- |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
+
+
+## 💡 Repository Highlights
+
+- ✅ Clean directory structure: Each problem has its own folder.
+- 📂 Synced via [LeetHub](https://github.com/QasimWani/LeetHub) extension.
+- 🧠 Problems range from Easy to Hard covering real interview topics.
+- 🚀 Aimed to build solid fundamentals in:
+  - Bit Manipulation
+  - Recursion and Backtracking
+  - Linked Lists, Trees, Graphs
+  - Dynamic Programming
+  - System Design (future update)
+
+---
+
+## 🧠 My Tech Stack
+
+| Language | Tools/Frameworks |
+|----------|------------------|
+| C++, Java | Spring Boot, Hibernate |
+| SQL      | MySQL Workbench, PostgreSQL |
+| Web Dev  | HTML, CSS, JavaScript, PHP |
+| Version Control | Git, GitHub |
+| Others   | Data Structures & Algorithms |
+
+---
+
+## 🎯 Current Focus
+
+- 💼 Preparing for **Product-Based Company** placements
+- 🧮 Solving 1-2 LeetCode problems daily
+- 🌱 Learning Spring Boot for backend development
+- 🏦 Target: Fintech Sector
+
+---
+
+
+Each folder contains:
+- `.cpp` solution file
+- Auto-generated comments for time & space complexity
+
+---
+
+## 📊 GitHub Stats
+
+Stay tuned! I’m working on integrating:
+- LeetCode stats badge
+- Heatmap activity
+- Weekly progress updates
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: [shivamkachhadiya012@gmail.com](mailto:shivamkachhadiya012@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/shivamkachhadiya](https://www.linkedin.com/in/shivam012/)
+- 🧠 LeetCode: [leetcode.com/shivamkachhadiya](https://leetcode.com/u/shivamkachhadiya012/)
+
+---
+
+## ⭐ Final Note
+
+If you're on a similar journey, feel free to fork or follow!  
+**Consistency beats intensity. Keep solving!**
+
