@@ -12,6 +12,8 @@
 
 
 ## 📌 About Me
+![image](https://github.com/user-attachments/assets/487f9e88-d1b5-4757-b65f-d019b6b23f42)
+
 
 Hello! I'm **Shivam Kachhadiya**, currently pursuing M.Tech from **VIT Vellore, Tamil Nadu**.  
 My long-term goal is to work in a **top fintech product-based company** where I can apply my skills in **DSA, Java, Spring Boot, SQL**, and more.
