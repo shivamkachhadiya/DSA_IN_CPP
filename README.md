@@ -1,7 +1,11 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8fe4fdcd-ebce-4fa3-95dc-039a6545be56" width="80" style="border-radius: 50%;"/>
+  <img src="https://github.com/user-attachments/assets/8fe4fdcd-ebce-4fa3-95dc-039a6545be56" width="100" style="border-radius: 50%;"/>
 </p>
 
+<h1 align="center">🚀 DSA_IN_CPP</h1>
+<h3 align="center">LeetCode Journey by Shivam Kachhadiya</h3>
+
+---
 
 # 🚀 DSA_IN_CPP - LeetCode Journey by Shivam Kachhadiya
 
@@ -230,4 +234,3 @@ Stay tuned! I’m working on integrating:
 
 If you're on a similar journey, feel free to fork or follow!  
 **Consistency beats intensity. Keep solving!**
-
