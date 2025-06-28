@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8fe4fdcd-ebce-4fa3-95dc-039a6545be56" width="80" style="border-radius: 50%;"/>
+</p>
+
 # 🚀 DSA_IN_CPP - LeetCode Journey by Shivam Kachhadiya
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivamkachhadiya/DSA_IN_CPP)
