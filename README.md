@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8fe4fdcd-ebce-4fa3-95dc-039a6545be56" width="80" style="border-radius: 50%;"/>
 </p>
-<div style="background-color: yellow;">
 
 
 # 🚀 DSA_IN_CPP - LeetCode Journey by Shivam Kachhadiya
@@ -226,7 +225,6 @@ Stay tuned! I’m working on integrating:
 
 ---
 
-</div>
 
 ## ⭐ Final Note
 
