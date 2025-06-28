@@ -1,147 +1,120 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>DSA_IN_CPP - Shivam Kachhadiya</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f7f9fb;
-            color: #333;
-        }
-        header {
-            background-color: #4a90e2;
-            color: white;
-            padding: 2rem;
-            text-align: center;
-        }
-        h1, h2 {
-            margin: 0.5rem 0;
-        }
-        .container {
-            max-width: 1100px;
-            margin: 2rem auto;
-            padding: 0 1.5rem;
-        }
-        .card {
-            background: white;
-            border-radius: 12px;
-            padding: 1.5rem;
-            margin-bottom: 1.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-        }
-        .badges img {
-            margin: 0.3rem 0.5rem;
-        }
-        .topics ul {
-            padding-left: 1rem;
-        }
-        .topics ul li {
-            line-height: 1.8;
-        }
-        footer {
-            background: #2c3e50;
-            color: white;
-            text-align: center;
-            padding: 1rem;
-        }
-        a {
-            color: #007acc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>DSA_IN_CPP - Shivam Kachhadiya</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Global Styles */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      scroll-behavior: smooth;
+      transition: background 1s ease;
+    }
+
+    /* Section Styling */
+    section {
+      padding: 80px 40px;
+      min-height: 100vh;
+      box-sizing: border-box;
+      transition: background-color 0.5s ease;
+    }
+
+    /* Section Colors */
+    .intro     { background: #1e1e2f; color: #fff; }
+    .topics    { background: #f0f4f8; color: #222; }
+    .projects  { background: #222; color: #f9f9f9; }
+    .stack     { background: #e6f7ff; color: #000; }
+    .contact   { background: #141414; color: #fff; }
+
+    h1, h2 {
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      color: #00d1b2;
+    }
+
+    nav {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background: #000;
+      color: #fff;
+      padding: 10px 20px;
+      z-index: 1000;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    }
+
+    nav a {
+      color: #00d1b2;
+      margin-left: 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>🚀 DSA_IN_CPP</h1>
-        <p>LeetCode Journey by Shivam Kachhadiya | Fintech PBC Aspirant</p>
-    </header>
-    <div class="container">
-        <div class="card badges">
-            <img src="https://img.shields.io/github/repo-size/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/badge/leetcode-automated%20sync-brightgreen" />
-            <img src="https://img.shields.io/badge/solved-80%2B-brightgreen" />
-            <img src="https://img.shields.io/badge/goal-Fintech_PBC-orange" />
-            <img src="https://img.shields.io/badge/location-VIT_Vellore-9cf" />
-            <img src="https://img.shields.io/github/languages/top/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/badge/date-15--June--2025-blue" />
-            <img src="https://img.shields.io/badge/time-03:58%20PM%20IST-yellow" />
-            <img src="https://img.shields.io/github/last-commit/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/github/commit-activity/m/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/github/directory-file-count/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/github/languages/count/shivamkachhadiya/DSA_IN_CPP" />
-            <img src="https://img.shields.io/badge/Learning-SpringBoot-lightgreen" />
-            <img src="https://komarev.com/ghpvc/?username=shivamkachhadiya" />
-        </div>
 
-        <div class="card">
-            <h2>📌 About Me</h2>
-            <p>Hello! I'm <strong>Shivam Kachhadiya</strong>, currently pursuing M.Tech from <strong>VIT Vellore</strong>. I am passionate about DSA, Java, Spring Boot, and aim to work in a top fintech product-based company.</p>
-            <p>This repository auto-syncs my solved LeetCode problems in C++.</p>
-        </div>
-
-        <div class="card topics">
-            <h2>📚 LeetCode Topics</h2>
-            <ul>
-                <li><a href="https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack">Min Stack</a></li>
-                <li><a href="https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues">Implement Stack using Queues</a></li>
-                <li><a href="https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits">Remove K Digits</a></li>
-                <li><a href="https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span">Online Stock Span</a></li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>💡 Repository Highlights</h2>
-            <ul>
-                <li>✅ Clean directory structure with each problem in its own folder</li>
-                <li>📂 Synced via <a href="https://github.com/QasimWani/LeetHub">LeetHub extension</a></li>
-                <li>🧠 Covers Easy to Hard problems and real interview topics</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>🧠 My Tech Stack</h2>
-            <ul>
-                <li>C++, Java | Spring Boot, Hibernate</li>
-                <li>SQL: MySQL, PostgreSQL</li>
-                <li>Web: HTML, CSS, JS, PHP</li>
-                <li>Tools: Git, GitHub</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>🎯 Current Focus</h2>
-            <ul>
-                <li>💼 Preparing for Product-Based Companies</li>
-                <li>🧮 Solving 1–2 LeetCode problems daily</li>
-                <li>🌱 Learning Spring Boot</li>
-                <li>🏦 Targeting Fintech Sector</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>📬 Connect With Me</h2>
-            <ul>
-                <li>Email: <a href="mailto:shivamkachhadiya012@gmail.com">shivamkachhadiya012@gmail.com</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/shivam012/">linkedin.com/in/shivam012</a></li>
-                <li>LeetCode: <a href="https://leetcode.com/u/shivamkachhadiya012/">leetcode.com/u/shivamkachhadiya012</a></li>
-            </ul>
-        </div>
+  <nav>
+    <div><strong>🚀 Shivam's LeetCode Journey</strong></div>
+    <div>
+      <a href="#intro">Intro</a>
+      <a href="#topics">Topics</a>
+      <a href="#projects">Projects</a>
+      <a href="#stack">Stack</a>
+      <a href="#contact">Contact</a>
     </div>
+  </nav>
 
-    <footer>
-        &copy; 2025 Shivam Kachhadiya • Built with 💻 using GitHub Pages
-    </footer>
+  <section id="intro" class="intro">
+    <h1>👋 Hello, I'm <span class="highlight">Shivam Kachhadiya</span></h1>
+    <p>🧠 M.Tech @ VIT Vellore | DSA in C++ | Java & Spring Boot | Target: Fintech Product Companies</p>
+    <p>This page reflects my <strong>LeetCode journey, goals, and current progress</strong> toward becoming a pro backend developer.</p>
+  </section>
 
-    <script>
-        console.log("🚀 Welcome to Shivam's DSA Portfolio Website");
-    </script>
+  <section id="topics" class="topics">
+    <h2>📚 LeetCode Mastery</h2>
+    <ul>
+      <li>✔️ Array, Stack, Queue, LinkedList</li>
+      <li>✔️ Recursion & Backtracking</li>
+      <li>✔️ Trees, Binary Search, Graphs</li>
+      <li>✔️ Monotonic Stack, Design, Bit Manipulation</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="projects">
+    <h2>📁 GitHub Repository Highlights</h2>
+    <p>🛠️ Clean folder structure</p>
+    <p>⚡ Synced with LeetHub extension</p>
+    <p>💻 Each folder has a `.cpp` solution + time/space complexity comments</p>
+    <p>⭐ Problems from <strong>Striver Sheet + Top 150</strong></p>
+  </section>
+
+  <section id="stack" class="stack">
+    <h2>💡 My Tech Stack</h2>
+    <p><strong>Languages:</strong> C++, Java</p>
+    <p><strong>Frameworks:</strong> Spring Boot, Hibernate</p>
+    <p><strong>DB:</strong> MySQL, PostgreSQL</p>
+    <p><strong>Others:</strong> HTML, CSS, JavaScript, PHP</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>📬 Connect With Me</h2>
+    <p>📧 Email: <a href="mailto:shivamkachhadiya012@gmail.com" style="color: #00d1b2;">shivamkachhadiya012@gmail.com</a></p>
+    <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/shivam012/" style="color: #00d1b2;" target="_blank">shivam012</a></p>
+    <p>🧠 LeetCode: <a href="https://leetcode.com/shivamkachhadiya012/" style="color: #00d1b2;" target="_blank">shivamkachhadiya012</a></p>
+  </section>
+
 </body>
 </html>
