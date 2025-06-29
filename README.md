@@ -152,6 +152,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0069-sqrtx) |
