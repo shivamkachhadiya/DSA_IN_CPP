@@ -64,6 +64,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
@@ -146,6 +147,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
