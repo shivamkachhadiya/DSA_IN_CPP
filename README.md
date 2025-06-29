@@ -97,6 +97,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,10 +123,12 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -139,6 +142,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
