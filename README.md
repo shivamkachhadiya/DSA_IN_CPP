@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <b>-- Click the image above to view my LeetCode profile --<br>
+  <b>-- Click the above image to view my LeetCode profile --<br>
   -- Stats below are updated automatically in real time 🚀 --</b>
 </p>
 
