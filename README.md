@@ -67,6 +67,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
@@ -130,6 +131,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -187,6 +189,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
 
