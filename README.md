@@ -152,6 +152,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -161,12 +162,14 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
