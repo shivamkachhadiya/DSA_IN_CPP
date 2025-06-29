@@ -26,10 +26,8 @@
 
 
 ## 📌 About Me
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<!--   <img src="https://github.com/user-attachments/assets/1a94674a-87ed-41f2-b242-b2463288d8bc" alt="First Image" />-->
-  <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats style="height: 200px;" /> 
-</div>
+<img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats" style="height: 200px;" />
+
 
 
 
