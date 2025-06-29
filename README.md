@@ -123,11 +123,13 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
