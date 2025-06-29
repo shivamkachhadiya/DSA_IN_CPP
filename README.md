@@ -8,7 +8,6 @@
 ---
 
 # 🚀 DSA_IN_CPP - LeetCode Journey by Shivam Kachhadiya
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivamkachhadiya/DSA_IN_CPP)
 ![LeetCode Progress](https://img.shields.io/badge/leetcode-automated%20sync-brightgreen)
 ![Problems Solved](https://img.shields.io/badge/solved-80%2B-brightgreen) 
@@ -37,6 +36,9 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 
 # DSA_IN_CPP
