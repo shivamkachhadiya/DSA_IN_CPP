@@ -22,7 +22,7 @@ public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> ds;
-        vector<int> freq(nums.size(), 0); // ✅ VLA replaced with vector
+        vector<int> freq(nums.size(), 0); 
         permute(ds, nums, ans, freq);
         return ans;
     }
