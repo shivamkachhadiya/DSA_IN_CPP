@@ -28,9 +28,10 @@
 ## 📌 About Me
 <p align="center">
   <a href="https://leetcode.com/u/shivamkachhadiya012/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats" height="400">
+    <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
   </a>
 </p>
+
 <p align="center">
   <b>-- Click the image above to view my LeetCode profile --<br>
   -- Stats below are updated automatically in real time 🚀 --</b>
