@@ -64,6 +64,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
@@ -85,6 +86,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 ## Tree
@@ -94,6 +96,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
