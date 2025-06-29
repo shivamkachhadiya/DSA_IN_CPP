@@ -127,6 +127,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +154,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -160,6 +162,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -205,6 +208,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
