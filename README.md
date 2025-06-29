@@ -67,6 +67,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0001-two-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
@@ -200,6 +201,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0088-merge-sorted-array) |
