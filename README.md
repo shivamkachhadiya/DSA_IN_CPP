@@ -74,6 +74,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
@@ -103,6 +104,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 ## Tree
@@ -297,6 +299,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Union Find
