@@ -26,7 +26,11 @@
 
 
 ## 📌 About Me
-![image](https://github.com/user-attachments/assets/487f9e88-d1b5-4757-b65f-d019b6b23f42)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/1a94674a-87ed-41f2-b242-b2463288d8bc" alt="First Image" />
+  <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats style="height: 200px;" />
+</div>
+
 
 
 Hello! I'm **Shivam Kachhadiya**, currently pursuing M.Tech from **VIT Vellore, Tamil Nadu**.  
@@ -35,10 +39,6 @@ My long-term goal is to work in a **top fintech product-based company** where I 
 This repository automatically syncs my solved **LeetCode problems in C++** using a Chrome extension. It's my way of tracking progress and staying consistent with problem solving.
 
 ---
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivamkachhadiya012?ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 
 # DSA_IN_CPP
