@@ -73,6 +73,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -88,6 +89,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
@@ -206,6 +208,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
@@ -236,6 +239,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Union Find
 |  |
@@ -245,6 +249,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
 
 
