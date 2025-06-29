@@ -64,6 +64,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
@@ -160,6 +161,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0125-valid-palindrome) |
