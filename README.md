@@ -66,6 +66,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0001-two-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -213,6 +214,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
