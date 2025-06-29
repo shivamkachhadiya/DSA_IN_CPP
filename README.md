@@ -72,6 +72,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -271,6 +272,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
