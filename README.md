@@ -101,6 +101,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0021-merge-two-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -135,6 +136,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
