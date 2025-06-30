@@ -1,48 +1,40 @@
 class Solution {
 public:
-    int lowerbound(vector<int>arr,int n,int x){
-        int low=0,high=n-1;
-        int ans=n;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]>=x){
-                ans=mid;
-                high=mid-1;
-            }else{
-                low=mid+1;
+    int findFirst(vector<int>& arr, int target) {
+        int start = 0, end = arr.size() - 1, index = -1;
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if (arr[mid] == target) {
+                index = mid;
+                end = mid - 1; // go left
+            } else if (arr[mid] < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
             }
         }
-        return ans;
+        return index;
     }
-       int uperbound(vector<int>arr,int n,int x){
-        int low=0,high=n-1;
-        int ans=n;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]>x){
-                ans=mid;
-                high=mid-1;
-            }else{
-                low=mid+1;
+
+    int findLast(vector<int>& arr, int target) {
+        int start = 0, end = arr.size() - 1, index = -1;
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if (arr[mid] == target) {
+                index = mid;
+                start = mid + 1; // go right
+            } else if (arr[mid] < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
             }
         }
-        return ans;
+        return index;
     }
-    vector<int> searchRange(vector<int>& arr, int k) {
-        int n=arr.size();
-        vector<int>tmp;
-        
-        int lb=lowerbound(arr,n,k);
-        if(lb==n||arr[lb]!=k){
-            tmp.push_back(-1);
-            tmp.push_back(-1);
-        }
-        else{
-            //return (lb,uperbound(arr,n,k)-1);
-            tmp.push_back(lb);
-            int up=uperbound(arr,n,k)-1;
-            tmp.push_back(up);
-        }
-        return tmp;
+
+    vector<int> searchRange(vector<int>& arr, int target) {
+        int first = findFirst(arr, target);
+        int last = findLast(arr, target);
+        return {first, last};
     }
 };
