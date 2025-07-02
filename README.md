@@ -151,6 +151,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
@@ -175,6 +176,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
