@@ -104,6 +104,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
@@ -328,6 +330,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -368,6 +371,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
