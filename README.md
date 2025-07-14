@@ -124,6 +124,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
@@ -200,6 +201,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Backtracking
 |  |
 | ------- |
