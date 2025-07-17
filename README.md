@@ -85,6 +85,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0035-search-insert-position](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
@@ -256,6 +257,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0088-merge-sorted-array) |
@@ -292,6 +294,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
@@ -312,6 +315,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
@@ -360,6 +364,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
