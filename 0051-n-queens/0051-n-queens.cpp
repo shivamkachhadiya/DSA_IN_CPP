@@ -31,12 +31,13 @@ public:
 
     void nQueens(vector<string>& board, int row, int n,
                  vector<vector<string>>& ans) {
-                    
+
+
         if (row == n) {
             ans.push_back(board);
             return;
         }
-
+ 
         for (int j = 0; j < n; j++) {
             if (issafe(board, row, j, n)) {
                 board[row][j] = 'Q';
