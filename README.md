@@ -121,6 +121,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
@@ -348,6 +349,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
