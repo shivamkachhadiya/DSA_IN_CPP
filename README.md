@@ -149,6 +149,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +325,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
@@ -448,6 +451,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
 
 
