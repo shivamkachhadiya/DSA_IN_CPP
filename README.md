@@ -205,6 +205,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -322,6 +323,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
@@ -370,6 +372,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
