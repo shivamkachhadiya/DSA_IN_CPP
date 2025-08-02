@@ -3,28 +3,16 @@ public:
     bool isIsomorphic(string s, string t) {
         if (s.length() != t.length()) return false;
 
-    unordered_map<char, char> mapST; // s -> t
-    unordered_map<char, char> mapTS; // t -> s
+        unordered_map<char, int> m1, m2;
 
-    for (int i = 0; i < s.length(); ++i) {
-        char c1 = s[i];
-        char c2 = t[i];
+        for (int i = 0; i < s.length(); ++i) {
+            // Store the first occurrence index of each character if not already stored
+            if (m1.find(s[i]) == m1.end()) m1[s[i]] = i;
+            if (m2.find(t[i]) == m2.end()) m2[t[i]] = i;
 
-        // Check mapping from s -> t
-        if (mapST.count(c1)) {
-            if (mapST[c1] != c2) return false;
-        } else {
-            mapST[c1] = c2;
+            // If the pattern (index of first occurrence) doesn't match
+            if (m1[s[i]] != m2[t[i]]) return false;
         }
-
-        // Check mapping from t -> s
-        if (mapTS.count(c2)) {
-            if (mapTS[c2] != c1) return false;
-        } else {
-            mapTS[c2] = c1;
-        }
-    }
-
-    return true;
+        return true;
     }
 };
