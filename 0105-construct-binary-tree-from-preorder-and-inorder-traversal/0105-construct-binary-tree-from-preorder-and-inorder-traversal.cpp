@@ -32,11 +32,9 @@ public:
         // recursive for left
 
         // Build left subtree
-        root->left = solve(inorder, preorder, index, inOrderStart, position - 1,
-                           n, nodeToIndex);
+        root->left = solve(inorder, preorder, index, inOrderStart, position - 1,n, nodeToIndex);
         // Build right subtree
-        root->right = solve(inorder, preorder, index, position + 1, inOrderEnd,
-                            n, nodeToIndex);
+        root->right = solve(inorder, preorder, index, position + 1, inOrderEnd,n, nodeToIndex);
 
         return root;
     }
