@@ -164,6 +164,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
@@ -182,6 +183,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +213,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
@@ -246,6 +249,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
