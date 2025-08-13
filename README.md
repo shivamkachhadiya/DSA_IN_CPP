@@ -168,6 +168,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -191,6 +192,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -219,6 +221,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
