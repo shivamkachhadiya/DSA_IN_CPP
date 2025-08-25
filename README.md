@@ -255,6 +255,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
@@ -499,6 +500,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
@@ -575,6 +577,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 
