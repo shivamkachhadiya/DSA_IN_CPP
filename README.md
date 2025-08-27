@@ -112,6 +112,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
@@ -507,6 +508,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
