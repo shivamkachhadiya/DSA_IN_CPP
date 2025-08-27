@@ -5,7 +5,8 @@ public:
         if (i > n) return 0;    // overshoot
         if (dp[i] != -1) return dp[i];  // already computed
 
-        return dp[i] = solve(n, i + 1, dp) + solve(n, i + 2, dp);
+        dp[i] = solve(n, i + 1, dp) + solve(n, i + 2, dp);
+        return dp[i];
     }
 
     int climbStairs(int n) {
