@@ -4,14 +4,14 @@ public:
         if (i == 0 && j == 0)
             return grid[0][0];
         if (i < 0 || j < 0)
-            return INT_MAX;
+            return 1e9;
         if (dp[i][j] != -1)
             return dp[i][j];
-        int up = f(i - 1, j, dp, grid);
-        int left = f(i, j - 1, dp, grid);
+        int up =  grid[i][j] +f(i - 1, j, dp, grid);
+        int left =  grid[i][j] +f(i, j - 1, dp, grid);
 
         // take min valid path and add current cell
-        return dp[i][j] = grid[i][j] + min(up, left);
+        return dp[i][j] = min(up, left);
     }
 
     int minPathSum(vector<vector<int>>& grid) {
