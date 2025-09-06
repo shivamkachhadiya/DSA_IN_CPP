@@ -19,14 +19,18 @@ public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         ListNode* tempVar1 = head;
         ListNode* tempVar2 = tempVar1->next;
+
         while (tempVar1 != NULL && tempVar2 != NULL) {
             int gcd_ans = gcd(tempVar1->val, tempVar2->val);
 
+            // naya gcd node banao
             ListNode* newNode = new ListNode(gcd_ans);
 
+            // usko tempVar1 aur tempVar2 ke beech mein lagao
             tempVar1->next = newNode;
             newNode->next = tempVar2;
 
+            // aage move karo
             tempVar1 = tempVar2;
             tempVar2 = tempVar1->next;
         }
