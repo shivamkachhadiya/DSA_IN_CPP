@@ -5,6 +5,9 @@
 <h1 align="center">🚀 DSA_IN_CPP</h1>
 <h3 align="center">LeetCode Journey by Shivam Kachhadiya</h3>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ## 📊 GitHub Stats
 
