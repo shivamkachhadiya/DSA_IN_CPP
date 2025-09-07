@@ -5,6 +5,19 @@
 <h1 align="center">🚀 DSA_IN_CPP</h1>
 <h3 align="center">LeetCode Journey by Shivam Kachhadiya</h3>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamkachhadiya&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivamkachhadiya&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkachhadiya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ---
 
 # 🚀 DSA_IN_CPP - LeetCode Journey by Shivam Kachhadiya
