@@ -133,6 +133,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0283-move-zeroes) |
@@ -369,6 +370,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
 ## Linked List
 |  |
 | ------- |
@@ -555,6 +557,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0377-combination-sum-iv) |
