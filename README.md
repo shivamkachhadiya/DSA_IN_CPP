@@ -160,6 +160,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
@@ -567,6 +568,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Union Find
 |  |
