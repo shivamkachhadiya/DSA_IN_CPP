@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+//----------------------recursion only solution---------------------------
      int solve(vector<int>&obs,int currlane,int currpos){
         //base case
         int n=obs.size();
@@ -17,7 +19,8 @@ public:
             return ans;
         }
      }
-    
+//--------------------------recursion + memoization --------------------------------
+
     int solveMem(vector<int>& obs, int currlane, int currpos, vector<vector<int>>& dp) {
         int n=obs.size()-1;
         if(currpos==n)
