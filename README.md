@@ -443,6 +443,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
@@ -572,6 +573,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
