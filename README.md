@@ -445,6 +445,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0443-string-compression](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
@@ -576,6 +577,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
