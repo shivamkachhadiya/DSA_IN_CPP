@@ -441,6 +441,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
@@ -573,6 +574,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
