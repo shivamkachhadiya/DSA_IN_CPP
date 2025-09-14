@@ -312,6 +312,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
@@ -438,6 +439,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
@@ -506,6 +508,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
@@ -562,6 +565,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
