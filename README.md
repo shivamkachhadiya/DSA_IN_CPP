@@ -160,6 +160,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
@@ -610,6 +611,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
