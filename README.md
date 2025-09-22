@@ -320,6 +320,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -621,6 +622,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
@@ -736,6 +738,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
 
 
