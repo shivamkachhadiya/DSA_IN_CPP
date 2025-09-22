@@ -174,6 +174,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
@@ -381,6 +382,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -632,6 +634,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
