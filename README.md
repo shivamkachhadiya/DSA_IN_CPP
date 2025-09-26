@@ -658,6 +658,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
 | ------- |
@@ -707,6 +708,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -718,6 +720,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
@@ -749,6 +752,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
 
 
