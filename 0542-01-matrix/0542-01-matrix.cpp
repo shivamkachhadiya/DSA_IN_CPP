@@ -8,7 +8,7 @@ public:
         queue<pair<pair<int, int>, int>> q;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (mat[i][j] == 0) { // ✅ correct for LeetCode 542
+                if (mat[i][j] == 0) { // 
                     q.push({{i, j}, 0});
                     vis[i][j] = 1;
                 }
