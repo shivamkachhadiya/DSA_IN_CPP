@@ -13,7 +13,7 @@ private:
             int newCol = col + deltaCol[i];
             if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < m &&
                 !vis[newRow][newCol] && mat[newRow][newCol] == 'O') {
-                    dfs(newRow,newCol,vis,mat,deltaRow,deltaCol);
+                dfs(newRow, newCol, vis, mat, deltaRow, deltaCol);
             }
         }
     }
@@ -53,7 +53,7 @@ public:
                 if (!vis[i][j] && mat[i][j] == 'O')
                     // no touch make its 1
                     mat[i][j] = 'X';
-                }
             }
         }
+    }
 };
