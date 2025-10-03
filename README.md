@@ -150,6 +150,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0354-russian-doll-envelopes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0377-combination-sum-iv) |
+| [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0435-non-overlapping-intervals) |
@@ -412,6 +413,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0074-search-a-2d-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
+| [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
@@ -586,6 +588,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 ## Monotonic Queue
 |  |
@@ -740,6 +743,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
