@@ -315,6 +315,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
@@ -340,6 +341,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
@@ -422,6 +424,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0061-rotate-list) |
