@@ -204,6 +204,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -344,6 +345,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -368,6 +370,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -689,6 +692,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
 |  |
 | ------- |
@@ -727,6 +731,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -806,6 +811,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
 
 
