@@ -1,7 +1,7 @@
 class Solution {
 public:
     void solve(vector<int>& nums,vector<vector<int>>&ans,vector<int>&part,int i,int n){
-        if(i>=n){
+        if(i==n){
             ans.push_back(part);
             return;            
         }
