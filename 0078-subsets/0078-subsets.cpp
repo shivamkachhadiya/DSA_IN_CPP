@@ -1,24 +1,24 @@
 class Solution {
 public:
-    void printsubset(vector<int>& arr, vector<int>& subset, vector<vector<int>>& ans, int i) {
-        if (i == arr.size()) {
-            ans.push_back(subset);  // base case: push current subset
-            return;
+    void solve(vector<int>& nums,vector<vector<int>>&ans,vector<int>&part,int i,int n){
+        if(i>=n){
+            ans.push_back(part);
+            return;            
         }
+        //include
+        part.push_back(nums[i]);
+        solve(nums,ans,part,i+1,n);
 
-        // Include the current element
-        subset.push_back(arr[i]);
-        printsubset(arr, subset, ans, i + 1);
-
-        // Exclude the current element (backtrack)
-        subset.pop_back();
-        printsubset(arr, subset, ans, i + 1);
+        //exclude
+        part.pop_back();
+        solve(nums,ans,part,i+1,n);
     }
-
-    vector<vector<int>> subsets(vector<int>& arr) {
-        vector<vector<int>> ans;
-        vector<int> subset;
-        printsubset(arr, subset, ans, 0);
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>>ans;
+        vector<int>part;
+        int i=0;
+        int n=nums.size();
+        solve(nums,ans,part,i,n);
         return ans;
     }
 };
