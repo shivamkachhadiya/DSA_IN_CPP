@@ -198,6 +198,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2181-smallest-index-with-equal-value) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -354,6 +355,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -449,6 +451,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
 |  |
 | ------- |
@@ -536,6 +539,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
