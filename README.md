@@ -189,6 +189,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -567,6 +568,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
@@ -586,6 +588,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -606,6 +609,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -723,6 +727,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
