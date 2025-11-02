@@ -340,6 +340,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0002-add-two-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
@@ -410,6 +411,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0001-two-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -523,6 +525,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
