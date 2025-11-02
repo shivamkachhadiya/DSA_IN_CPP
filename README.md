@@ -201,6 +201,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2181-smallest-index-with-equal-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2181-smallest-index-with-equal-value) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -458,6 +459,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -753,6 +755,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
