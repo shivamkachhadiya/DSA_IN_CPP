@@ -210,6 +210,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -445,6 +446,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -646,6 +648,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
@@ -654,6 +657,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
 | ------- |
