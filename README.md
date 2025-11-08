@@ -395,6 +395,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -757,6 +758,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -875,6 +877,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
 | ------- |
