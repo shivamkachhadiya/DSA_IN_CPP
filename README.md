@@ -570,6 +570,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -643,6 +644,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
@@ -817,6 +819,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Combinatorics
 |  |
 | ------- |
