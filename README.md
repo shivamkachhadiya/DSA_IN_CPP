@@ -209,6 +209,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -372,6 +373,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2288-count-operations-to-obtain-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -884,6 +886,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
