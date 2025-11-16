@@ -365,6 +365,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
@@ -568,6 +569,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
