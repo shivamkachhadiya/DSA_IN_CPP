@@ -5,12 +5,11 @@ public:
         for (int x : nums)
             freq[x]++;
 
-        auto cmp = [&](int a, int b) {
+        sort(nums.begin(), nums.end(), [&](int a, int b) {
             if (freq[a] == freq[b])
-                return a > b;
-            return freq[a] < freq[b];
-        };
-        sort(nums.begin(), nums.end(), cmp);
+                return a > b;         // value descending
+            return freq[a] < freq[b]; // freq ascending
+        });
 
         return nums;
     }
