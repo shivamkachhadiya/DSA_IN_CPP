@@ -174,6 +174,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0759-set-intersection-size-at-least-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
@@ -310,6 +311,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0783-search-in-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
