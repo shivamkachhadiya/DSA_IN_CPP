@@ -1,29 +1,29 @@
 class Solution {
 public:
-    int search(vector<int>& arr, int k) {
-        int n = arr.size();
-        int low = 0, high = n - 1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (arr[mid] == k)
-                return mid;
-            if (arr[low] <= arr[mid]) {
-                // left half sorted
-                if (arr[low] <= k && k <= arr[mid]) {
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
+    int search(vector<int>& arr, int target) {
+        int start = 0, end = arr.size() - 1;
 
-            } else {
-                // right half sorted
-                if (arr[mid] <= k && k <= arr[high]) {
-                    low = mid + 1;
-                } else {
-                    high = mid - 1;
-                }
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            if (arr[mid] == target) return mid;
+
+            // Left half is sorted
+            if (arr[start] <= arr[mid]) {
+                if (arr[start] <= target && target < arr[mid])
+                    end = mid - 1;
+                else
+                    start = mid + 1;
+            } 
+            // Right half is sorted
+            else {
+                if (arr[mid] < target && target <= arr[end])
+                    start = mid + 1;
+                else
+                    end = mid - 1;
             }
         }
+
         return -1;
     }
 };
