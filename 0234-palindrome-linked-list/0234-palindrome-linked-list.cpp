@@ -8,27 +8,25 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- #include <stack>
-
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-         stack<int> s;
-         ListNode* tmp=head;
-         while(tmp!=NULL){
-            s.push(tmp->val);
-            tmp=tmp->next;
-         }
+        ListNode* temp = head;
+        vector<int> arr;
+        while (temp != nullptr) {
+            arr.push_back(temp->val);
 
-        ListNode* curr=head;
-        while(curr!=NULL){
-            if(curr->val!=s.top())return false;
-            else{
-                curr=curr->next;
-                s.pop();
+            temp = temp->next;
+        }
+        int n = arr.size();
+        int start = 0, end = n - 1;
+        while (start <= end) {
+            if (arr[start] != arr[end]) {
+                return false;
             }
+            start++;
+            end--;
         }
         return true;
-        
     }
 };
