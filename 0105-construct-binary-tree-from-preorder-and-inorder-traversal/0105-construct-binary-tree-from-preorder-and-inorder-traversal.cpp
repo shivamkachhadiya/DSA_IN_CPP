@@ -12,39 +12,40 @@
  */
 class Solution {
 public:
-    void createMapping(vector<int>& inorder, map<int, int>& nodeToIndex,
-                       int n) {
+    int findpos(vector<int>& in, int element, int n) {
         for (int i = 0; i < n; i++) {
-            nodeToIndex[inorder[i]] = i;
+            if (in[i] == element) {
+                return i;
+            }
         }
+        return -1;
     }
-    TreeNode* solve(vector<int>& inorder, vector<int>& preorder, int &index,
-                    int inOrderStart, int inOrderEnd, int n,
-                    map<int, int>& nodeToIndex) {
-        if (index >= n || inOrderStart > inOrderEnd) {
+    TreeNode* solve(vector<int>& in, vector<int>& pre, int &index,
+                    int inOrderStart, int inorderEnd, int n) {
+        if (index >= n || inOrderStart > inorderEnd) {
             return NULL;
         }
-        int element = preorder[index];
-        index++;
+        int element = pre[index++];
         TreeNode* root = new TreeNode(element);
-        int position = nodeToIndex[element];
+        int position = findpos(in, element, n);
 
-        // recursive for left
+        //recursive calls
 
-        // Build left subtree
-        root->left = solve(inorder, preorder, index, inOrderStart, position - 1,n, nodeToIndex);
-        // Build right subtree
-        root->right = solve(inorder, preorder, index, position + 1, inOrderEnd,n, nodeToIndex);
+        root->left=solve(in,pre,index,inOrderStart,position-1,n);
+        
+
+        root->right=solve(in,pre,index,position+1,inorderEnd,n);
 
         return root;
+
     }
+
+public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n = preorder.size();
         int preOrderIndex = 0;
-        map<int, int> nodeToIndex;
-        createMapping(inorder, nodeToIndex, n);
-        TreeNode* ans =
-            solve(inorder, preorder, preOrderIndex, 0, n - 1, n, nodeToIndex);
+        int n = inorder.size();
+        TreeNode* ans = solve(inorder, preorder, preOrderIndex, 0, n - 1, n);
+
         return ans;
     }
 };
