@@ -20,7 +20,7 @@ public:
         }
         return -1;
     }
-    TreeNode* solve(vector<int>& in, vector<int>& pre, int &index,
+    TreeNode* solve(vector<int>& in, vector<int>& pre, int& index,
                     int inOrderStart, int inorderEnd, int n) {
         if (index >= n || inOrderStart > inorderEnd) {
             return NULL;
@@ -29,15 +29,13 @@ public:
         TreeNode* root = new TreeNode(element);
         int position = findpos(in, element, n);
 
-        //recursive calls
+        // recursive calls
 
-        root->left=solve(in,pre,index,inOrderStart,position-1,n);
-        
+        root->left = solve(in, pre, index, inOrderStart, position - 1, n);
 
-        root->right=solve(in,pre,index,position+1,inorderEnd,n);
+        root->right = solve(in, pre, index, position + 1, inorderEnd, n);
 
         return root;
-
     }
 
 public:
