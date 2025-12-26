@@ -1,27 +1,26 @@
 class Solution {
-public:
-    int solve(vector<int>& arr, int tar, vector<int>& dp) {
-        if (tar == 0) return 0;
-        if (tar < 0) return INT_MAX;
-
-        if (dp[tar] != -1) return dp[tar];
-
-        int mini = INT_MAX;
-        for (int coin : arr) {
-            int ans = solve(arr, tar - coin, dp);
-            if (ans != INT_MAX) {
-                mini = min(mini, 1 + ans);
-            }
+  public:
+    int solve(vector<int>&arr,int n,int index,int tar,
+        vector<vector<int>>&dp){
+        if(index==0){
+            if(tar%arr[index]==0)return tar/arr[index];
+            else return 1e9;
         }
-
-        return dp[tar] = mini;
+   if (dp[index][tar] != -1)
+            return dp[index][tar];
+            int take=1e9;
+        if(arr[index]<=tar){
+            take=1+solve(arr,n,index,tar-arr[index],dp);
+        }
+        int nottake=0+solve(arr,n,index-1,tar,dp);
+        return dp[index][tar]=min(take,nottake);
     }
-
     int findMin(int tar) {
-        vector<int> arr = {1, 2, 5, 10};
-        vector<int> dp(tar + 1, -1);
-
-        int ans = solve(arr, tar, dp);
-        return (ans == INT_MAX) ? -1 : ans;
+        // code here
+        vector<int>arr={1,2,5,10};
+        int n=arr.size();
+        vector<vector<int>> dp(n, vector<int>(tar + 1, -1));
+        int ans=solve(arr,n,n-1,tar,dp);
+        return (ans >= 1e9) ? -1 : ans;
     }
 };
