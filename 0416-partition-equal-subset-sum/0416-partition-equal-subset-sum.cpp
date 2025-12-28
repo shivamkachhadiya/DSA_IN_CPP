@@ -46,18 +46,22 @@ public:
 
     bool solveTab(vector<int>& arr, int n, int index, int target, int sum,
                   vector<vector<bool>>& dp) {
+        // base case
         for (int i = 0; i <= n; i++)
             dp[i][0] = true;
-         for (int i = 1; i <= n; i++) {
-        for (int s = 1; s <= target; s++) {
-            bool nottake = dp[i-1][s];
-            bool take = false;
-            if (s >= arr[i-1]) take = dp[i-1][s - arr[i-1]];
-            dp[i][s] = take || nottake;
-        }
-    }
 
-    return dp[n][target];
+        // fill table in recursion-like order
+        for (int i = 1; i <= n; i++) {
+            for (int s = 1; s <= target; s++) {
+                bool nottake = dp[i - 1][s];
+                bool take = false;
+                if (s >= arr[i - 1])
+                    take = dp[i - 1][s - arr[i - 1]];
+                dp[i][s] = take || nottake;
+            }
+        }
+
+        return dp[n][target];
     }
 
     bool canPartition(vector<int>& arr) {
@@ -69,7 +73,7 @@ public:
 
         if (target % 2 == 0) {
             target = target / 2;
-            //vector<vector<int>> dp(n, vector<int>(target + 1, -1));
+            // vector<vector<int>> dp(n, vector<int>(target + 1, -1));
 
             // return solve(arr, n, 0, target, 0);
             // return solveMem(arr, n, 0, target, 0, dp);
