@@ -1,58 +1,64 @@
 class Solution {
 public:
-    // Recursive function with memoization
-    bool f(int index, int target, vector<int>& arr, vector<vector<int>>& dp) {
-        // Base case: target found
-        if (target == 0) {
+    bool solve(vector<int>& arr, int n, int index, int target, int sum) {
+        if (sum == target)
             return true;
-        }
+        if (index == n)
+            return false;
+        if (sum > target)
+            return false;
 
-        // Base case: only 1 element left to check
-        if (index == 0) {
-            return arr[0] == target;
-        }
+        // take
+        sum = sum + arr[index];
+        bool take = solve(arr, n, index + 1, target, sum);
 
-        // If already computed, return stored value
-        if (dp[index][target] != -1) {
-            return dp[index][target];
-        }
+        // backtrack
+        sum = sum - arr[index];
 
-        // Choice 1: do not take current element
-        bool notTake = f(index - 1, target, arr, dp);
+        // notake
+        bool nottake = solve(arr, n, index + 1, target, sum);
 
-        // Choice 2: take current element (if possible)
-        bool take = false;
-        if (arr[index] <= target) {
-            take = f(index - 1, target - arr[index], arr, dp);
-        }
-
-        // Store result in dp and return
-        dp[index][target] = take || notTake;
-        return dp[index][target];
+        return take || nottake;
     }
 
-    // Main function: check if array can be partitioned into equal sum subsets
-    bool canPartition(vector<int>& nums) {
-        int n = nums.size();
+    bool solveMem(vector<int>& arr, int n, int index, int target, int sum,
+                  vector<vector<int>>& dp) {
+        if (sum == target)
+            return true;
+        if (index == n)
+            return false;
+        if (sum > target)
+            return false;
+        if (dp[index][sum] != -1)
+            return dp[index][sum];
+        // take
+        sum = sum + arr[index];
+        bool take = solveMem(arr, n, index + 1, target, sum, dp);
 
-        // Step 1: calculate total sum
-        int totalSum = 0;
-        for (int num : nums) {
-            totalSum += num;
+        // backtrack
+        sum = sum - arr[index];
+
+        // notake
+        bool nottake = solveMem(arr, n, index + 1, target, sum, dp);
+
+        return dp[index][sum]=take || nottake;
+    }
+
+    bool canPartition(vector<int>& arr) {
+        int n = arr.size();
+        int target = 0;
+        for (auto x : arr) {
+            target = target + x;
         }
 
-        // Step 2: if sum is odd, partition not possible
-        if (totalSum % 2 != 0) {
+        if (target % 2 == 0) {
+            target = target / 2;
+                    vector<vector<int>> dp(n, vector<int>(target + 1, -1));
+
+            // return solve(arr, n, 0, target, 0);
+            return solveMem(arr, n, 0, target, 0, dp);
+        } else {
             return false;
         }
-
-        // Step 3: target = half of total sum
-        int target = totalSum / 2;
-
-        // Step 4: initialize dp table (n x (target+1)) with -1
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-
-        // Step 5: call recursive function
-        return f(n - 1, target, nums, dp);
     }
 };
