@@ -11,15 +11,16 @@ public:
         if (dp[curr][prev + 1] != -1)
             return dp[curr][prev + 1];
 
-        // Not take
-        int len = solveMem(curr + 1, prev, arr, n, dp);
-
-        // Take
-        if (prev == -1 || arr[curr] > arr[prev]) {
-            len = max(len, 1 + solveMem(curr + 1, curr, arr, n, dp));
+        //take
+        int take=0;
+        if(prev==-1 || arr[curr]>arr[prev]){
+            take=1+solveMem(curr+1,curr,arr,n,dp);
         }
 
-        return dp[curr][prev + 1] = len;
+        //not take
+        int nottake=0+solveMem(curr+1,prev,arr,n,dp);
+
+        return dp[curr][prev + 1] = max(take,nottake);
     }
 
     int solveTab(vector<int>&arr,int n){
@@ -41,7 +42,7 @@ public:
     int lengthOfLIS(vector<int>& arr) {
         int n = arr.size();
         vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        return solveTab(arr,n);
-        //return solveMem(0, -1, arr, n, dp);
+        //return solveTab(arr,n);
+        return solveMem(0, -1, arr, n, dp);
     }
 };
