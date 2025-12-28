@@ -52,42 +52,46 @@ public:
             dp[i][0] = true;
 
         // fill table in recursion-like order
-        for (int index = n - 1; index >= 0;
-             index--) {                         // recursion index 0 → n-1
-            for (int t = 0; t <= target; t++) { // recursion sum 0 → target
-                bool incl = false;
-                if (t - arr[index] >= 0)
-                    incl =
-                        dp[index + 1][t - arr[index]]; // take current element
+        // recursion index 0 → n-1
+        // fill table in recursion-like order using sum variable
+        for (int index = n - 1; index >= 0; index--) {
+            for (int t = 0; t <= target; t++) {
+                int sum = t; // current sum, same as recursion
 
-                bool excl = dp[index + 1][t]; // do not take current element
+                bool incl = false;
+                if (sum - arr[index] >= 0) {
+                    sum = sum - arr[index]; // “take” current element
+                    incl = dp[index + 1][sum];
+                    sum = sum + arr[index]; // backtrack
+                }
+
+                bool excl = dp[index + 1][sum]; // do not take current element
 
                 dp[index][t] = incl || excl;
             }
         }
 
-        // answer starts from index 0, sum 0
         return dp[0][target];
-                  }
+    }
 
-        bool canPartition(vector<int> & arr) {
-            int n = arr.size();
-            int target = 0;
-            for (auto x : arr) {
-                target = target + x;
-            }
-
-            if (target % 2 == 0) {
-                target = target / 2;
-                // vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-
-                // return solve(arr, n, 0, target, 0);
-                // return solveMem(arr, n, 0, target, 0, dp);
-                vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
-
-                return solveTab(arr, n, 0, target, 0, dp);
-            } else {
-                return false;
-            }
+    bool canPartition(vector<int>& arr) {
+        int n = arr.size();
+        int target = 0;
+        for (auto x : arr) {
+            target = target + x;
         }
-    };
+
+        if (target % 2 == 0) {
+            target = target / 2;
+            // vector<vector<int>> dp(n, vector<int>(target + 1, -1));
+
+            // return solve(arr, n, 0, target, 0);
+            // return solveMem(arr, n, 0, target, 0, dp);
+            vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
+
+            return solveTab(arr, n, 0, target, 0, dp);
+        } else {
+            return false;
+        }
+    }
+};
