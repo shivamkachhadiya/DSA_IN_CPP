@@ -429,6 +429,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
@@ -571,6 +572,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0115-distinct-subsequences) |
@@ -755,6 +757,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
