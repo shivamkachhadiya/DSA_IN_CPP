@@ -1,51 +1,48 @@
 class Solution {
   public:
-    int solve(vector<int>&weight,vector<int>&value,int index,int capacity){
-        if(index==0){
-            if(weight[0]<=capacity){
-                return value[0];
-            }else{
-                return 0;
-            }
-        }
+    // int solve(vector<int> &wt, vector<int> &val,int i,int cap){
+    //     if(i==0){
+    //         if(wt[0]<=cap){
+    //             return val[0];
+    //         }else{
+    //             return 0;
+    //         }
+    //     }
         
-        //include
-        int take=0;
-        if(weight[index]<=capacity){
-            take=value[index]+solve(weight,value,index-1,capacity-weight[index]);
-        }
+    //     int include=0;
         
+    //     if(wt[i]<=cap){
+    //         include=val[i]+solve(wt,val,i-1,cap-wt[i]);
+    //     }
         
-        //exclude
-        int NotTake=0+solve(weight,value,index-1,capacity);
+    //     int exclude=0+solve(wt,val,i-1,cap);
         
-        return max(take,NotTake);
-    }
+    //     return max(include,exclude);
+        
+    // }
     
-    int solveMEM(vector<int>&weight,vector<int>&value,int index,int capacity,
-                vector<vector<int>>&dp){
-        if(index==0){
-            if(weight[0]<=capacity){
-                return value[0];
+    int solveMem(vector<int> &wt, vector<int> &val,int i,int cap,vector<vector<int>>&dp){
+        if(i==0){
+            if(wt[0]<=cap){
+                return val[0];
             }else{
                 return 0;
             }
         }
-        
-        if(dp[index][capacity]!=-1)return dp[index][capacity];
-        
-        
-        //include
-        int take=0;
-        if(weight[index]<=capacity){
-            take=value[index]+solveMEM(weight,value,index-1,capacity-weight[index],dp);
+        if(dp[i][cap]!=-1){
+            return dp[i][cap];
         }
         
+        int include=0;
         
-        //exclude
-        int NotTake=0+solveMEM(weight,value,index-1,capacity,dp);
+        if(wt[i]<=cap){
+            include=val[i]+solveMem(wt,val,i-1,cap-wt[i],dp);
+        }
         
-        return dp[index][capacity]=max(take,NotTake);
+        int exclude=0+solveMem(wt,val,i-1,cap,dp);
+        
+        return dp[i][cap]= max(include,exclude);
+        
     }
     
     
@@ -53,6 +50,7 @@ class Solution {
         // code here
         int n=val.size();
         vector<vector<int>>dp(n,vector<int>(W+1,-1));
-        return solveMEM(wt,val,n-1,W,dp);
+        //return solve(wt,val,n-1,W);
+        return solveMem(wt,val,n-1,W,dp);
     }
 };
