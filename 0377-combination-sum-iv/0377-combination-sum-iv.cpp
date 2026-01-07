@@ -1,31 +1,22 @@
 class Solution {
 public:
-
-    // ------------------- Recursive + Memoization -------------------
-    int solveRecursion(vector<int>& nums, int target, vector<long long>& dp) {
-        // Base cases
-        if (target == 0) return 1;    // exact match, 1 way
-        if (target < 0) return 0;     // overshoot, no way
-
-        if (dp[target] != -1) return dp[target];  // already computed
+    int solve(vector<int>&arr,int tar,int n,vector<long long>&dp){
+         if(tar<0)return 0;
+        if(tar==0)return 1;
+        if (dp[tar] != -1) return dp[tar];
 
         long long ans = 0;
 
-        // Try every number in nums
-        for (int i = 0; i < nums.size(); i++) {
-            ans += solveRecursion(nums, target - nums[i], dp);
+        for(int i=0;i<n;i++){
+            ans+=solve(arr,tar-arr[i],n,dp);
         }
+        return dp[tar]=ans;
 
-        dp[target] = ans; // store result for current target
-        return ans;
+        
     }
-
-
-    // ------------------- Main Function -------------------
     int combinationSum4(vector<int>& nums, int target) {
-        // ----- Memoization approach -----
-         vector<long long> dp(target + 1, -1);
-         return (int)solveRecursion(nums, target, dp);
-
+        int n=nums.size();
+        vector<long long>dp(target+1,-1);
+        return (int)solve(nums,target,n,dp);
     }
 };
