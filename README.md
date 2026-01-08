@@ -376,6 +376,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
@@ -437,6 +438,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -791,6 +793,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0377-combination-sum-iv) |
