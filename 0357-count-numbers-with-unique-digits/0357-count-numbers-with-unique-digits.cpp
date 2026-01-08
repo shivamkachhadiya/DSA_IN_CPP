@@ -29,7 +29,7 @@ public:
         // 1-digit unique numbers
         // 2-digit unique numbers
         // 3-digit unique numbers
-        return countNumbersWithUniqueDigits(n - 1) + uniquenumbers_len_n;
+        return uniquenumbers_len_n + countNumbersWithUniqueDigits(n - 1) ;
     }
 };
 
@@ -44,7 +44,7 @@ public:
 
 // Final:
 // 10 + 81 = 91
-
+//================================================
 // Dry Run: n = 3
 // unique length 3 = 9 × 9 × 8 = 648
 // countNumbersWithUniqueDigits(2) = 91
