@@ -13,30 +13,39 @@ class Solution {
         st.push(i);
       
   }
-    vector<int> topoSort(int V, vector<vector<int>>& edges) {
-        // code here
-        vector<bool>visited(V,0);
-        unordered_map<int,list<int>>adj;
-        for(int i=0;i<edges.size();i++){
+  vector<int>solveDFS(int V, vector<vector<int>>& edges){
+      
+    vector<bool>visited(V,0);
+    unordered_map<int,list<int>>adj;
+    for(int i=0;i<edges.size();i++){
             int u=edges[i][0];
             int v=edges[i][1];
             
             adj[u].push_back(v);
         }
-        vector<int>ans;
-        stack<int>st;
-        for(int i=0;i<V;i++){
+    vector<int>ans;
+    stack<int>st;
+    for(int i=0;i<V;i++){
             if (!visited[i]){
                 dfs(i,visited,adj,st);
             }
         }
         
-        while(!st.empty()){
+      
+    while(!st.empty()){
             int val=st.top();
             ans.push_back(val);
             st.pop();
         }
-        return ans;
+               
+        
+    return ans;
+      
+  }
+    vector<int> topoSort(int V, vector<vector<int>>& edges) {
+        // code here
+        return solveDFS(V,edges);
+
        
     }
 };
