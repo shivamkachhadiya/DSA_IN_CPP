@@ -1,26 +1,29 @@
 class Solution {
 public:
-    int minCoins(vector<int>& coins, int amount) {
-        vector<int> dp(amount + 1, INT_MAX);
-        dp[0] = 0; // base case: 0 amount = 0 coins
+    const int INF = 1e9;
 
-        for (int i = 1; i <= amount; i++) {
-            for (int c : coins) {
-                if (i - c >= 0 && dp[i - c] != INT_MAX) {
-                    dp[i] = min(dp[i], 1 + dp[i - c]);
-                }
-            }
+    int solve(vector<int>& coins, int target, int i) {
+        if (target == 0) return 0;
+
+        if (i == 0) {
+            if (target % coins[0] == 0)
+                return target / coins[0];
+            else
+                return INF;
         }
 
-        return dp[amount] == INT_MAX ? -1 : dp[amount];
-    }
-    int coinChange(vector<int>& coins, int amount) {
-        int ans = minCoins(coins, amount);
-        if (ans == -1)
-            return -1;
-        else
-            return ans;
+        int notake = solve(coins, target, i - 1);
+        int take = INF;
 
-        return 0;
+        if (coins[i] <= target)
+            take = 1 + solve(coins, target - coins[i], i);
+
+        return min(take, notake);
+    }
+
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        int ans = solve(coins, amount, n - 1);
+        return (ans >= INF) ? -1 : ans;
     }
 };
