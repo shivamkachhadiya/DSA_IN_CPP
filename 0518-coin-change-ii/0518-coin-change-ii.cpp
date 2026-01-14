@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int change(int amount, vector<int>& coins) {
-        int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
-        return solve(0, amount, coins, dp);
-    }
-
-    int solve(int i, int amt, vector<int>& coins, vector<vector<int>>& dp) {
-        if (amt == 0) return 1;        // found valid way
-        if (i >= coins.size()) return 0; // no coins left
-
-        if (dp[i][amt] != -1) return dp[i][amt];
-
-        int ways = 0;
-        // option 1: skip this coin
-        ways += solve(i + 1, amt, coins, dp);
-        // option 2: take this coin
-        if (amt >= coins[i]) {
-            ways += solve(i, amt - coins[i], coins, dp);
+    int solve(int target,vector<int>&arr,int i,vector<vector<int>>&dp){
+        if (i == 0) {
+            return (target % arr[0] == 0);
         }
 
-        return dp[i][amt] = ways;
+        if(dp[i][target]!=-1)return dp[i][target];
+
+        int take=0;
+        if(arr[i]<=target){
+            take=solve(target-arr[i],arr,i,dp);
+        }
+        int notake=0+solve(target,arr,i-1,dp);
+        return dp[i][target]=take+notake;
+    }
+    int change(int amount, vector<int>& coins) {
+        int n=coins.size();
+        vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
+        int ans=solve(amount,coins,n-1,dp);
+        return ans;
     }
 };
