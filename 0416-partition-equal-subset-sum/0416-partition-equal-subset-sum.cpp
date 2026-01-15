@@ -1,7 +1,7 @@
 class Solution {
 public:
-    bool solve(vector<int>& arr, int n, int i, int target, int sum,
-               vector<vector<int>>& dp) {
+    bool solve(auto &arr, auto n, auto i, auto target, auto sum,
+               auto &dp) {
         if (target < sum) {
             return false;
         }
