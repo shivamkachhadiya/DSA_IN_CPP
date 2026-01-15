@@ -520,6 +520,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
@@ -544,6 +545,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0031-next-permutation) |
