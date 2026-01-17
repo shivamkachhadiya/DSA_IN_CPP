@@ -1,56 +1,46 @@
 class Solution {
 public:
-    int lowerbound(vector<int>& arr, int n, int target) {
-        int start = 0;
-        int end = n - 1;
-        int ans1 = -1;
+    int solve1(vector<int>& arr, int target, int n) {
+        int start=0,end=n-1;
+        int ans=-1;
         while (start <= end) {
             int mid = (start + end) / 2;
             if (arr[mid] == target) {
-                // kuch to hoga.
-                ans1=mid;
+                ans = mid;
                 end = mid - 1;
-               
-            }
-            if (arr[mid] < target) {
-                start = mid + 1;
-            }
-            if (arr[mid] > target) {
-                end = mid - 1;
+            } else if (arr[mid] > target) {
+                end=mid-1;
+            } else {
+               start=mid+1;
             }
         }
-
-        return ans1;
+        return ans;
     }
-    int upperbound(vector<int>& arr, int n, int target) {
-        int start = 0;
-        int end = n - 1;
-        int ans2 = -1;
+
+    int solve2(vector<int>& arr, int target, int n) {
+        int start=0,end=n-1;
+        int ans=-1;
         while (start <= end) {
             int mid = (start + end) / 2;
-           
             if (arr[mid] == target) {
-                // kuch to hoga
-                ans2=mid;
-                start = mid + 1;
-                  
-            }
-            if (arr[mid] < target) {
-                start = mid + 1;
-            }if (arr[mid] > target) {
-                end = mid - 1;
+                ans = mid;
+                start=mid+1;
+            } else if (arr[mid] > target) {
+                end=mid-1;
+            } else {
+                start=mid+1;
             }
         }
-
-        return ans2;
+        return ans;
     }
+
     vector<int> searchRange(vector<int>& arr, int target) {
-        vector<int> ans;
         int n = arr.size();
-        int lb = lowerbound(arr, n, target);
-        int ub = upperbound(arr, n, target);
-        ans.push_back(lb);
-        ans.push_back(ub);
+        int fistoccur = solve1(arr, target, n);
+        int secondocuur = solve2(arr, target, n);
+        vector<int>ans;
+        ans.push_back(fistoccur);
+        ans.push_back(secondocuur);
         return ans;
     }
 };
