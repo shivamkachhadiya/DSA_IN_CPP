@@ -20,16 +20,29 @@ public:
         return count;
     }
     ListNode* deleteMiddle(ListNode* head) {
-        int n = countnodes(head);
-        if(head->next==nullptr)return nullptr;
-        int target = n / 2;
-        int index = 0;
-        auto tmp = head;
-        while (index != target - 1) {
-            index++;
-            tmp = tmp->next;
+        // int n = countnodes(head);
+        // if(head->next==nullptr)return nullptr;
+        // int target = n / 2;
+        // int index = 0;
+        // auto tmp = head;
+        // while (index != target - 1) {
+        //     index++;
+        //     tmp = tmp->next;
+        // }
+        // tmp->next=tmp->next->next;
+        // return head;
+         if(head->next==nullptr)return nullptr;
+        ListNode* dummy=new ListNode(0);
+        dummy->next=head;
+        auto slow=head;
+        auto fast=head;
+        auto prev=dummy;
+        while(fast!=nullptr && fast->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next->next;
+            prev=prev->next;
         }
-        tmp->next=tmp->next->next;
+        prev->next=prev->next->next;
         return head;
     }
 };
