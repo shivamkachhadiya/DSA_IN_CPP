@@ -1,48 +1,26 @@
 class Solution {
 public:
-    int solveMem(int curr, int prev, vector<int>& arr, int n,
-                 vector<vector<int>>& dp) {
-
-        // Base case
-        if (curr == n)
+    int solve(vector<int>&arr,int n,int curr,int prev,vector<vector<int>>&dp){
+        if(curr==n){
             return 0;
+        }
 
-        // Memoization check
-        if (dp[curr][prev + 1] != -1)
-            return dp[curr][prev + 1];
+        if(dp[curr][prev+1]!=-1){
+            return dp[curr][prev+1];
+        }
 
-        //take
         int take=0;
-        if(prev==-1 || arr[curr]>arr[prev]){
-            take=1+solveMem(curr+1,curr,arr,n,dp);
+        if(prev==-1||arr[curr]>arr[prev]){
+            take=1+solve(arr,n,curr+1,curr,dp);
         }
 
-        //not take
-        int nottake=0+solveMem(curr+1,prev,arr,n,dp);
+        int notake=0+solve(arr,n,curr+1,prev,dp);
 
-        return dp[curr][prev + 1] = max(take,nottake);
+        return dp[curr][prev+1]=max(take,notake);
     }
-
-    int solveTab(vector<int>&arr,int n){
-        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
-
-        for(int curr=n-1;curr>=0;curr--){
-            for(int prev=curr-1;prev>=-1;prev--){
-                int take=0;
-                if(prev==-1 || arr[curr]>arr[prev]){
-                    take=1+dp[curr+1][curr+1];
-                }
-                int notTake=0+dp[curr+1][prev+1];
-
-                dp[curr][prev+1]=max(take,notTake);
-            }
-        }
-        return dp[0][0];
-    }
-    int lengthOfLIS(vector<int>& arr) {
-        int n = arr.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        //return solveTab(arr,n);
-        return solveMem(0, -1, arr, n, dp);
+    int lengthOfLIS(vector<int>& nums) {
+     int n=nums.size();
+     vector<vector<int>>dp(n,vector<int>(n+1,-1));
+     return solve(nums,n,0,-1,dp);
     }
 };
