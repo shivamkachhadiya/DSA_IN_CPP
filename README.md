@@ -211,6 +211,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -739,6 +740,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -779,6 +781,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
