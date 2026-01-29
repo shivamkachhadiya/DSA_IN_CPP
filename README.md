@@ -606,6 +606,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0091-decode-ways) |
@@ -647,6 +648,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
@@ -800,6 +802,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0045-jump-game-ii) |
