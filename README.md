@@ -103,6 +103,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
@@ -696,6 +697,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
@@ -800,6 +802,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
