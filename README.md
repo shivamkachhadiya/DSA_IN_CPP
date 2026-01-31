@@ -389,6 +389,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0096-unique-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
@@ -426,6 +427,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [1922-count-good-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -617,6 +619,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
@@ -831,6 +834,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0198-house-robber](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1009,6 +1013,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
