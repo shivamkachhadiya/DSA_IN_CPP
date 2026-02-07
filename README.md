@@ -133,6 +133,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
@@ -482,6 +483,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
@@ -625,6 +627,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0125-valid-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
@@ -839,6 +842,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0198-house-robber) |
@@ -1025,6 +1029,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
@@ -1074,6 +1079,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
 
 
