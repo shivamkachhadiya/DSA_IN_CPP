@@ -1,29 +1,34 @@
 class Solution {
 public:
-    void permute(vector<int>& ds, vector<int>& nums, vector<vector<int>>& ans, vector<int>& freq) {
-        if (ds.size() == nums.size()) {
-            ans.push_back(ds);
+    void solve(vector<int>& arr, vector<vector<int>>& ans,
+                              vector<int>& part, vector<bool>& used, int n,
+                              int i) {
+        if(part.size() == arr.size()) {
+            ans.push_back(part);
             return;
         }
+        for (int i = 0; i < n; i++) {
+            if (used[i])
+                continue; // skip already used elements
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (!freq[i]) {
-                ds.push_back(nums[i]);
-                freq[i] = 1;
+            part.push_back(arr[i]);
+            used[i] = true;
 
-                permute(ds, nums, ans, freq);
+            solve(arr, ans, part,used, n, i);
 
-                freq[i] = 0;
-                ds.pop_back();
-            }
+            part.pop_back();
+            used[i] = false;
+
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
+
         vector<vector<int>> ans;
-        vector<int> ds;
-        vector<int> freq(nums.size(), 0); 
-        permute(ds, nums, ans, freq);
-        return ans;
+        vector<int> part;
+        vector<bool> used(nums.size(), false);
+
+        int n = nums.size();
+         solve(nums, ans, part, used, n, 0);
+         return ans;
     }
 };
