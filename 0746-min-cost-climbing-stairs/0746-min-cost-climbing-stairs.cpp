@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int solve(vector<int>& cost, int n) {
-        // step 1: create dp array
-        vector<int> dp(n + 1);
-
-        // step 2: base case
-        dp[0] = cost[0];
-        dp[1] = cost[1];
-
-        // step 3:loop
-        for (int i = 2; i < n; i++) {
-            dp[i] = cost[i] + min(dp[i - 1], dp[i - 2]);
+    int solve(vector<int>& arr, int n, int i,vector<int>&dp) {
+        if (i < 0) {
+            return 0;
         }
-        return min(dp[n - 1], dp[n - 2]);
+        if (i == 0 || i == 1)
+            return arr[i];
+        if(dp[i]!=-1)return dp[i];
+        return dp[i]=arr[i] + min(solve(arr, n, i - 1,dp), solve(arr, n, i - 2,dp));
     }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        return solve(cost, n);
+        vector<int>dp(n+1,-1);
+        return min(solve(cost,n, n-1,dp), solve(cost, n,n-2,dp));
     }
 };
