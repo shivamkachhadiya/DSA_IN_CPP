@@ -1,23 +1,25 @@
 class Solution {
 public:
-    int f(int i, int j, vector<vector<int>>& dp, vector<vector<int>>& grid) {
-        if (i == 0 && j == 0)
-            return grid[0][0];
+    int ans = 0;
+    int solve(vector<vector<int>>& grid, int i, int j,vector<vector<int>>& dp) {
         if (i < 0 || j < 0)
             return 1e9;
-        if (dp[i][j] != -1)
+        if (i == 0 && j == 0) {
+            return grid[0][0];
+        }
+
+           if (dp[i][j] != -1)
             return dp[i][j];
-        int up =  grid[i][j] +f(i - 1, j, dp, grid);
-        int left =  grid[i][j] +f(i, j - 1, dp, grid);
 
-        // take min valid path and add current cell
-        return dp[i][j] = min(up, left);
+        int top = grid[i][j]+solve(grid, i - 1, j,dp);
+        int left = grid[i][j]+solve(grid, i, j - 1,dp);
+        return dp[i][j]=min(top,left);
     }
-
     int minPathSum(vector<vector<int>>& grid) {
-        int m = grid.size();    // number of rows
-        int n = grid[0].size(); // number of columns
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        return f(m - 1, n - 1, dp, grid);
+        int m = grid.size();
+        int n = grid[0].size();
+                vector<vector<int>> dp(m + 1, vector<int>(n, -1));
+
+        return solve(grid,m - 1, n - 1, dp);
     }
 };
