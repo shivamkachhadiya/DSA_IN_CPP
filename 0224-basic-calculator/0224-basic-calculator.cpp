@@ -21,7 +21,9 @@ public:
                 st.push(result);
                 st.push(sign);
                 result = 0;
+                num=0;
                 sign = 1;
+                
             } else if (ch == ')') {
                 result += sign * num;
                 num = 0;
