@@ -1,5 +1,6 @@
 class MyStack {
 public:
+  queue<int> q; 
     MyStack() {
         
     }
