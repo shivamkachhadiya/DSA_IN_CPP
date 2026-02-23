@@ -17,14 +17,14 @@ public:
             }
             right--;
 
-            if(top<=bottom){
+            if(top<=bottom && left<=right){
                 for(int i=right;i>=left;i--){
                     ans.push_back(mat[bottom][i]);
                 }
                 bottom--;
             }
             
-            if(left<=right){
+            if(top<=bottom && left<=right){
                 for(int i=bottom;i>=top;i--){
                     ans.push_back(mat[i][left]);
                 }
