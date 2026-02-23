@@ -109,6 +109,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0063-unique-paths-ii) |
@@ -528,6 +529,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
@@ -912,6 +914,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
