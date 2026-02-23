@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int solve(int n, int i, vector<int> &dp) {
-        if (i == n) return 1;   // reached the top
-        if (i > n) return 0;    // overshoot
-        if (dp[i] != -1) return dp[i];  // already computed
+    int solve(int n, vector<int>& dp) {
 
-        dp[i] = solve(n, i + 1, dp) + solve(n, i + 2, dp);
-        return dp[i];
+        if (n == 0 || n == 1) {
+            return 1;
+        }
+        if(dp[n]!=-1)return dp[n];
+
+        return dp[n]=solve(n - 1,dp) + solve(n - 2,dp);
     }
-
     int climbStairs(int n) {
-        vector<int> dp(n + 1, -1);
-        return solve(n, 0, dp);
+        vector<int> dp(n+1, -1);
+        return solve(n, dp);
     }
 };
