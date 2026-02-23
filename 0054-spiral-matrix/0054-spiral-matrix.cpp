@@ -7,16 +7,20 @@ public:
         int top=0,bottom=n-1;
         vector<int>ans;
         while(top<=bottom && left<=right){
+                        if(top<=bottom && left<=right){
+
             for(int i=left;i<=right;i++){
                 ans.push_back(mat[top][i]);
             }
             top++;
-            
+                        }
+                        if(top<=bottom && left<=right){
+
             for(int i=top;i<=bottom;i++){
                 ans.push_back(mat[i][right]);
             }
             right--;
-
+                        }
             if(top<=bottom && left<=right){
                 for(int i=right;i>=left;i--){
                     ans.push_back(mat[bottom][i]);
