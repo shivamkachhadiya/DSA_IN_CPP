@@ -161,6 +161,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0354-russian-doll-envelopes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
@@ -408,6 +409,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0368-largest-divisible-subset](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [1922-count-good-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1922-count-good-numbers) |
@@ -498,6 +500,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
@@ -701,6 +704,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
@@ -1098,6 +1102,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
 
 
