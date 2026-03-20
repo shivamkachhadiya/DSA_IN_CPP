@@ -1,4 +1,4 @@
-name: Sync to GitLab
+name: Sync GitHub to GitLab
 
 on:
   push:
@@ -6,14 +6,18 @@ on:
       - main
 
 jobs:
-  sync:
+  mirror:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Push to GitLab
         run: |
+          git config --global user.name "shivamkachhadiya"
+          git config --global user.email "your-email@example.com"
+          
           git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/shivamkachhadiya/dsa-in-cpp.git
+          
           git push gitlab main --force
