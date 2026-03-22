@@ -537,6 +537,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## Matrix
@@ -682,6 +683,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
