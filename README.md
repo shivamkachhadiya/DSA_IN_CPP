@@ -228,6 +228,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2181-smallest-index-with-equal-value) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -624,6 +625,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -945,6 +947,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
