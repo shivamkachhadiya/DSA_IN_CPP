@@ -464,6 +464,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0461-hamming-distance) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
