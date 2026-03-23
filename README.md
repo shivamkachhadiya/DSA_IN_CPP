@@ -404,6 +404,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0069-sqrtx](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
