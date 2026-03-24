@@ -410,6 +410,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0096-unique-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
@@ -514,6 +515,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
@@ -622,6 +624,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
