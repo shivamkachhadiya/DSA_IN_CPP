@@ -335,6 +335,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0354-russian-doll-envelopes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -422,6 +423,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [1922-count-good-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1922-count-good-numbers) |
