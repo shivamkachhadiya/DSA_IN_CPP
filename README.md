@@ -398,6 +398,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0007-reverse-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
@@ -644,6 +645,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0087-scramble-string) |
@@ -949,6 +951,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
