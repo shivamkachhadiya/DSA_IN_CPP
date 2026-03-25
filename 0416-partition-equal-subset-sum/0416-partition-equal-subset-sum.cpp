@@ -1,67 +1,40 @@
 class Solution {
 public:
-    bool solve(auto &arr, auto n, auto i, auto target, auto sum,
-               auto &dp) {
-        if (target < sum) {
-            return false;
-        }
-        if (target == sum) {
+    // We use a 2D vector for memoization: dp[index][current_sum]
+    // Using int instead of bool to store three states: -1 (unvisited), 0 (false), 1 (true)
+    bool solve(vector<int>& nums, int n, int i, int sum, int tar, vector<vector<int>>& dp) {
+        if (sum == tar)
             return true;
-        }
-        if (i == n && target != sum) {
+        if (i >= n || sum > tar)
             return false;
-        }
-
-        if (dp[i][sum] != -1)
+        
+        // Fix 1: Check the 2D DP state
+        if (dp[i][sum] != -1) {
             return dp[i][sum];
-
-        // include
-        bool take = solve(arr, n, i + 1, target, sum + arr[i], dp);
-
-        // exclude
-        bool nottake = solve(arr, n, i + 1, target, sum, dp);
-
-        return dp[i][sum] = take || nottake;
-    }
-
-    bool solveTab(vector<int>& arr, int n, int i, int target, int sum) {
-        vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
-
-        for (int i = 0; i <= n; i++)
-            dp[i][target] = true;
-
-        // i=>0 to n-1
-        // sum=>0 to target
-
-        for (int i = n - 1; i >= 0; i--) {
-            for (int sum = target; sum >= 0; sum--) {
-                // include
-                bool take = false;
-                if (sum + arr[i] <= target)
-                    take = dp[i + 1][sum + arr[i]];
-
-                // exclude
-                bool notake = dp[i + 1][sum];
-
-                dp[i][sum] = take || notake;
-            }
         }
-        return dp[0][0];
+
+        bool take = solve(nums, n, i + 1, sum + nums[i], tar, dp);
+        bool notake = solve(nums, n, i + 1, sum, tar, dp);
+
+        // Fix 2: Store the result in the 2D DP state
+        return dp[i][sum] = (take || notake);
     }
+
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int sum = 0;
-        for (auto i : nums) {
-            sum = sum + i;
+        int totalSum = 0;
+        for (int i : nums) {
+            totalSum += i;
         }
 
-        if (sum % 2 == 0) {
-            int target = sum / 2;
-            // vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-            return solveTab(nums, n, 0, target, sum);
-            // return solve(nums, n, 0, target, 0, dp);
-        } else {
-            return 0;
-        }
+        if (totalSum % 2 != 0) return false;
+
+        int n = nums.size();
+        int tar = totalSum / 2;
+
+        // Fix 3: Initialize a 2D DP table [index][sum]
+        // Size: (number of elements) x (possible sum target + 1)
+        vector<vector<int>> dp(n, vector<int>(tar + 1, -1));
+
+        return solve(nums, n, 0, 0, tar, dp);
     }
 };
