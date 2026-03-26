@@ -178,6 +178,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -474,6 +475,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0461-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -497,6 +499,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Hash Table
@@ -921,6 +924,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1119,6 +1123,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Ordered Set
