@@ -241,6 +241,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -583,6 +584,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
 ## Linked List
@@ -1004,6 +1006,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
