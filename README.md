@@ -298,6 +298,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -386,6 +387,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -602,6 +604,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0086-partition-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0143-reorder-list) |
@@ -1050,6 +1053,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1076,6 +1080,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
