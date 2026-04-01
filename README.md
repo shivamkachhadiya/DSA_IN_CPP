@@ -114,6 +114,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0057-insert-interval](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
@@ -680,6 +681,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0091-decode-ways) |
@@ -993,6 +995,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
