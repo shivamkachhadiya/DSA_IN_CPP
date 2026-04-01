@@ -676,6 +676,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0091-decode-ways) |
