@@ -685,6 +685,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0038-count-and-say](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
