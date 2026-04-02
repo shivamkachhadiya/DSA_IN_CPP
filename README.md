@@ -1178,6 +1178,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
