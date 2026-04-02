@@ -257,6 +257,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -596,6 +597,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Linked List
 |  |
 | ------- |
@@ -982,6 +984,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
