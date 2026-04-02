@@ -112,6 +112,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
@@ -580,6 +581,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0037-sudoku-solver](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
@@ -1004,6 +1006,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0043-multiply-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
