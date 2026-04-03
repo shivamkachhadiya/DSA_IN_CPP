@@ -269,6 +269,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -374,6 +375,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
 | ------- |
@@ -902,6 +904,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -992,6 +995,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
 |  |
