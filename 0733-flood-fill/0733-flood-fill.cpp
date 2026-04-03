@@ -1,37 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
-                                  int color) {
-        int n = image.size();
-        int m = image[0].size();
-
-        int oldColor = image[sr][sc];
-        if (oldColor == color)
-            return image; // edge case
-
-        queue<pair<int, int>> q;
-        q.push({sr, sc});
-        image[sr][sc] = color;
-
-        int drow[] = {-1, 0, 1, 0};
-        int dcol[] = {0, 1, 0, -1};
-        while (!q.empty()) {
-            auto [r, c] = q.front();
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                    image[nrow][ncol] == oldColor) {
-
-                    image[nrow][ncol] = color;
-                    q.push({nrow, ncol});
+void dfs(vector<vector<int>>& image, int i, int j, int newColor,
+        int orgColor) {
+            if(i<0||j<0||i>=image.size()||j>=image[0].size()||
+                image[i][j]==newColor || image[i][j]!=orgColor){
+                    return;
                 }
-            }
-        }
+            image[i][j]=newColor;
+            dfs(image,i-1,j,newColor,orgColor);
+            dfs(image,i,j+1,newColor,orgColor);
+            dfs(image,i+1,j,newColor,orgColor);
+            dfs(image,i,j-1,newColor,orgColor);
+            
 
+}
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+         dfs(image,sr,sc,color,image[sr][sc]);
         return image;
     }
 };
