@@ -254,6 +254,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
@@ -510,6 +511,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -582,6 +584,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
