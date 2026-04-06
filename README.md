@@ -199,6 +199,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
@@ -569,6 +570,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1042,6 +1044,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
