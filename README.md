@@ -803,6 +803,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
 |  |
@@ -1049,6 +1050,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
