@@ -327,6 +327,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -366,6 +367,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0783-search-in-a-binary-search-tree) |
@@ -423,6 +425,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1150,6 +1153,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1176,6 +1180,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
