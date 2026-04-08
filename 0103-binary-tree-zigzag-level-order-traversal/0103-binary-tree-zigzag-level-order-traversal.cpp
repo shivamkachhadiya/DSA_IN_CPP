@@ -6,45 +6,48 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> result;
+        vector<vector<int>> res;
+        if (root == nullptr) return res;
 
-        if (root == nullptr)
-            return result;
+        stack<TreeNode*> s1, s2;
+        s1.push(root);
 
-        queue<TreeNode*> q;
-        q.push(root);
+        while (!s1.empty() || !s2.empty()) {
+            vector<int> temp;
 
-        bool flag = true; // indicate right->left or left->right
+            while (!s1.empty()) {
+                TreeNode* curr = s1.top();
+                s1.pop();
 
-        while (!q.empty()) {
-            auto size = q.size();
-            vector<int> ans(size);
+                temp.push_back(curr->val);
 
-            for (int i = 0; i < size; i++) {
-                auto frontNode = q.front();
-                q.pop();
-
-                auto index = flag ? i : size - i - 1;
-                ans[index] = frontNode->val;
-
-                if (frontNode->left) {
-                    q.push(frontNode->left);
-                }
-                if (frontNode->right) {
-                    q.push(frontNode->right);
-                }
+                if (curr->left) s2.push(curr->left);
+                if (curr->right) s2.push(curr->right);
             }
 
-            result.push_back(ans);
-            flag = !flag;
+            if (!temp.empty()) res.push_back(temp);
+
+            temp.clear();
+
+            while (!s2.empty()) {
+                TreeNode* curr = s2.top();
+                s2.pop();
+
+                temp.push_back(curr->val);
+
+                if (curr->right) s1.push(curr->right);
+                if (curr->left) s1.push(curr->left);
+            }
+
+            if (!temp.empty()) res.push_back(temp);
         }
-        return result;
+
+        return res;
     }
 };
