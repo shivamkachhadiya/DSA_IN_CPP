@@ -319,6 +319,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -350,6 +351,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -412,6 +414,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -785,6 +788,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
@@ -805,6 +809,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1265,6 +1270,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
 
 
