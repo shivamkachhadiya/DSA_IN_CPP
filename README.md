@@ -277,6 +277,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -294,6 +295,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Tree
 |  |
 | ------- |
