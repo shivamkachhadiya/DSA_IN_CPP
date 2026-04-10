@@ -6,22 +6,24 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-void inorder(TreeNode* root,vector<int>& data){
-    if(root==NULL){
-        return;
+    vector<int> temp;
+    void solveVec(TreeNode* root, int k) {
+        if (root == NULL)
+            return;
+        solveVec(root->left, k);
+        temp.push_back(root->val);
+        solveVec(root->right, k);
+        int size = temp.size();
     }
-    inorder(root->left,data);
-    data.push_back(root->val);
-    inorder(root->right,data);
-}
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>data;
-        inorder(root,data);
-        return data[k-1];
+         temp.clear();    
+        solveVec(root, k);
+        return temp[k - 1];        // kth smallest (1‑indexed → k‑1)
     }
 };
