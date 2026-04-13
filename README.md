@@ -233,6 +233,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
