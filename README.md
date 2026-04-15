@@ -254,6 +254,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -782,6 +783,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
