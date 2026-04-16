@@ -271,6 +271,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -397,6 +398,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -613,6 +615,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
