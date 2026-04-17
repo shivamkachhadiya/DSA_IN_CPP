@@ -1,49 +1,62 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-
-        //{{2,0},1}
-        queue<pair<pair<int, int>, int>> q;
-
-        // visited vector
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
-                    q.push({{i, j}, 0});
-                    vis[i][j] = 2;
+        int n=grid.size();
+        int m=grid[0].size();
+        int ans=0;
+        vector<vector<bool>>vis(n,vector<bool>(m,false));
+        queue<pair<pair<int,int>, int>> q;  // Fixed: {{i,j}, time}
+        
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2){
+                    q.push({{i,j},0});
+                    vis[i][j] = true;  // Mark initial rotten
                 }
             }
         }
-        int t = 0;
-        int delrow[] = {-1, 0, +1, 0};
-        int delcol[] = {0, 1, 0, -1};
-        while (!q.empty()) {
-            int row = q.front().first.first;
-            int col = q.front().first.second;
-            int time = q.front().second;
+        //bfs
+        while(q.size()>0){
+            int i=q.front().first.first;
+            int j=q.front().first.second;
+            int time=q.front().second;
             q.pop();
-            t = max(time, t);
-            for (int i = 0; i < 4; i++) {
-                int N_row = delrow[i] + row;
-                int N_col = delcol[i] + col;
-                if (N_row >= 0 && N_col >= 0 && N_row < n && N_col < m &&
-                    vis[N_row][N_col] != 2 && grid[N_row][N_col] == 1) {
-                    q.push({{N_row, N_col}, time + 1});
-                    vis[N_row][N_col] = 2;
-                }
+            ans=max(ans,time);
+
+            if(i-1 >=0 && !vis[i-1][j] && grid[i-1][j]==1){
+                q.push({{i-1,j},time+1});
+                vis[i-1][j]=true;
             }
+
+            
+            if(j+1 < m && !vis[i][j+1] && grid[i][j+1]==1){
+                q.push({{i,j+1},time+1});
+                vis[i][j+1]=true;
+            }
+
+            
+            if(i+1 < n && !vis[i+1][j] && grid[i+1][j]==1){
+                q.push({{i+1,j},time+1});
+                vis[i+1][j]=true;
+            }
+
+            
+            if(j-1 >=0 && !vis[i][j-1] && grid[i][j-1]==1){
+                q.push({{i,j-1},time+1});
+                vis[i][j-1]=true;
+            }
+
         }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (vis[i][j] != 2 && grid[i][j] == 1) {
+
+        //check for fresh orange
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==1 && !vis[i][j]){
                     return -1;
                 }
             }
         }
-        return t;
+
+        return ans;
     }
 };
