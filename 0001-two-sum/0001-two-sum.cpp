@@ -1,22 +1,31 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-
-        unordered_map<int,int>mp;
-        vector<int>ans;
-        for(int i=0;i<nums.size();i++){
-            int findmore=target-nums[i];
-            if(mp.find(findmore)!=mp.end()){
-                ans.push_back(i);
-                ans.push_back(mp[findmore]);
-                break;
-            }
-            mp[nums[i]]=i;
+        vector<pair<int, int>> pairs;
+        
+        for(int i = 0; i < nums.size(); i++) {
+            pairs.push_back({nums[i], i});
         }
-
-        return ans;
         
+        sort(pairs.begin(), pairs.end());
         
+        int left = 0;
+        int right = pairs.size() - 1;
         
+        while(left < right) {
+            int sum = pairs[left].first + pairs[right].first;
+            
+            if(sum == target) {
+                return {pairs[left].second, pairs[right].second};
+            }
+            else if(sum < target) {
+                left++;
+            }
+            else {
+                right--;
+            }
+        }
+        
+        return {};  // No solution found
     }
 };
