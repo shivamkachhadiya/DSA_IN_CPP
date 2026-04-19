@@ -236,6 +236,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -395,6 +396,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -727,6 +729,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0977-squares-of-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
