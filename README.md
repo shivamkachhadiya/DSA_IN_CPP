@@ -234,6 +234,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -1203,6 +1204,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -1296,6 +1298,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
