@@ -183,6 +183,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
@@ -548,6 +549,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0461-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -578,6 +580,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0216-combination-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
+| [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
@@ -612,6 +615,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
