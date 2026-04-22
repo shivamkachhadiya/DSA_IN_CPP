@@ -737,6 +737,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0908-middle-of-the-linked-list) |
@@ -794,6 +795,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
@@ -1066,6 +1068,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
