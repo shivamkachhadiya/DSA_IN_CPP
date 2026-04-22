@@ -576,6 +576,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
@@ -787,6 +788,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
