@@ -268,6 +268,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
+| [2615-sum-of-distances](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -636,6 +637,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
+| [2615-sum-of-distances](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -1162,6 +1164,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2615-sum-of-distances](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
