@@ -781,6 +781,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0065-valid-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0091-decode-ways) |
@@ -844,6 +845,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
