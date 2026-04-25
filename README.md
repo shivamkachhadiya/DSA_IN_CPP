@@ -283,6 +283,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -413,6 +414,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -512,6 +514,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1010,6 +1013,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1358,6 +1362,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Iterator
 |  |
 | ------- |
