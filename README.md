@@ -342,6 +342,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0112-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -444,6 +445,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0112-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
@@ -702,6 +704,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0143-reorder-list) |
@@ -1224,6 +1227,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0112-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
@@ -1258,6 +1262,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
