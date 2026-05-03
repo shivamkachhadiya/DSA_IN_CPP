@@ -834,6 +834,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
@@ -1314,6 +1315,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
