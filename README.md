@@ -300,6 +300,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -531,6 +532,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -666,6 +668,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -1316,6 +1319,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
@@ -1329,6 +1333,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
