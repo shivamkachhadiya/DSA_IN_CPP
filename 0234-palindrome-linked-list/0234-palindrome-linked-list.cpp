@@ -10,25 +10,23 @@
  */
 class Solution {
 public:
-    void solve(ListNode* head, vector<int>& arr) {
-
-        while (head != nullptr) {
-            arr.push_back(head->val);
-            head = head->next;
-        }
-    }
     bool isPalindrome(ListNode* head) {
-        vector<int> arr;
-        solve(head, arr);
-        int n = arr.size();
-        int start = 0, end = n - 1;
-        while (start <= end) {
-            if (arr[start] != arr[end]) {
+        stack<ListNode*> st;
+        ListNode* temp = head;
+        while (temp != nullptr) {
+            st.push(temp);
+            temp = temp->next;
+        }
+        ListNode* t1 = head;
+        while (!st.empty()) {
+            ListNode* front = st.top();
+            if (front->val != t1->val) {
                 return false;
             }
-            start++;
-            end--;
+            st.pop();
+            t1 = t1->next;
         }
         return true;
+        
     }
 };
