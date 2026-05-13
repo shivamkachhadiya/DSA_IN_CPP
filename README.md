@@ -198,6 +198,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
@@ -516,6 +517,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [0553-optimal-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0788-rotated-digits) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
@@ -610,6 +612,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
