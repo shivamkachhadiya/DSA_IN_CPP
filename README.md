@@ -628,6 +628,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
@@ -732,6 +733,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0206-reverse-linked-list) |
@@ -907,6 +909,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
@@ -1439,6 +1442,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
 
 
