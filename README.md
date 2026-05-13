@@ -144,6 +144,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0136-single-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
@@ -493,6 +494,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0069-sqrtx](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
@@ -629,6 +631,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0141-linked-list-cycle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
@@ -1427,6 +1430,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Iterator
