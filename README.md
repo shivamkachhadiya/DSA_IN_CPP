@@ -603,6 +603,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
@@ -837,6 +838,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
@@ -1317,6 +1319,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0207-course-schedule](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
