@@ -11,22 +11,22 @@
  */
 class Solution {
 public:
+    void solve(TreeNode* root,vector<int>&temp){
+        if(root==NULL)return;
+        temp.push_back(root->val);
+        solve(root->left,temp);
+        solve(root->right,temp);
+    }
     void flatten(TreeNode* root) {
-        TreeNode* curr = root;
-        while (curr != NULL) {
-            if (curr->left) {
-                TreeNode* prev = curr->left;
-                // Find rightmost node of left subtree
-                while (prev->right) {
-                    prev = prev->right;
-                }
-                // Connect it to current's right subtree
-                prev->right = curr->right;
-                // Move left subtree to right
-                curr->right = curr->left;
-                curr->left = NULL; // important step
-            }
-            curr = curr->right;
+        if(root == NULL) return;   // add this
+
+        vector<int>temp;
+        solve(root,temp);
+        TreeNode* newRoot=root;
+        for(int i=1;i<temp.size();i++){
+            newRoot->left=NULL;
+            newRoot->right=new TreeNode(temp[i]);
+            newRoot=newRoot->right;
         }
     }
 };
