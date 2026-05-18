@@ -1,24 +1,26 @@
 class Solution {
-public:
-    int maxSum = INT_MIN;
+private:
+    int dfs(TreeNode* node, int& res) {
+        if (node==NULL) {
+            return 0;
+        }
 
-    int helper(TreeNode* root) {
-        if (!root) return 0;
+        // Recursively compute the maximum sum of the left and right subtree
+        // paths.
+        int leftSum = max(0, dfs(node->left, res));
+        int rightSum = max(0, dfs(node->right, res));
 
-        int left = max(0, helper(root->left));
-        int right = max(0, helper(root->right));
+        // Update the maximum path sum encountered so far (with split).
+        res = max(res, leftSum + rightSum + node->val);
 
-        // Path passing through current node
-        int currentPath = root->val + left + right;
-
-        maxSum = max(maxSum, currentPath);
-
-        // Return max gain to parent
-        return root->val + max(left, right);
+        // Return the maximum sum of the path (without split).
+        return max(leftSum, rightSum) + node->val;
     }
 
+public:
     int maxPathSum(TreeNode* root) {
-        helper(root);
-        return maxSum;
+        int res = root->val;
+        dfs(root, res);
+        return res;
     }
 };
