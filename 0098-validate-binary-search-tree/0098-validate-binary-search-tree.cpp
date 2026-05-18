@@ -11,20 +11,18 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>&data){
+    void solve(TreeNode* root,vector<int>&ans){
         if(root==NULL)return;
-        
-        inorder(root->left,data);
-        data.push_back(root->val);
-        inorder(root->right,data);
-        
+        solve(root->left,ans);
+                ans.push_back(root->val);
+
+        solve(root->right,ans);
     }
     bool isValidBST(TreeNode* root) {
-        if(root==NULL)return true;
-        vector<int>data;
-        inorder(root,data);
-        for(int i=1;i<data.size();i++){
-            if(data[i]<=data[i-1]){
+        vector<int>ans;
+        solve(root,ans);
+        for(int i=ans.size()-1;i>=1;i--){
+            if(ans[i]<=ans[i-1]){
                 return false;
             }
         }
