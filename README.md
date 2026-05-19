@@ -367,6 +367,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -475,6 +476,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -852,6 +854,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0344-reverse-string) |
@@ -933,6 +936,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
@@ -1303,6 +1307,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1339,6 +1344,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
