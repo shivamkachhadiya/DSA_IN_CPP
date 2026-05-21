@@ -1,3 +1,20 @@
+// class Solution {
+// public:
+//     int solve(vector<vector<int>>& grid,int i,int j){
+//         if(i==0&&j==0)return grid[0][0];
+//         if(i < 0 || j < 0 )return 1e9;
+//         int top=grid[i][j]+solve(grid,i-1,j);
+//         int left=grid[i][j]+solve(grid,i,j-1);
+//         return min(top,left);
+//     }
+//     int minPathSum(vector<vector<int>>& grid) {
+//         int n=grid.size();
+//         int m=grid[0].size();
+// return solve(grid, n-1, m-1);
+//     }
+// };
+
+
 class Solution {
 public:
     int ans = 0;
