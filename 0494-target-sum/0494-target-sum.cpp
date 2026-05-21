@@ -1,26 +1,21 @@
 class Solution {
 public:
-    int f(vector<int>& nums, int target) {
-    int total = accumulate(nums.begin(), nums.end(), 0);
-
-    // If impossible, return 0
-    if ((total + target) % 2 != 0 || abs(target) > total) return 0;
-
-    int P = (total + target) / 2;
-
-    vector<int> dp(P + 1, 0);
-    dp[0] = 1;  // One way to make sum 0 (choose nothing)
-
-    for (int num : nums) {
-        // Traverse backward to avoid reusing elements
-        for (int j = P; j >= num; j--) {
-            dp[j] += dp[j - num];
+    int count = 0;
+    void solve(vector<int>&arr,int target,int n,int i,int sum){
+        if(i>=n){
+            if(sum==target){
+                count++;
+                return;
+            }else{
+                return;
+            }
         }
+        
+        solve(arr,target,n,i+1,sum+arr[i]);
+        solve(arr,target,n,i+1,sum-arr[i]);
     }
-
-    return dp[P];
-}
     int findTargetSumWays(vector<int>& nums, int target) {
-        return f(nums, target);
+        solve(nums,target,nums.size(),0,0);
+        return count;
     }
 };
