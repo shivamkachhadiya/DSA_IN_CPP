@@ -43,8 +43,8 @@
 
 ## 📌 About Me
 <p align="center">
-  <a href="https://leetcode.com/u/kshivay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kshivay?ext=heatmap" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
+  <a href="https://leetcode.com/u/shivamkachhadiya/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/shivamkachhadiya?ext=heatmap" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
   </a>
 </p>
 
@@ -1542,9 +1542,9 @@ Stay tuned! I’m working on integrating:
 
 ## 📬 Connect With Me
 
-- 📧 Email: [kshivay@gmail.com](mailto:kshivay@gmail.com)
+- 📧 Email: [shivamkachhadiya@gmail.com](mailto:shivamkachhadiya@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/shivamkachhadiya](https://www.linkedin.com/in/shivam012/)
-- 🧠 LeetCode: [leetcode.com/shivamkachhadiya](https://leetcode.com/u/kshivay/)
+- 🧠 LeetCode: [leetcode.com/shivamkachhadiya](https://leetcode.com/u/shivamkachhadiya/)
 
 ---
 
