@@ -199,6 +199,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
@@ -592,6 +593,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -627,6 +629,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1165,6 +1168,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0650-2-keys-keyboard](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
@@ -1397,6 +1401,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
@@ -1425,6 +1430,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Ordered Set
