@@ -507,6 +507,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0070-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
@@ -649,6 +650,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0146-lru-cache](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
@@ -847,6 +849,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
