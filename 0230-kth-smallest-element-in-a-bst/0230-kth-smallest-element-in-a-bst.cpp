@@ -13,20 +13,19 @@ class Solution {
 public:
     int count=0;
     int ans=0;
-    void solve(TreeNode* root,int k){
-        if(root==NULL){
+    void inorder(TreeNode* root,int &k){
+        if(root==NULL)return;
+        inorder(root->left,k);
+        //count++;
+        k--;
+        if(k==0){
+            ans=root->val;
             return;
         }
-        solve(root->left,k);
-        count++;
-        if(count==k){
-             ans=root->val;
-             return;
-        }
-        solve(root->right,k);
+        inorder(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        solve(root,k);
+       inorder(root,k);
         return ans;
     }
 };
