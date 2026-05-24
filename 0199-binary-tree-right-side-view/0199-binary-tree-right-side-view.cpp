@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-    vector<int>solve(TreeNode* root,vector<int>&result,int level){
-        if(!root)return result;
-        if(level==result.size()){
-            result.push_back(root->val);
+    vector<int>solve(TreeNode*root,vector<int>&ans,int level){
+        if(root==NULL)return ans;
+        if(level==ans.size()){
+            ans.push_back(root->val);
         }
-        solve(root->right,result,level+1);
-        solve(root->left,result,level+1);
-        return result;
+        if(root->right){
+            solve(root->right,ans,level+1);
+        }
+            solve(root->left,ans,level+1);
+        
+        return ans;
     }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>result;
-        return solve(root,result,0);
+        vector<int>ans;
+        if(root==NULL)return ans;
+        return solve(root,ans,0);
     }
 };
