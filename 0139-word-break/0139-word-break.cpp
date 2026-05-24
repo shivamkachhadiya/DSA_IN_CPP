@@ -1,21 +1,60 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> dict(wordDict.begin(), wordDict.end());
-        int n = s.size();
+    bool solve(int start, string s, unordered_set<string>& st) {
 
-        vector<bool> dp(n + 1, false);
-        dp[0] = true; // empty string
+        // whole string consumed
+        if (start == s.size())
+            return true;
 
-        for (int i = 1; i <= n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (dp[j] && dict.count(s.substr(j, i - j))) {
-                    dp[i] = true;
-                    break;
-                }
+        string temp = "";
+
+        for (int i = start; i < s.size(); i++) {
+
+            temp += s[i];
+
+            // word found in dictionary
+            if (st.find(temp) != st.end()) {
+
+                // check remaining part
+                if (solve(i + 1, s, st))
+                    return true;
             }
         }
 
-        return dp[n];
+        return false;
+    }
+
+    bool solveMemo(int start, string s, unordered_set<string>& st,vector<int>& dp) {
+
+        // whole string consumed
+        if (start == s.size())
+            return true;
+
+        if(dp[start]!=-1)return dp[start];
+
+        string temp = "";
+
+        for (int i = start; i < s.size(); i++) {
+
+            temp += s[i];
+
+            // word found in dictionary
+            if (st.find(temp) != st.end()) {
+
+                // check remaining part
+                if (solveMemo(i + 1, s, st, dp))
+                    return dp[start]=true;
+            }
+        }
+
+        return dp[start]=false;
+    }
+    bool wordBreak(string s, vector<string>& wordDict) {
+
+        unordered_set<string> st(wordDict.begin(), wordDict.end());
+
+        vector<int> dp(s.size(), -1);
+
+        return solveMemo(0, s, st,dp);
     }
 };
