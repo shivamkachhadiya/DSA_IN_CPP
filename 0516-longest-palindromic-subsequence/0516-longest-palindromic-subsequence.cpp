@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int solve(string &text1,string &text2,int n1,int n2,int i,int j,vector<vector<int>>&dp){
-        if (i >= n1 || j >= n2) return 0;
+    int solve(string &s1,string &s2,int n1,int n2,int i,int j,vector<vector<int>>&dp){
+        if(i==n1||j==n2)return 0;
         if(dp[i][j]!=-1)return dp[i][j];
-        if(text1[i]==text2[j]){
-            return 1+solve(text1,text2,n1,n2,i+1,j+1,dp);
+        if(s1[i]==s2[j]){
+            return dp[i][j]=1+solve(s1,s2,n1,n2,i+1,j+1,dp);
         }
-        else{
-            dp[i][j]= max(solve(text1,text2,n1,n2,i+1,j,dp),solve(text1,text2,n1,n2,i,j+1,dp));
-        }
-        return dp[i][j];
+        return dp[i][j]=max(solve(s1,s2,n1,n2,i+1,j,dp),solve(s1,s2,n1,n2,i,j+1,dp));
     }
-    int longestPalindromeSubseq(string s) {
-        string s2=s;
-        reverse(s.begin(), s.end());
-        int n1=s.size();
-        int n2=s2.size();
-        int i=0;
-        int j=0;
-        vector<vector<int>>dp(n1,vector<int>(n2,-1));
-        return solve(s,s2,n1,n2,i,j,dp);
-
+    int longestPalindromeSubseq(string s1) {
+        string s2=s1;
+        int n=s1.size();
+        reverse(s2.begin(),s2.end());
+        //now s1=bbbab
+        //    s2=babbb
+        vector<vector<int>>dp(n,vector<int>(n,-1));
+        return solve(s1,s2,s1.size(),s2.size(),0,0,dp);
     }
 };
