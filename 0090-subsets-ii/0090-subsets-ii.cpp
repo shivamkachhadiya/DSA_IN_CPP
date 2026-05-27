@@ -1,33 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> solve(vector<int>& arr, int n, vector<int>& part,
-                              vector<vector<int>>& ans,
-                              int i, bool prevTaken) {
-
-        if (i == n) {
+    void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int>& part, int i) {
+        if (i == nums.size()) {
             ans.push_back(part);
-            return ans;
+            return;
         }
-
-        // 🔴 NOT TAKE
-        solve(arr, n, part, ans, i + 1, false);
-
-        // 🔴 TAKE (only if allowed)
-        if (i > 0 && arr[i] == arr[i - 1] && !prevTaken)
-            return ans;
-
-        part.push_back(arr[i]);
-        solve(arr, n, part, ans, i + 1, true);
+        // Include nums[i]
+        part.push_back(nums[i]);
+        solve(nums, ans, part, i + 1);
         part.pop_back();
-
-        return ans;
+        // Exclude nums[i]
+        solve(nums, ans, part, i + 1);
     }
-
-    vector<vector<int>> subsetsWithDup(vector<int>& arr) {
-        sort(arr.begin(), arr.end());
+    
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> part;
-        solve(arr, arr.size(), part, ans, 0, false);
+        sort(nums.begin(), nums.end());  // Sort to handle duplicates
+        solve(nums, ans, part, 0);
+        
+        // Remove duplicate subsets
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+        
         return ans;
     }
 };
