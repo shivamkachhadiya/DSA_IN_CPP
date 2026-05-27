@@ -1,34 +1,32 @@
 class Solution {
 public:
-    void solve(vector<int>& arr, vector<vector<int>>& ans,
-                              vector<int>& part, vector<bool>& used, int n,
-                              int i) {
-        if(part.size() == arr.size()) {
+    void solve(vector<int>&arr,int n,vector<bool>&vis,vector<int>&part,vector<vector<int>>&ans){
+        if(part.size()==n){
             ans.push_back(part);
             return;
         }
-        for (int i = 0; i < n; i++) {
-            if (used[i])
-                continue; // skip already used elements
-
+        for(int i=0;i<n;i++){
+            
+            if(vis[i]==true)continue;
+            //include
             part.push_back(arr[i]);
-            used[i] = true;
+            vis[i]=true;
 
-            solve(arr, ans, part,used, n, i);
+            //recursive call
+            solve(arr,n,vis,part,ans);
 
+            //backtrack
             part.pop_back();
-            used[i] = false;
-
+            vis[i]=false;
         }
     }
-    vector<vector<int>> permute(vector<int>& nums) {
+    vector<vector<int>> permute(vector<int>& arr) {
+        int n=arr.size();
+        vector<bool>vis(n,false);
+        vector<vector<int>>ans;
+        vector<int>part;
+        solve(arr,n,vis,part,ans);
+        return ans;
 
-        vector<vector<int>> ans;
-        vector<int> part;
-        vector<bool> used(nums.size(), false);
-
-        int n = nums.size();
-         solve(nums, ans, part, used, n, 0);
-         return ans;
     }
 };
