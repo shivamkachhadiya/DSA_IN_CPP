@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // 1,1,2,5,6,7,10  after sort
     void solve(vector<int>& arr, int target, vector<int>& part,
                vector<vector<int>>& ans, int i, int sum) {
         if (i == arr.size()) {
@@ -27,6 +28,8 @@ public:
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end()); // Sort to handle duplicates
+        // 10,1,2,7,6,1,5  without sort
+        // 1,1,2,5,6,7,10  after sort
         vector<int> part;
         vector<vector<int>> ans;
         solve(candidates, target, part, ans, 0, 0);
