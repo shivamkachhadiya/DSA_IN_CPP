@@ -690,6 +690,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
@@ -830,6 +831,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
@@ -899,6 +901,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
@@ -1013,6 +1016,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0763-partition-labels) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
