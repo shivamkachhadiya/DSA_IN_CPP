@@ -530,6 +530,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0233-number-of-digit-one) |
@@ -1515,6 +1516,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0223-rectangle-area) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Iterator
