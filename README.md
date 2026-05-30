@@ -535,6 +535,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1253,6 +1254,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0059-spiral-matrix-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
@@ -1421,6 +1423,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
