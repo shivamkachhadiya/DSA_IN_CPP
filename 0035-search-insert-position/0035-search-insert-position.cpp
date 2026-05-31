@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        int size = nums.size();  // Correct way to get the size of a vector
-
-
-           for(int i=0;i<size;i++){
-                if(target==nums[i]){
-                    return i;
-                }else if(target<nums[i]){
-                    return i;
-                }
+    int searchInsert(vector<int>& arr, int target) {
+        int start=0;
+        int n=arr.size();
+        int end=n-1;
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(arr[mid]==target)return mid;
+            if(arr[mid]<target){
+                start=mid+1;
+            }else{
+                end=mid-1;
             }
-
-
-
-            return size;            
-
-        
+        }
+        return start;
     }
 };
