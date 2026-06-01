@@ -163,6 +163,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
@@ -340,6 +341,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
@@ -1082,6 +1084,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
@@ -1105,6 +1108,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0274-h-index) |
@@ -1460,10 +1464,12 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Game Theory
 |  |
@@ -1486,6 +1492,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1570,6 +1577,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
 
 
