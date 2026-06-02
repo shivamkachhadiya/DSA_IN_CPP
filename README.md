@@ -901,6 +901,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0187-repeated-dna-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
@@ -993,6 +994,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0155-min-stack](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1377,6 +1379,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1538,6 +1541,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0139-word-break](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Counting Sort
