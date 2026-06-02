@@ -543,6 +543,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0204-count-primes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
@@ -904,6 +905,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
@@ -971,6 +973,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
