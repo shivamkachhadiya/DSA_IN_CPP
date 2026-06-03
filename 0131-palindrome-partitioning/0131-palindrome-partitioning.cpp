@@ -1,37 +1,42 @@
 class Solution {
 public:
-
-    bool isPalin(string &s) {
-        int l = 0, r = s.size() - 1;
-        while (l < r) {
-            if (s[l] != s[r]) return false;
-            l++;
-            r--;
+    vector<vector<string>> result;
+    bool isPalindrome(string& s, int start, int end) {
+        while (start < end) {
+            if (s[start] != s[end]) {
+                return false;
+            }
+            start++;
+            end--;
         }
         return true;
     }
 
-    void getAllParts(string s, vector<string> &partitions, vector<vector<string>> &ans) {
-        if (s.size() == 0) {
-            ans.push_back(partitions);
+    void solve(string &s,int start,vector<string>&path){
+        if (start == s.length()) {
+            result.push_back(path);
             return;
         }
 
-        for (int i = 0; i < s.size(); i++) {
-            string part = s.substr(0, i + 1);
+        for(int i=start;i<s.size();i++){
+            if(isPalindrome(s,start,i)){
+                //pick add in curr
+                path.push_back(s.substr(start,i-start+1));
 
-            if (isPalin(part)) {
-                partitions.push_back(part);
-                getAllParts(s.substr(i + 1), partitions, ans);
-                partitions.pop_back();
+                //recursive
+                solve(s,i+1,path);
+
+                //backtrack
+                path.pop_back();
             }
         }
+
+
     }
 
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
-        vector<string> partitions;
-        getAllParts(s, partitions, ans);
-        return ans;
+        vector<string> path;
+        solve(s, 0, path);
+        return result;
     }
 };
