@@ -172,6 +172,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0268-missing-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1002,6 +1003,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
@@ -1568,6 +1570,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0284-peeking-iterator) |
 ## Quickselect
 |  |
 | ------- |
