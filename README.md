@@ -175,6 +175,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0284-peeking-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -347,6 +348,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0191-number-of-1-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
@@ -1005,6 +1007,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0232-implement-queue-using-stacks](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
@@ -1487,11 +1490,13 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Game Theory
 |  |
