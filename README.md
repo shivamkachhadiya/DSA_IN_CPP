@@ -396,6 +396,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0427-construct-quad-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0572-subtree-of-another-tree) |
@@ -510,6 +511,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0572-subtree-of-another-tree) |
@@ -1405,6 +1407,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
@@ -1447,6 +1450,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0513-find-bottom-left-tree-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
