@@ -1,29 +1,23 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n = height.size();
-        if (n <= 2) return 0; // Not enough bars to trap water
-        
-        int left = 0, right = n - 1;
-        int leftMax = 0, rightMax = 0;
-        int waterTrapped = 0;
+        int n=height.size();
+        int left_max=0,right_max=0;
+        int start=0;
+        int end=n-1;
+        int ans=0;
+        while(start<end){
+            left_max=max(left_max,height[start]);
+            right_max=max(right_max,height[end]);
 
-        while (left < right) {
-            if (height[left] <= height[right]) {
-                if (height[left] >= leftMax)
-                    leftMax = height[left];
-                else
-                    waterTrapped += leftMax - height[left];
-                left++;
-            } else {
-                if (height[right] >= rightMax)
-                    rightMax = height[right];
-                else
-                    waterTrapped += rightMax - height[right];
-                right--;
+            if(left_max<right_max){
+                ans+=left_max-height[start];
+                start++;
+            }else{
+                ans+=right_max-height[end];
+                end--;
             }
         }
-
-        return waterTrapped;
+        return ans;
     }
 };
