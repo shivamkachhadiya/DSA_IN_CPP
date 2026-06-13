@@ -8,25 +8,25 @@
  */
 class Solution {
 public:
-    ListNode* detectCycle(ListNode* head) {
-        auto slow = head;
-        auto fast = head;
-        if (head == nullptr)
-            return nullptr;
-
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
-            if (slow == fast) {
-                // cycle exist;
-                slow = head;
-                while (slow != fast) {
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-                return slow;
+    ListNode *detectCycle(ListNode *head) {
+        ListNode* slw=head;
+        ListNode* fst=head;
+        while (fst != nullptr && fst->next != nullptr) {
+            slw=slw->next;
+            fst=fst->next->next;
+             if (slw == fst) {  // Cycle detected
+                break;
             }
         }
-        return nullptr;
+        if (fst == nullptr || fst->next == nullptr) {
+            return nullptr;
+        }
+        slw=head;
+        while(slw!=fst){
+            slw=slw->next;
+            fst=fst->next;
+        }
+        return slw;
+       
     }
 };
