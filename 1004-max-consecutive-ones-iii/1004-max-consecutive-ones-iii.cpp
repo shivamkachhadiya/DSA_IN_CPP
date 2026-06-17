@@ -1,47 +1,36 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        // brute force
-        //  int n=nums.size();
-        //  int maxlen=0;
-        //  int zeros=0;
-        //  int len=0;
-        //  for(int i=0;i<n;i++){
-        //      zeros = 0;
-        //      for(int j=i;j<n;j++){
-        //          if(nums[j]==0){
-        //              zeros++;
-        //          }
-        //          if(zeros<=k){
-        //              len=j-i+1;
-        //              maxlen=max(maxlen,len);
-        //          }else{
-        //              break;
-        //          }
-        //      }
-        //  }
-        //  return maxlen;
-
-        //============sliding window=====================
-        int l = 0, r = 0;
         int n = nums.size();
+        int left = 0, right = 0;
         int zeros = 0;
-        int maxlen = 0;
-        while (r < n) {
-            if (nums[r] == 0)
+        int maxLength = 0;
+        while (right < n) {
+            if (nums[right] == 1) {
+                int currLength = right - left + 1;
+                maxLength = max(maxLength, currLength);
+                right++;
+            } else if (nums[right] == 0) {
                 zeros++;
-
-            while (zeros > k) {
-                if (nums[l] == 0) {
-                    zeros--;
+                if (zeros <= k) {
+                    int currLength = right - left + 1;
+                    maxLength = max(maxLength, currLength);
+                    right++;
+                } else {
+                    while (zeros != k) {
+                        if (nums[left] == 0) {
+                            zeros--;
+                            left++;
+                        } else {
+                            left++;
+                        }
+                    }
+                    int currLength = right - left + 1;
+                    maxLength = max(maxLength, currLength);
+                    right++;
                 }
-                l++;
             }
-
-            int len = (r - l) + 1;
-            maxlen = max(maxlen, len);
-            r++;
         }
-        return maxlen;
+        return maxLength;
     }
 };
