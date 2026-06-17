@@ -5,7 +5,6 @@ public:
         int left = 0, right = 0;
         int n = s.size();
         int maxLength = 0;
-        
         while (right < n) {
             if (map.find(s[right]) == map.end()) {
                 map[s[right]] = right;
