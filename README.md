@@ -454,6 +454,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0875-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
@@ -727,6 +728,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -945,6 +947,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0784-letter-case-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
@@ -1022,6 +1025,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
+| [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
