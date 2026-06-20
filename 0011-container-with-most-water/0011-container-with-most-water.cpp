@@ -1,19 +1,22 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int n=height.size();
-        int lp=0,rp=n-1,ans=0,maxwidth=0;
-        while(lp<rp){
-            int width=rp-lp;
-            int currheight=min(height[lp],height[rp]);
-            int currwidth=width*currheight;
-            maxwidth=max(maxwidth,currwidth);
-            if(height[lp]<height[rp]){
-                lp++;
+    int maxArea(vector<int>& arr) {
+        int start=0;
+        int n=arr.size();
+        int end=n-1;
+        int ans=0;
+        while(start<=end){
+            int width=end-start;
+            int height=min(arr[start],arr[end]);
+            int temp=width*height;
+            ans=max(ans,temp);
+            if(arr[start]<=arr[end]){
+                start++;
             }else{
-                rp-- ;
+                end--;
             }
+
         }
-        return maxwidth;
+        return ans;
     }
 };
