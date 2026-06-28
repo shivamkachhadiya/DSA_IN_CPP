@@ -1,34 +1,47 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst,
-                          int k) {
-        vector<pair<int, int>> adj[n]; // node->to_node,dist
-        for (int i = 0; i < flights.size(); i++) {
-            int u = flights[i][0];
-            int v = flights[i][1];
-            int wt = flights[i][2];
+    int findCheapestPrice(int n, vector<vector<int>>& flights,
+                          int src, int dst, int k) {
 
-            adj[u].push_back({v, wt});
+        // adjacency list: {neighbor, flightCost}
+        vector<pair<int, int>> graph[n];
+
+        for (auto &flight : flights) {
+            int from = flight[0];
+            int to = flight[1];
+            int cost = flight[2];
+
+            graph[from].push_back({to, cost});
         }
 
-        queue<pair<int, pair<int, int>>> q; //{top_node,{dist,stops}};
-        vector<int> dist_v(n, INT_MAX);
-        dist_v[src] = 0;
+        // {currentCity, {totalCost, stopsUsed}}
+        queue<pair<int, pair<int, int>>> q;
+
+        vector<int> minCost(n, INT_MAX);
+        minCost[src] = 0;
+
         q.push({src, {0, -1}});
 
-        while (q.size() > 0) {
-            auto [u, info] = q.front();
+        while (!q.empty()) {
+
+            auto [currentCity, state] = q.front();
             q.pop();
 
-            auto [u_dist, stops] = info;
+            auto [currentCost, stopsUsed] = state;
 
-            for (auto& [v, u_to_v_dist] : adj[u]) {
-                if (u_dist + u_to_v_dist < dist_v[v] && stops + 1 <= k) {
-                    dist_v[v] = u_dist + u_to_v_dist;
-                    q.push({v, {u_dist + u_to_v_dist, stops + 1}});
+            for (auto &[nextCity, flightCost] : graph[currentCity]) {
+
+                if (stopsUsed + 1 <= k &&
+                    currentCost + flightCost < minCost[nextCity]) {
+
+                    minCost[nextCity] = currentCost + flightCost;
+
+                    q.push({nextCity,
+                            {currentCost + flightCost, stopsUsed + 1}});
                 }
             }
         }
-        if(dist_v[dst]==INT_MAX)return -1;else return dist_v[dst];
+
+        return (minCost[dst] == INT_MAX) ? -1 : minCost[dst];
     }
 };
