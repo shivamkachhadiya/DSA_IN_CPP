@@ -1127,6 +1127,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1261,6 +1262,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -1429,6 +1431,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1471,6 +1474,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
@@ -1569,11 +1573,13 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
