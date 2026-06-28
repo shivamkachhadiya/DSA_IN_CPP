@@ -17,8 +17,8 @@ public:
         // {currentCity, {totalCost, stopsUsed}}
         queue<pair<int, pair<int, int>>> q;
 
-        vector<int> minCost(n, INT_MAX);
-        minCost[src] = 0;
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
 
         q.push({src, {0, -1}});
 
@@ -32,9 +32,9 @@ public:
             for (auto &[nextCity, flightCost] : graph[currentCity]) {
 
                 if (stopsUsed + 1 <= k &&
-                    currentCost + flightCost < minCost[nextCity]) {
+                    currentCost + flightCost < dist[nextCity]) {
 
-                    minCost[nextCity] = currentCost + flightCost;
+                    dist[nextCity] = currentCost + flightCost;
 
                     q.push({nextCity,
                             {currentCost + flightCost, stopsUsed + 1}});
@@ -42,6 +42,6 @@ public:
             }
         }
 
-        return (minCost[dst] == INT_MAX) ? -1 : minCost[dst];
+        return (dist[dst] == INT_MAX) ? -1 : dist[dst];
     }
 };
