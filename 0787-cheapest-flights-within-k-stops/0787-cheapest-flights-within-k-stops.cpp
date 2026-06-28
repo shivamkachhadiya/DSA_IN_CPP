@@ -17,15 +17,15 @@ public:
         q.push({src, {0, -1}});
 
         while (q.size() > 0) {
-            auto [top_node, info] = q.front();
+            auto [u, info] = q.front();
             q.pop();
 
-            auto [dist, stops] = info;
+            auto [u_dist, stops] = info;
 
-            for (auto& [neigh_node, neigh_dist] : adj[top_node]) {
-                if (dist + neigh_dist < dist_v[neigh_node] && stops + 1 <= k) {
-                    dist_v[neigh_node] = dist + neigh_dist;
-                    q.push({neigh_node, {dist + neigh_dist, stops + 1}});
+            for (auto& [v, u_to_v_dist] : adj[u]) {
+                if (u_dist + u_to_v_dist < dist_v[v] && stops + 1 <= k) {
+                    dist_v[v] = u_dist + u_to_v_dist;
+                    q.push({v, {u_dist + u_to_v_dist, stops + 1}});
                 }
             }
         }
