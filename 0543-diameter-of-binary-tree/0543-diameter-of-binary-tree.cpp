@@ -11,20 +11,17 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root){
-        if(root==NULL){
-            return 0;
-        }
-        return 1+max(solve(root->left),solve(root->right));
+    int height(TreeNode* root){
+        if(root==NULL)return 0;
+        return 1+max(height(root->left),height(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL)return 0;
-        int left_h=solve(root->left);
-        int right_h=solve(root->right);
 
-        int leftSubtree_Recursive=diameterOfBinaryTree(root->left);
-        int rightSubtree_Recurisve=diameterOfBinaryTree(root->right);
-        
-        return max({left_h+right_h,leftSubtree_Recursive,rightSubtree_Recurisve});
+        int left_height=height(root->left);
+        int right_height=height(root->right);
+        int left_rec=diameterOfBinaryTree(root->left);
+        int right_rec=diameterOfBinaryTree(root->right);
+        return max({left_height+right_height,left_rec,right_rec});
     }
 };
