@@ -6,48 +6,42 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> res;
-        if (root == nullptr) return res;
+        if (root == NULL)
+            return {};
 
-        stack<TreeNode*> s1, s2;
-        s1.push(root);
+        queue<TreeNode*> q;
+        q.push(root);
+        vector<vector<int>> ans;
+        bool left_to_right = true;
+        while (!q.empty()) {
+            int n = q.size();
+            vector<int> part;
 
-        while (!s1.empty() || !s2.empty()) {
-            vector<int> temp;
-
-            while (!s1.empty()) {
-                TreeNode* curr = s1.top();
-                s1.pop();
-
-                temp.push_back(curr->val);
-
-                if (curr->left) s2.push(curr->left);
-                if (curr->right) s2.push(curr->right);
+            for (int i = 0; i < n; i++) {
+                TreeNode* frontNode = q.front();
+                q.pop();
+                part.push_back(frontNode->val);
+                if (frontNode->left)
+                    q.push(frontNode->left);
+                if (frontNode->right)
+                    q.push(frontNode->right);
             }
 
-            if (!temp.empty()) res.push_back(temp);
-
-            temp.clear();
-
-            while (!s2.empty()) {
-                TreeNode* curr = s2.top();
-                s2.pop();
-
-                temp.push_back(curr->val);
-
-                if (curr->right) s1.push(curr->right);
-                if (curr->left) s1.push(curr->left);
+            if (!left_to_right) {
+                reverse(part.begin(), part.end());
             }
 
-            if (!temp.empty()) res.push_back(temp);
+            ans.push_back(part);
+
+            left_to_right = !left_to_right;
         }
-
-        return res;
+        return ans;
     }
 };
