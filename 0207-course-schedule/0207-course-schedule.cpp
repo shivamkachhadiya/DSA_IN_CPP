@@ -1,39 +1,41 @@
 class Solution {
 public:
-    bool solve(int s, vector<bool>& vis, vector<bool>& rec_path,
-               vector<vector<int>>& graph) {
-        vis[s] = true;
-        rec_path[s] = true;
-        for (int x : graph[s]) {
-            if (vis[x] == false) {
-                vis[x] = true;
-                if (solve(x, vis, rec_path, graph)) {
+    bool bfs(int src, vector<bool>& vis, vector<bool>& recPath,
+             vector<vector<int>>& edges) {
+        vis[src] = true;
+        recPath[src] = true;
+        for (auto v : edges[src]) {
+            if (!vis[v]) {
+                if (bfs(v, vis, recPath, edges)) {
                     return true;
                 }
             } else {
-                if (rec_path[x] == true) {
+                if (recPath[v] == true) {
                     return true;
                 }
             }
         }
-        rec_path[s] = false;
+        recPath[src] = false;
         return false;
     }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        vector<vector<int>> graph(n);
-        for (auto& p : prerequisites) {
-            graph[p[1]].push_back(p[0]);
-        }
+    bool canFinish(int n, vector<vector<int>>& edges) {
         vector<bool> vis(n, false);
-        vector<bool> rec_path(n, false);
+        vector<bool> recPath(n, false);
+        vector<vector<int>> adj(n);
+
+        for (int i = 0; i < edges.size(); i++) {
+            int course = edges[i][0];
+            int pre = edges[i][1];
+
+            adj[pre].push_back(course);
+        }
         for (int i = 0; i < n; i++) {
-            if (vis[i] == false) {
-                if (solve(i, vis, rec_path, graph)) {
-                    return false;
-                }
+            if (!vis[i]) {
+                if (bfs(i, vis, recPath, adj))
+                    return false; // Cycle found
             }
         }
+
         return true;
     }
 };
