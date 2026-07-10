@@ -1,33 +1,16 @@
 class Solution {
 public:
-    int f(int i, int j, vector<vector<int>>& dp,
-          vector<vector<int>>& obstacleGrid) {
-        // Out of bounds check comes first
-        if (i < 0 || j < 0)
-            return 0;
-
-        // If blocked cell
-        if (obstacleGrid[i][j] == 1)
-            return 0;
-
-        // If reached start cell
-        if (i == 0 && j == 0)
-            return 1;
-
-        // Memoization
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int up = f(i - 1, j, dp, obstacleGrid);
-        int left = f(i, j - 1, dp, obstacleGrid);
-
-        return dp[i][j] = up + left;
+    int solve(vector<vector<int>>&arr,int n,int m,int i,int j,vector<vector<int>>&dp){
+        if(i<0||j<0||i>=n||j>=m)return 0;
+        if(arr[i][j]==1)return 0;
+        if(i==0&&j==0)return 1;
+        if(dp[i][j]!=-1)return dp[i][j];
+        return dp[i][j]=solve(arr,n,m,i-1,j,dp)+solve(arr,n,m,i,j-1,dp);
     }
-
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size();    // number of rows
-        int n = obstacleGrid[0].size(); // number of columns
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        return f(m - 1, n - 1, dp, obstacleGrid);
+    int uniquePathsWithObstacles(vector<vector<int>>& arr) {
+        int n=arr.size();
+        int m=arr[0].size();
+        vector<vector<int>>dp(n,vector<int>(m,-1));
+        return solve(arr,n,m,n-1,m-1,dp);
     }
 };
