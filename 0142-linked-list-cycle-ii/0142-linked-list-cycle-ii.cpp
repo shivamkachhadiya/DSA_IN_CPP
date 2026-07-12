@@ -11,22 +11,18 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode* slw=head;
         ListNode* fst=head;
-        while (fst != nullptr && fst->next != nullptr) {
+        while(fst!=nullptr&&fst->next!=nullptr){
             slw=slw->next;
             fst=fst->next->next;
-             if (slw == fst) {  // Cycle detected
-                break;
+            if(slw==fst){
+                fst=head;
+                while(slw!=fst){
+                    slw=slw->next;
+                    fst=fst->next;
+                }
+                return slw;
             }
         }
-        if (fst == nullptr || fst->next == nullptr) {
-            return nullptr;
-        }
-        slw=head;
-        while(slw!=fst){
-            slw=slw->next;
-            fst=fst->next;
-        }
-        return slw;
-       
+        return nullptr;
     }
 };
