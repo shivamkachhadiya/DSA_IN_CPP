@@ -1,28 +1,25 @@
 class Solution {
 public:
-    void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int>& part, int i) {
-        if (i == nums.size()) {
+    void solve(vector<int>&nums,int n,vector<vector<int>>&ans,vector<int>&part,int i){
+        if(i>=n){
             ans.push_back(part);
             return;
         }
-        // Include nums[i]
         part.push_back(nums[i]);
-        solve(nums, ans, part, i + 1);
+        solve(nums,n,ans,part,i+1);
         part.pop_back();
-        // Exclude nums[i]
-        solve(nums, ans, part, i + 1);
+        int new_idx=i+1;
+        while(new_idx<n&&nums[new_idx]==nums[new_idx-1]){
+            new_idx++;
+        }
+        solve(nums,n,ans,part,new_idx);
     }
-    
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> part;
-        sort(nums.begin(), nums.end());  // Sort to handle duplicates
-        solve(nums, ans, part, 0);
-        
-        // Remove duplicate subsets
-        sort(ans.begin(), ans.end());
-        ans.erase(unique(ans.begin(), ans.end()), ans.end());
-        
+        int n=nums.size();
+        vector<vector<int>>ans;
+        vector<int>part;
+        sort(nums.begin(), nums.end());
+        solve(nums,n,ans,part,0);
         return ans;
     }
 };
