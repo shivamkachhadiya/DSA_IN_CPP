@@ -23,9 +23,9 @@ public:
                     dp[i][j] = 1 + dp[i + 1][j + 1];
                     continue;
                 }
-                dp[i][j] =max(dp[i + 1][j],dp[i][j + 1]);
+                dp[i][j] = max(dp[i + 1][j], dp[i][j + 1]);
             }
         }
-        return dp[0][0]+1;
+        return dp[0][0]+1;//becouse dp init with -1
     }
 };
