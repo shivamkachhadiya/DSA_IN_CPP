@@ -10,47 +10,65 @@
 class Codec {
 public:
 
-    void _serialize(TreeNode* root,string &s){
-        if(!root){
-            s+="#,";
-            return;
-        }
-        s+=to_string(root->val)+",";
-        _serialize(root->left,s);
-        _serialize(root->right,s);
-    }
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        string s;
-        _serialize(root,s);
-        return s;
-    }
+        if(root==NULL)return "";
+        queue<TreeNode*>q;
+        string ans="";
+        q.push(root);
 
-    TreeNode* _deserialize(queue<string>&tokens){
-        string val=tokens.front();
-        tokens.pop();
-        if(val=="#"){
-            return NULL;
-        }
-        TreeNode* root=new TreeNode(stoi(val));
-        root->left=_deserialize(tokens);
-        root->right=_deserialize(tokens);
-        return root;
-    }
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        queue<string>tokens;
-        string cur;
-        for(char c:data){
-            if(c==','){
-                tokens.push(cur);
-                cur="";
+        while(!q.empty()){
+            TreeNode* curr=q.front();
+            q.pop();
+
+            if(curr==NULL){
+                ans+="#,";
             }else{
-                cur+=c;
+                ans+=to_string(curr->val)+',';
+                q.push(curr->left);
+                q.push(curr->right);
             }
         }
-        if(!cur.empty())tokens.push(cur);
-        return _deserialize(tokens);
+        return ans;
+    }
+
+    // Decodes your encoded data to tree.
+    TreeNode* deserialize(string data) {
+        if(data=="")return NULL;
+        string temp="";
+        vector<string>tokens;
+        for(auto &ch:data){
+            if(ch==','){
+                tokens.push_back(temp);
+                temp="";
+            }else{
+                temp+=ch;
+            }
+        }
+
+        TreeNode* root=new TreeNode(stoi(tokens[0]));
+        queue<TreeNode*>q;
+        q.push(root);
+        int i=1;
+
+        while(!q.empty()){
+            TreeNode* curr=q.front();
+            q.pop();
+            if(tokens[i]!="#"){
+                curr->left=new TreeNode(stoi(tokens[i]));
+                q.push(curr->left);
+            }
+            i++;
+            if(tokens[i]!="#"){
+                curr->right=new TreeNode(stoi(tokens[i]));
+                q.push(curr->right);
+            }
+            i++;
+
+        }
+
+        return root;
+
     }
 };
 
