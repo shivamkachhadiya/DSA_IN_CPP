@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-    int count = 0;
+    int count=0;
     int ans=0;
     void solve(TreeNode* root,int k){
         if(root==NULL)return;
-        //in order
         solve(root->left,k);
         count++;
         if(count==k){
             ans=root->val;
             return;
         }
+        //kuch kuch
         solve(root->right,k);
-     
     }
     int kthSmallest(TreeNode* root, int k) {
-        if(root==NULL)return 0;
         solve(root,k);
         return ans;
     }
