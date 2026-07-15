@@ -17,11 +17,12 @@ public:
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL)return 0;
+        int leftHeight=height(root->left);
+        int rightHeight=height(root->right);
 
-        int left_height=height(root->left);
-        int right_height=height(root->right);
-        int left_rec=diameterOfBinaryTree(root->left);
-        int right_rec=diameterOfBinaryTree(root->right);
-        return max({left_height+right_height,left_rec,right_rec});
+        int withRoot=leftHeight+rightHeight;
+        int leftSubtree=diameterOfBinaryTree(root->left);
+        int rightSubtree=diameterOfBinaryTree(root->right);
+        return max({withRoot,leftSubtree,rightSubtree});
     }
 };
