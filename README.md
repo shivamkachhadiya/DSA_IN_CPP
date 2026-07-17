@@ -248,6 +248,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1095-find-in-mountain-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1121-partition-array-for-maximum-sum) |
@@ -796,6 +797,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1861-rotating-the-box) |
@@ -1493,6 +1495,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
