@@ -6,7 +6,6 @@ public:
         queue<pair<int, pair<int, int>>> q;
         vector<vector<bool>> vis(n, vector<bool>(m, false));
 
-       
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 2) {
