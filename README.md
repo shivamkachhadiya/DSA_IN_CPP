@@ -1139,6 +1139,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1446,6 +1447,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1492,6 +1494,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1595,6 +1598,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -1603,6 +1607,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
