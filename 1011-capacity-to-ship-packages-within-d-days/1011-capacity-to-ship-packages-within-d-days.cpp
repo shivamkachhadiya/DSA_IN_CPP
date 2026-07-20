@@ -1,36 +1,41 @@
 class Solution {
 public:
-    int solve(vector<int>& weight, int cap) {
-        int days = 1, load = 0;
-        int n = weight.size();
-        for (int i = 0; i < n; i++) {
-            if (load + weight[i] > cap) {
-                days++;
-                load = weight[i];
-            } else {
-                load += weight[i];
+    bool isValid(vector<int>& arr, int days, int max_allowed_capacity) {
+        int local_days = 1;
+        int cap = 0;
+        for (int i = 0; i < arr.size(); i++) {
+            if (arr[i] > max_allowed_capacity)
+                return false;
+            cap += arr[i];
+            if (cap > max_allowed_capacity) {
+                local_days++;
+                cap = arr[i];
             }
         }
-        return days;
-    }
-    int shipWithinDays(vector<int>& weights, int days) {
-
-        int start = *max_element(weights.begin(), weights.end());
-        int end = 0;
-        for (auto i : weights) {
-            end += i;
+        if (local_days <= days) {
+            return true;
+        } else {
+            return false;
         }
-        int result = end; // Track minimum valid capacity
-
+    }
+    int shipWithinDays(vector<int>& arr, int days) {
+        int n = arr.size();
+        int sum = 0;
+        for (auto& x : arr) {
+            sum += x;
+        }
+        int end = sum;
+        int start = 1;
+        int ans = 0;
         while (start <= end) {
             int mid = (start + end) / 2;
-            if (solve(weights, mid) <= days) {
-                result = mid;  // This capacity works, save it
-                end = mid - 1; // Search left for smaller capacity
+            if (isValid(arr, days, mid)) {
+                ans = mid;
+                end = mid - 1;
             } else {
                 start = mid + 1;
             }
         }
-        return start;
+        return ans;
     }
 };
