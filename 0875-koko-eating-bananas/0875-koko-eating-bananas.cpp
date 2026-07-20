@@ -1,30 +1,30 @@
 class Solution {
 public:
-    int minEatingSpeed(vector<int>& arr, int h) {
-        int n = arr.size();
-        int left = 1;
-        int right = 0;
-
-        // Find maximum pile size
-        for (int pile : arr) {
-            right = max(right, pile);
+    bool isValid(vector<int>& arr, int h, int k) {
+        long long sum = 0;
+        for (int i = 0; i < arr.size(); i++) {
+            long long c_val = ceil((double)arr[i] / k);
+            sum += c_val;
         }
-
-        int result = right;
-
-        while (left <= right) {
-            int k = (left + right) / 2;
-            long long taketime = 0;
-            for (auto x : arr) {
-                taketime += (x + k - 1) / k; // ceiling without float
-            }
-            if (taketime <= h) {
-                result = k;
-                right = k - 1;
+        if (sum <= h) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int start = 1;
+        int end = *max_element(piles.begin(), piles.end());
+        int ans = -1;
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if (isValid(piles, h, mid)) {
+                ans = mid;
+                end = mid - 1;
             } else {
-                left = k + 1;
+                start = mid + 1;
             }
         }
-        return result;
+        return ans;
     }
 };
