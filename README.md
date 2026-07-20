@@ -263,6 +263,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -471,6 +472,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1095-find-in-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1095-find-in-mountain-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1184,6 +1186,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
