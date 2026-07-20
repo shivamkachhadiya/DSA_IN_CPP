@@ -1,35 +1,35 @@
 class Solution {
 public:
-    int result = -1;
+    int result=-1;
+    void solve(vector<int>&edges,int n,vector<bool>&vis,vector<int>&count,vector<bool>&inRecPath,int i){
+        vis[i]=true;
+        inRecPath[i]=true;
 
-    void dfs(vector<int>& edges, int n, vector<bool>& vis, vector<int>& count,
-             vector<bool>& inRecPath, int startNode) {
-        vis[startNode] = true;
-        inRecPath[startNode] = true;
-
-        if (edges[startNode] != -1) {
-            if (vis[edges[startNode]] == false) {
-                count[edges[startNode]] = count[startNode] + 1;
-                dfs(edges,n,vis,count,inRecPath,edges[startNode]);
-            }else if(inRecPath[edges[startNode]]==true){
-                result=max(result,count[startNode]-count[edges[startNode]]+1);
+        if(edges[i]!=-1){
+            if(vis[edges[i]]==false){
+                //not visited
+                count[edges[i]]=count[i]+1;
+                solve(edges,n,vis,count,inRecPath,edges[i]);
+            }else if(inRecPath[edges[i]]==true){
+                //cycle mil gayi
+                int temp=count[i]-count[edges[i]]+1;
+                result=max(result,temp);
             }
         }
-        inRecPath[startNode]=false;
-
+        inRecPath[i]=false;
     }
-
     int longestCycle(vector<int>& edges) {
-        int n = edges.size();
-        vector<bool> vis(n, false);
-        vector<int> count(n, 1);
-        vector<bool> inRecuPath(n, false);
+        int n=edges.size();
+        vector<bool>vis(n,false);
+        vector<int>count(n,1);
+        vector<bool>inRecPath(n,false);
 
-        for (int i = 0; i < edges.size(); i++) {
-            if (vis[i] == false) {
-                dfs(edges, n, vis, count, inRecuPath, i);
-            }
+        for(int i=0;i<n;i++){
+            if(edges[i]==-1)continue;
+            if(vis[i]==false)
+                solve(edges,n,vis,count,inRecPath,i);
         }
         return result;
     }
+    
 };
