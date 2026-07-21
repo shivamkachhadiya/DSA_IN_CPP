@@ -1,47 +1,42 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights,
-                          int src, int dst, int k) {
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst,
+                          int k) {
 
-        // adjacency list: {neighbor, flightCost}
-        vector<pair<int, int>> graph[n];
+        vector<vector<pair<int, int>>> adj(n);
+        for (int i = 0; i < flights.size(); i++) {
+            int source = flights[i][0];
+            int dest = flights[i][1];
+            int cost = flights[i][2];
 
-        for (auto &flight : flights) {
-            int from = flight[0];
-            int to = flight[1];
-            int cost = flight[2];
-
-            graph[from].push_back({to, cost});
+            adj[source].push_back({dest, cost});
         }
 
-        // {currentCity, {totalCost, stopsUsed}}
         queue<pair<int, pair<int, int>>> q;
-
-        vector<int> dist(n, INT_MAX);
-        dist[src] = 0;
-
-        q.push({src, {0, -1}});
-
+        q.push({0, {src, 0}});
+        vector<int> dest_arr(n, 1e9);
+        dest_arr[src]=0;
         while (!q.empty()) {
-
-            auto [currentCity, state] = q.front();
+            auto it = q.front();
             q.pop();
+            int stop = it.first;
+            int node = it.second.first;
+            int cost = it.second.second;
 
-            auto [currentCost, stopsUsed] = state;
-
-            for (auto &[nextCity, flightCost] : graph[currentCity]) {
-
-                if (stopsUsed + 1 <= k &&
-                    currentCost + flightCost < dist[nextCity]) {
-
-                    dist[nextCity] = currentCost + flightCost;
-
-                    q.push({nextCity,
-                            {currentCost + flightCost, stopsUsed + 1}});
+            for (auto x : adj[node]) {
+                int newNode = x.first;
+                int newCost = cost + x.second;
+                int newStop = stop + 1;
+                if (newStop <= k+1) {
+                    if (newCost < dest_arr[newNode]) {
+                        dest_arr[newNode] = newCost;
+                        q.push({newStop, {newNode, newCost}});
+                    }
                 }
             }
         }
-
-        return (dist[dst] == INT_MAX) ? -1 : dist[dst];
+        if (dest_arr[dst] != 1e9)
+            return dest_arr[dst];
+        return -1;
     }
 };
