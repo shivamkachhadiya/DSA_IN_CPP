@@ -1,40 +1,37 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
+        if (grid[0][0] == 1)
+            return -1;
+
         int n = grid.size();
         int m = grid[0].size();
+        if (grid[n - 1][m - 1] == 1)
+            return -1;
+        queue<pair<pair<int, int>, int>> q;
+        q.push({{0, 0}, 0});
 
-      
+        int delR[] = {0, 1, 0, -1, -1, 1, 1, -1};
+        int delC[] = {-1, 1, 1, 1, 0, -1, 0, -1};
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        int ans = -1;
+        vis[0][0] = true;
+        while (!q.empty()) {
+            int i = q.front().first.first;
+            int j = q.front().first.second;
+            int time = q.front().second;
+            if (i == n - 1 && j == m - 1)
+                return time + 1;
 
-        vector<vector<int>> dist_vec(n, vector<int>(m, 1e9));
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            pq; // PQ stres [DISTANCE, [ROW,COL]]
+            q.pop();
+            for (int k = 0; k < 8; k++) {
+                int newRow = i + delR[k];
+                int newCol = j + delC[k];
 
-        pq.push({1, {0, 0}});
-        dist_vec[0][0] = 1;
-
-        int delRow[] = {-1, -1, 1, 0, -1, 1, 1, 0};
-        int delCol[] = {1, 0, 1, 1, -1, 0, -1, -1};
-        if(grid[0][0]==1||grid[n-1][m-1]==1)return -1;
-        while (!pq.empty()) {
-            int dist = pq.top().first;
-            int row = pq.top().second.first;
-            int col = pq.top().second.second;
-            pq.pop();
-
-            if(row==n-1&&col==m-1)return dist;
-
-            for (int i = 0; i < 8; i++) {
-                int delta_row = row + delRow[i];
-                int delta_col = col + delCol[i];
-                int delta_dist = 1 + dist;
-               
-                if (delta_row >= 0 && delta_col >= 0 && delta_row < n &&
-                    delta_col < m &&grid[delta_row][delta_col]==0&&dist_vec[delta_row][delta_col] > delta_dist) {
-                    dist_vec[delta_row][delta_col] = delta_dist;
-                    pq.push({delta_dist, {delta_row, delta_col}});
+                if (newRow >= 0 && newCol >= 0 && newRow < n && newCol < m &&
+                    vis[newRow][newCol] == false && grid[newRow][newCol] == 0) {
+                    vis[newRow][newCol] = true;
+                    q.push({{newRow, newCol}, time + 1});
                 }
             }
         }
