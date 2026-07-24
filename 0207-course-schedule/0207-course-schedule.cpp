@@ -1,41 +1,39 @@
 class Solution {
 public:
-    bool bfs(int src, vector<bool>& vis, vector<bool>& recPath,
-             vector<vector<int>>& edges) {
-        vis[src] = true;
-        recPath[src] = true;
-        for (auto v : edges[src]) {
-            if (!vis[v]) {
-                if (bfs(v, vis, recPath, edges)) {
+    bool dfs(vector<vector<int>>&adj,vector<bool>&vis,int i,vector<bool>&inRecPath){
+        vis[i]=true;
+        inRecPath[i]=true;
+        for(auto &x:adj[i]){
+            if(vis[x]==false){
+                if(dfs(adj,vis,x,inRecPath)){
                     return true;
                 }
-            } else {
-                if (recPath[v] == true) {
+            }else{
+                //in rec path true hei matlaab cycle hei
+                if(inRecPath[x]==true){
                     return true;
                 }
             }
         }
-        recPath[src] = false;
+        inRecPath[i]=false;
         return false;
     }
-    bool canFinish(int n, vector<vector<int>>& edges) {
-        vector<bool> vis(n, false);
-        vector<bool> recPath(n, false);
-        vector<vector<int>> adj(n);
-
-        for (int i = 0; i < edges.size(); i++) {
-            int course = edges[i][0];
-            int pre = edges[i][1];
-
-            adj[pre].push_back(course);
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>adj(numCourses);
+        for(int i=0;i<prerequisites.size();i++){
+            int course=prerequisites[i][0];
+            int dependent=prerequisites[i][1];
+            adj[dependent].push_back(course);
         }
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                if (bfs(i, vis, recPath, adj))
-                    return false; // Cycle found
+        vector<bool>vis(numCourses,false);
+        vector<bool>inRecPath(numCourses,false);
+        for(int i=0;i<numCourses;i++){
+            if(vis[i]==false){
+                if(dfs(adj,vis,i,inRecPath)){
+                    return false;
+                }
             }
         }
-
         return true;
     }
 };
