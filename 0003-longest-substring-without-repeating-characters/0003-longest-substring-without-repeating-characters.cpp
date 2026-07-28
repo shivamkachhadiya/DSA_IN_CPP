@@ -1,24 +1,31 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char,int>map;
 
-        int n=s.size();
-        int ans=0;
-        int l=0,r=0;
-        while(r<n){
-            char curr=s[r];
-            if(map.find(curr)!=map.end()){
-                if (map[curr] >= l)
-                    l=map[curr]+1;
-                map[curr]=r;
-            }else{
-                map[curr]=r;
+        int n = s.size();
+        if (s == "")
+            return 0;
+        if (s == " ")
+            return 1;
+        if (n == 1)
+            return 1;
+        int l = 0;
+        int r = 0;
+        unordered_map<char, int> map;
+        int max_len = 0;
+        while (r < n) {
+            if (map.find(s[r]) == map.end()) {
+                map[s[r]] = r;
+            } else {
+                // mil gaya
+
+                l = max(l, map[s[r]] + 1);
+                map[s[r]] = r;
             }
-            ans=max(ans,r-l+1);
-
+            int len = r - l + 1;
+            max_len = max(max_len, len);
             r++;
         }
-        return ans;
+        return max_len;
     }
 };
