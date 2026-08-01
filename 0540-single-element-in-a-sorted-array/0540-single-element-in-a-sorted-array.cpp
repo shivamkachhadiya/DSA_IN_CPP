@@ -1,13 +1,15 @@
 class Solution {
 public:
-    int singleNonDuplicate(vector<int>& nums) {
-        unordered_map<int,int>freq;
-        for(int i=0;i<nums.size();i++){
-            freq[nums[i]]++;
-        }
-        for(int i=0;i<nums.size();i++){
-            if(freq[nums[i]]==1){
-                return nums[i];
+    int singleNonDuplicate(vector<int>& arr) {
+        int n=arr.size();
+        if(n==1)return arr[0];
+        if(arr[0]!=arr[1])return arr[0];
+        for(int i=1;i<n;i++){
+            if(arr[i]==arr[i-1]){
+                continue;
+            }else if(arr[i]!=arr[i-1]&&arr[i]!=arr[i+1]){
+                return arr[i];
+                break;
             }
         }
         return -1;
