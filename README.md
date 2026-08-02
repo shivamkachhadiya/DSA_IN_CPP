@@ -292,6 +292,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2181-smallest-index-with-equal-value) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -420,6 +421,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
@@ -985,6 +987,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2032-largest-odd-number-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1468,6 +1471,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1594,6 +1598,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0207-course-schedule](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
@@ -1615,6 +1620,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
