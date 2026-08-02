@@ -1,37 +1,41 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>&adj,vector<bool>&vis,int i,vector<bool>&inRecPath){
-        vis[i]=true;
-        inRecPath[i]=true;
-        for(auto &x:adj[i]){
+    bool dfs(int node,int numCourses,vector<vector<int>>&prerequisites,vector<vector<int>>&adj,vector<bool>&vis,
+            vector<bool>&inRecPath){
+        vis[node]=true;
+        inRecPath[node]=true;
+        
+        for(auto &x:adj[node])
+        {
             if(vis[x]==false){
-                if(dfs(adj,vis,x,inRecPath)){
+                if(dfs(x,numCourses,prerequisites,adj,vis,inRecPath)){
                     return true;
                 }
             }else{
-                //in rec path true hei matlaab cycle hei
                 if(inRecPath[x]==true){
                     return true;
                 }
             }
         }
-        inRecPath[i]=false;
+        inRecPath[node]=false;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>>adj(numCourses);
         for(int i=0;i<prerequisites.size();i++){
-            int course=prerequisites[i][0];
-            int dependent=prerequisites[i][1];
-            adj[dependent].push_back(course);
+            int u=prerequisites[i][0];
+            int v=prerequisites[i][1];
+
+            adj[v].push_back(u);
         }
         vector<bool>vis(numCourses,false);
         vector<bool>inRecPath(numCourses,false);
         for(int i=0;i<numCourses;i++){
             if(vis[i]==false){
-                if(dfs(adj,vis,i,inRecPath)){
+                if(dfs(i,numCourses,prerequisites,adj,vis,inRecPath)){
                     return false;
                 }
+
             }
         }
         return true;
