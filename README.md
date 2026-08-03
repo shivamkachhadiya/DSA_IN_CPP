@@ -1316,6 +1316,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1952-minimum-sideway-jumps](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1952-minimum-sideway-jumps) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2463-minimum-total-distance-traveled) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1598,6 +1599,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0207-course-schedule](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
@@ -1620,6 +1622,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
@@ -1629,6 +1632,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
