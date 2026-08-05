@@ -16,12 +16,12 @@ public:
     void solve(TreeNode* root,int k){
         if(root==NULL)return;
         solve(root->left,k);
+        //
         count++;
         if(count==k){
             ans=root->val;
             return;
         }
-        //kuch kuch
         solve(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
