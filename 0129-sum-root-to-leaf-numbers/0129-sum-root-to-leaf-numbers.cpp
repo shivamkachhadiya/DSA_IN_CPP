@@ -1,19 +1,30 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int sumNumbers(TreeNode* root) {
-        return dfs(root, 0);
-    }
-
-private:
-    int dfs(TreeNode* node, int currentSum) {
-        if (!node) return 0;
-        
-        currentSum = currentSum * 10 + node->val;
-        
-        if (!node->left && !node->right) {
-            return currentSum;
+    vector<int>sum_vec;
+    void solve(TreeNode* root,int currsum){
+        if(root==NULL)return;
+        //495 push in sum_vec
+        currsum = currsum * 10 + root->val;
+        if (root->left == nullptr && root->right == nullptr) {
+            sum_vec.push_back(currsum);
+            return;
         }
-        
-        return dfs(node->left, currentSum) + dfs(node->right, currentSum);
+        solve(root->left,currsum);
+        solve(root->right,currsum);
+    }
+    int sumNumbers(TreeNode* root) {
+        solve(root,0);
+        return accumulate(sum_vec.begin(),sum_vec.end(),0);
     }
 };
