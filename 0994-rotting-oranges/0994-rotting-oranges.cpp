@@ -13,7 +13,7 @@ public:
                     fresh++;
                 if (grid[i][j] == 2) {
                     vis[i][j] = true;
-                    // grid[i][j] = 0;
+                    grid[i][j] = 0;
 
                     q.push({{i, j}, 0});
                 }
@@ -39,7 +39,7 @@ public:
                 if (newRow >= 0 && newCol >= 0 && newRow < n && newCol < m &&
                     vis[newRow][newCol] == false && grid[newRow][newCol] == 1) {
                     vis[newRow][newCol] = true;
-                    grid[newRow][newCol] = 2;
+                    grid[newRow][newCol] = 0;
                     q.push({{newRow, newCol}, time + 1});
                 }
             }
