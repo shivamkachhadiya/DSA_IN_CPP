@@ -1740,6 +1740,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1143-longest-common-subsequence) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
 
 
