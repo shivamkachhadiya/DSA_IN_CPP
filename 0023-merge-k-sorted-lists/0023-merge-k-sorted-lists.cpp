@@ -1,29 +1,37 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        // min-heap comparator
-        auto cmp = [](ListNode* a, ListNode* b) {
-            return a->val > b->val;
-        };
-        
-        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
-        
-        // sabhi list ke head push karo
-        for (auto node : lists) {
-            if (node) pq.push(node);
+        priority_queue<pair<int,ListNode*>,
+                        vector<pair<int,ListNode*>>,
+                        greater<pair<int,ListNode*>>>pq;
+        int n=lists.size();
+        for(int i=0;i<n;i++){
+            if(lists[i]!=NULL)
+                pq.push({lists[i]->val,lists[i]});
         }
-        
-        ListNode dummy(0);
-        ListNode* tail = &dummy;
-        
-        while (!pq.empty()) {
-            ListNode* node = pq.top();
+        ListNode* dummy=new ListNode(0);
+        ListNode* temp=dummy;
+        while(!pq.empty()){
+            int data=pq.top().first;
+            ListNode* node=pq.top().second;
+            if(node->next!=NULL){
+                pq.push({node->next->val,node->next});
+            }
             pq.pop();
-            tail->next = node; // sabse chhota node add karo
-            tail = tail->next;
-            if (node->next) pq.push(node->next); // agla node push karo
+            temp->next=new ListNode(data);
+            temp=temp->next;
         }
-        
-        return dummy.next;
+
+        return dummy->next;
     }
 };
