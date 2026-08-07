@@ -1,7 +1,6 @@
 class Solution {
 public:
-    bool solve(int n,int m,vector<vector<char>>&mat,int i,int j,string word,
-                int idx){
+    bool solve(int n,int m,vector<vector<char>>&mat,int i,int j,string word,int idx){
         if(idx==word.size())return true;
         if(i<0||j<0||i>=n||j>=m||mat[i][j]=='$')return false;
         if(mat[i][j]!=word[idx])return false;
