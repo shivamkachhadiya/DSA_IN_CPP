@@ -126,6 +126,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0074-search-a-2d-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
@@ -686,6 +687,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0046-permutations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0113-path-sum-ii) |
@@ -799,6 +801,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0064-minimum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0174-dungeon-game) |
@@ -936,6 +939,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0068-text-justification](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0097-interleaving-string) |
@@ -1431,6 +1435,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0099-recover-binary-search-tree) |
