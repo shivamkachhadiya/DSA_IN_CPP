@@ -9,15 +9,13 @@ public:
         mat[i][j]='$';
 //{
         //furthr call up left right down
-        bool found = solve(n,m,mat,i+1,j,word,idx+1)||
-        solve(n,m,mat,i,j+1,word,idx+1)||
-        solve(n,m,mat,i-1,j,word,idx+1)||
-        solve(n,m,mat,i,j-1,word,idx+1);
-
-
+        if(solve(n,m,mat,i+1,j,word,idx+1))return true;
+        if(solve(n,m,mat,i,j+1,word,idx+1))return true;
+        if(solve(n,m,mat,i-1,j,word,idx+1))return true;
+        if(solve(n,m,mat,i,j-1,word,idx+1))return true;
 //}
         mat[i][j]=temp;
-        return found;
+        return false;
     }
     bool exist(vector<vector<char>>& mat, string word) {
         int n=mat.size();
