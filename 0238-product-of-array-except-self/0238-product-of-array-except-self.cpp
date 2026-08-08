@@ -1,29 +1,22 @@
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& nums) {
-        int prod = 1;
-        int countZeros = 0;
-        for (auto i : nums) {
-            if (i == 0) {
-                countZeros++;
-            } else {
-                prod *= i;
-            }
+    vector<int> productExceptSelf(vector<int>& arr) {
+        int n=arr.size();
+        vector<int>prefix(n,1);
+        //arr=      1 2 3 4 
+        //prefix =  1 1 2 6
+        for(int i=1;i<n;i++){
+            prefix[i]=prefix[i-1]*arr[i-1];
         }
-        int n = nums.size();
-        vector<int> ans(n);
-
-        if(countZeros>1)return ans;
-        for (int i = 0; i < nums.size(); i++) {
-            if (countZeros == 1) {
-                if (nums[i] == 0) {
-                    ans[i] = prod;
-                } else {
-                    ans[i] = 0;
-                }
-            } else {
-                ans[i] = prod / nums[i];
-            }
+        //suffix =  24 12 4 1 
+        vector<int>suffix(n,1);
+        for(int i=n-2;i>=0;i--){
+            suffix[i]=suffix[i+1]*arr[i+1];
+        }
+        vector<int>ans(n);
+        
+        for(int i=0;i<n;i++){
+            ans[i]=prefix[i]*suffix[i];
         }
         return ans;
     }
