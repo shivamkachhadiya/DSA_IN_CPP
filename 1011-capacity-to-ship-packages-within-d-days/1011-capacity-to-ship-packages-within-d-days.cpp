@@ -1,31 +1,29 @@
 class Solution {
 public:
-    bool isValid(vector<int>& arr, int days, int n, int max_allow_cap) {
-        int days_req = 1;
-        int curr_cap = 0;
-        for (int i = 0; i < n; i++) {
-            curr_cap += arr[i];
-            if (curr_cap > max_allow_cap) {
-                days_req++;
-                curr_cap = arr[i];
+    bool isValid(vector<int>&arr,int mid,int days){
+        int total_days=1;
+        int curr_weight=0;
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]>mid)return false;
+            curr_weight+=arr[i];
+            if(curr_weight>mid){
+                total_days++;
+                curr_weight=arr[i];
             }
         }
-        return days_req <= days;
+        return total_days<=days;
     }
-    int shipWithinDays(vector<int>& weights, int days) {
-        int start = *max_element(weights.begin(), weights.end());
-        int end = 0;
-        for (auto& x : weights) {
-            end += x;
-        }
-        int ans = -1;
-        while (start <= end) {
-            int mid = (start + end) / 2;
-            if (isValid(weights, days, weights.size(), mid)) {
-                ans = mid;
-                end = mid - 1;
-            } else {
-                start = mid + 1;
+    int shipWithinDays(vector<int>& arr, int days) {
+        int start=*max_element(arr.begin(),arr.end());
+        int ans=-1;
+        int end=accumulate(arr.begin(),arr.end(),0);
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(isValid(arr,mid,days)){
+                ans=mid;
+                end=mid-1;
+            }else{
+                start=mid+1;
             }
         }
         return ans;
