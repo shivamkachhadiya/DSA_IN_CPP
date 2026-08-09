@@ -257,6 +257,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -480,6 +481,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-find-in-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
