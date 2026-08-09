@@ -1,33 +1,24 @@
 class Solution {
 public:
-    bool solve(vector<int>&arr,int k,int mid){
-        int count=1;
-        int curr=0;
-        int n=arr.size();
-        for(int i=0;i<n;i++){
-            if(arr[i]>mid)return false;
-            else if(arr[i]+curr<=mid){
-                curr=curr+arr[i];
-            }else{
-                count++;
-                //curr=arr[mid]; 
-                curr=arr[i];
+    bool isValid(vector<int>&arr,int maximum_allow_partition,int max_allow_val){
+        int partition=1;
+        int sum=0;
+        for(int i=0;i<arr.size();i++){
+            sum+=arr[i];
+            if(sum>max_allow_val){
+                sum=arr[i];
+                partition++;
             }
-            if(count>k)return false;
         }
-     return true;
+        return partition<=maximum_allow_partition;
     }
-    int splitArray(vector<int>& nums, int k) {
-        int start=0;
+    int splitArray(vector<int>& arr, int k) {
+        int start=*max_element(arr.begin(),arr.end());
+        int end=accumulate(arr.begin(),arr.end(),0);
         int ans=0;
-        int end=0;
-        int n=nums.size();
-         for(int i=0;i<n;i++){
-            end=end+nums[i];
-        }
         while(start<=end){
             int mid=(start+end)/2;
-            if(solve(nums,k,mid)){
+            if(isValid(arr,k,mid)){
                 ans=mid;
                 end=mid-1;
             }else{
