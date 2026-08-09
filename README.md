@@ -156,6 +156,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0179-largest-number) |
@@ -447,6 +448,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
@@ -893,6 +895,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0151-reverse-words-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
