@@ -1,21 +1,21 @@
 class Solution {
 public:
     bool isValid(vector<int>&arr,int mid,int days){
-        int total_days=1;
-        int curr_weight=0;
+        int total_w=0;
+        int days_taken=1;
         for(int i=0;i<arr.size();i++){
-            if(arr[i]>mid)return false;
-            curr_weight+=arr[i];
-            if(curr_weight>mid){
-                total_days++;
-                curr_weight=arr[i];
+            total_w+=arr[i];
+            if(total_w>mid){
+                days_taken++;
+                total_w=arr[i];
             }
         }
-        return total_days<=days;
+        return days_taken<=days;
     }
     int shipWithinDays(vector<int>& arr, int days) {
+        int n=arr.size();
+        int ans=0;
         int start=*max_element(arr.begin(),arr.end());
-        int ans=-1;
         int end=accumulate(arr.begin(),arr.end(),0);
         while(start<=end){
             int mid=(start+end)/2;
