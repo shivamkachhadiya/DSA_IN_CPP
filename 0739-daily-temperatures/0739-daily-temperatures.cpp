@@ -1,25 +1,21 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temperatures) {
-        int n = temperatures.size();
-        vector<int> answer(n, 0);
-        stack<int> st; // sirf INDEX push karoge
-
-        for (int i = 0; i < n; i++) {
-            // Current temp, stack top wale temp se bada hai
-            while (!st.empty() && temperatures[i] > temperatures[st.top()]) {
-                int prevIndex = st.top();
-                st.pop();
-
-                // Count = current_index - prev_index
-                // This is effectively count baar
-                answer[prevIndex] = i - prevIndex;
+    vector<int> dailyTemperatures(vector<int>& arr) {
+        int n=arr.size();
+        vector<int>ans(n,0);
+        
+        stack<int>st;
+        
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty()&&arr[st.top()]<=arr[i]){
+               st.pop();
             }
-
-            // Element ka INDEX push kar do
+            if(!st.empty()){
+                ans[i]=st.top()-i;
+            }
             st.push(i);
+            
         }
-
-        return answer;
+        return ans;
     }
 };
