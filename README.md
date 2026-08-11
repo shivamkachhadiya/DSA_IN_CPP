@@ -1773,6 +1773,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0005-longest-palindromic-substring) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 
 
