@@ -11,14 +11,14 @@
  */
 class Solution {
 public:
-    int count=0;
+    int counter=0;
     int ans=0;
     void solve(TreeNode* root,int k){
-        if(root==NULL)return;
+        if(root==NULL)return ;
+
         solve(root->left,k);
-        //
-        count++;
-        if(count==k){
+        counter++;
+        if(counter==k){
             ans=root->val;
             return;
         }
