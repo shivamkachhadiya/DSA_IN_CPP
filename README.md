@@ -1777,6 +1777,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
 
 
