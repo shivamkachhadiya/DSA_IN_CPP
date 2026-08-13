@@ -1805,6 +1805,14 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
 
 
