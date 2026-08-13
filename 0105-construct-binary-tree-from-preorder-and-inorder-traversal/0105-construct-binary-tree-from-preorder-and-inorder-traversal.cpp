@@ -1,35 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-
-    void createMapping(vector<int>&inorder,map<int,int>&nodeToIndex,int n){
-        for(int i=0;i<n;i++){
-            nodeToIndex[inorder[i]]=i;
+    int search(vector<int>& inorder,int left,int right,int target){
+        for(int i=left;i<=right;i++){
+            if(inorder[i]==target){
+                return i;
+            }
         }
+        return -1;
     }
-
-    TreeNode* solve(vector<int>&in,vector<int>&pre,int &index,
-                int inorderstart,int inorderend,int n,map<int,int>&nodeToIndex){
-                    if(index>=n||inorderstart>inorderend){
-                        return nullptr;
-                    }
-                    int element=pre[index++];
-                    TreeNode* root=new TreeNode(element);
-                    int position=nodeToIndex[element];
-
-                    root->left=solve(in,pre,index,inorderstart,position-1,n,nodeToIndex);
-                    root->right=solve(in,pre,index,position+1,inorderend,n,nodeToIndex);
-                    return root;
-
-
-
-                }
-
+    TreeNode* solve(vector<int>& preorder, vector<int>& inorder,int &preIndex,int left,int right){
+       if (left > right) return nullptr;
+        TreeNode* root=new TreeNode(preorder[preIndex]);
+        preIndex++;
+        int rangeIndex=search(inorder,left,right,root->val);
+        root->left=solve(preorder,inorder,preIndex,left,rangeIndex-1);
+        root->right=solve(preorder,inorder,preIndex,rangeIndex+1,right);
+        return root;
+    }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-       int preorderIndex=0;
-       map<int,int>nodeToIndex;
-       int n=preorder.size();
-       createMapping(inorder,nodeToIndex,n);
-       TreeNode* ans=solve(inorder,preorder,preorderIndex,0,n-1,n,nodeToIndex);
-       return ans;
+         int preIndex = 0;
+        return solve(preorder, inorder, preIndex, 0, inorder.size() - 1);
     }
 };
