@@ -426,6 +426,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -556,6 +557,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -768,6 +770,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1495,6 +1498,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1548,6 +1552,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1749,10 +1754,12 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -1782,6 +1789,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
 
 
