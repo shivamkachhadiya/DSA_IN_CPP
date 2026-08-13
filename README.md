@@ -195,6 +195,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
@@ -982,6 +983,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0306-additive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0443-string-compression) |
@@ -1482,6 +1484,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0257-binary-tree-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1535,6 +1538,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0301-remove-invalid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0513-find-bottom-left-tree-value) |
@@ -1642,6 +1646,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1653,6 +1658,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0207-course-schedule](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1666,6 +1672,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1790,6 +1797,14 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
 
 
