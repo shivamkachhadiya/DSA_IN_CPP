@@ -1,42 +1,18 @@
-// class Solution {
-// public:
-//     int solve(vector<vector<int>>& grid,int i,int j){
-//         if(i==0&&j==0)return grid[0][0];
-//         if(i < 0 || j < 0 )return 1e9;
-//         int top=grid[i][j]+solve(grid,i-1,j);
-//         int left=grid[i][j]+solve(grid,i,j-1);
-//         return min(top,left);
-//     }
-//     int minPathSum(vector<vector<int>>& grid) {
-//         int n=grid.size();
-//         int m=grid[0].size();
-// return solve(grid, n-1, m-1);
-//     }
-// };
-
-
 class Solution {
 public:
-    int ans = 0;
-    int solve(vector<vector<int>>& grid, int i, int j,vector<vector<int>>& dp) {
-        if (i < 0 || j < 0)
-            return 1e9;
-        if (i == 0 && j == 0) {
-            return grid[0][0];
-        }
+    int solve(vector<vector<int>>&mat,int m,int n,int i,int j,vector<vector<int>>&dp){
+        if(i<0||j<0)return 1e9;
+        if(i==0&&j==0)return mat[i][j];
+        if(dp[i][j]!=-1)return dp[i][j];
+        int leftAns=mat[i][j]+solve(mat,m,n,i,j-1,dp);
+        int rightAns=mat[i][j]+solve(mat,m,n,i-1,j,dp);
 
-           if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int top = grid[i][j]+solve(grid, i - 1, j,dp);
-        int left = grid[i][j]+solve(grid, i, j - 1,dp);
-        return dp[i][j]=min(top,left);
+        return dp[i][j]=min(leftAns,rightAns);
     }
-    int minPathSum(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-                vector<vector<int>> dp(m + 1, vector<int>(n, -1));
-
-        return solve(grid,m - 1, n - 1, dp);
+    int minPathSum(vector<vector<int>>& mat) {
+        int m=mat.size();
+        int n=mat[0].size();
+        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
+        return solve(mat,m,n,m-1,n-1,dp);
     }
 };
