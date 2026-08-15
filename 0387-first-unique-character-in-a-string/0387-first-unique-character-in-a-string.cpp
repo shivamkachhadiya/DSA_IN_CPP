@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char,int>freq;
+        unordered_map<char,int>freq(23);
         int index_track=0;
         for(int i=0;i<s.size();i++){
            freq[s[i]]++;
