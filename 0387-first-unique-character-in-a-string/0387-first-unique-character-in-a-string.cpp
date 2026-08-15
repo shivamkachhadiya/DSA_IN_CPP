@@ -2,16 +2,14 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         unordered_map<char,int>freq;
-        for(auto ch:s){
-            freq[ch]++;
+        int index_track=0;
+        for(int i=0;i<s.size();i++){
+           freq[s[i]]++;
         }
-        int n=s.size();
-        for(int i=0;i<n;i++){
-            if(freq[s[i]]==1){
-                return i;
-            }
+        for(int i=0;i<s.size();i++){
+            char take=s[i];
+            if(freq[take]<=1)return i;
         }
         return -1;
-
     }
 };
