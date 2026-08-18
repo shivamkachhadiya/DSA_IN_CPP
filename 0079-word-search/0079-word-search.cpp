@@ -1,33 +1,33 @@
 class Solution {
 public:
-    bool solve(vector<vector<char>>& mat, int n, int m, string& word, int i,
-               int j, int idx) {
-        int size = word.size();
+    vector<vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
+    
+    bool find(vector<vector<char>>& board, int i, int j, int idx, string& word, int m, int n) {
+        if(idx == word.length()) return true;
+        if(i < 0 || j < 0 || i >= m || j >= n || board[i][j] == '#') return false;
+        if(board[i][j] != word[idx]) return false;
 
-        if (idx >= size)
-            return true;
-        if (i < 0 || j < 0 || i >= n || j >= m)
-            return false;
+        char temp = board[i][j];
+        board[i][j] = '#'; // mark visited
 
-        if (mat[i][j] != word[idx])
-            return false;
-        char temp = mat[i][j];
-        mat[i][j] = '$';
+        for(auto &dir : directions) {
+            int new_i = i + dir[0];
+            int new_j = j + dir[1];
+            if(find(board, new_i, new_j, idx+1, word, m, n)) return true;
+        }
 
-        bool result=solve(mat, n, m, word, i + 1, j, idx + 1)||
-                    solve(mat, n, m, word, i, j + 1, idx + 1)||
-                    solve(mat, n, m, word, i - 1, j, idx + 1)||
-                    solve(mat, n, m, word, i, j - 1, idx + 1);
-
-        mat[i][j] = temp;
-        return result;
+        board[i][j] = temp; // backtrack
+        return false;
     }
-    bool exist(vector<vector<char>>& mat, string word) {
-        int n = mat.size();
-        int m = mat[0].size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(solve(mat,n,m,word,i,j,0))return true;
+
+    bool exist(vector<vector<char>>& board, string word) {
+        int m = board.size();
+        int n = board[0].size();
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == word[0] && find(board, i, j, 0, word, m, n))
+                    return true;
             }
         }
         return false;
