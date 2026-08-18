@@ -273,6 +273,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
@@ -497,6 +498,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -843,6 +845,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1199,6 +1202,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
@@ -1527,6 +1531,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -1584,6 +1589,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1676,6 +1682,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
@@ -1857,6 +1864,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
 
 
