@@ -1868,6 +1868,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
 
 
