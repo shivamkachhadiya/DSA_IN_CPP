@@ -1,35 +1,19 @@
 class Solution {
 public:
-// eat
-// tea
-// ate
-
-// Ye teeno same letters se bane hain.
-
-// Agar in sabko sort kar do:
-
-// eat -> aet
-// tea -> aet
-// ate -> aet
-
-// Sabka sorted version same ho gaya.
-
-// Hum isi sorted string ko key bana dete hain.
-
-// Key       Original Words
-// aet  ---> eat, tea, ate
-// ant  ---> tan, nat
-// abt  ---> bat
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+    vector<vector<string>> groupAnagrams(vector<string>& arr) {
         unordered_map<string,vector<string>>map;
-        for(auto i:strs){
-            string temp=i;
+        for(auto &str:arr){
+            string temp=str;
             sort(temp.begin(),temp.end());
-            map[temp].push_back(i);
+            if(map.find(temp)==map.end()){
+                map[temp].push_back(str);
+            }else{
+                map[temp].push_back(str);
+            }
         }
         vector<vector<string>>ans;
-        for(auto&s:map){
-            ans.push_back(s.second);
+        for(auto &x:map){
+            ans.push_back(x.second);
         }
         return ans;
     }
