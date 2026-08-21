@@ -1,38 +1,37 @@
 class Solution {
 public:
-    bool dfs(vector<bool>&vis,int n,vector<vector<int>>&nc,vector<vector<int>>&adj,vector<bool>&recPath,int node){
-        vis[node]=true;
-        recPath[node]=true;
-        for(auto &x:adj[node]){
+    bool solve(int src,vector<bool>&vis,vector<bool>recPath,vector<vector<int>>&adj){
+        vis[src]=true;
+        recPath[src]=true;
+        for(auto &x:adj[src]){
             if(vis[x]==false){
-                //dfs
-                if(dfs(vis,n,nc,adj,recPath,x)){
+                if(solve(x,vis,recPath,adj)){
                     return true;
                 }
             }else if(recPath[x]==true){
                 return true;
             }
         }
-        recPath[node]=false;
+        recPath[src]=false;
         return false;
     }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        if(prerequisites.empty())return true;
-        vector<vector<int>>adj(numCourses);
-        for(int i=0;i<prerequisites.size();i++){
-            int u=prerequisites[i][0];
-            int v=prerequisites[i][1];
-            adj[v].push_back(u);
+    bool canFinish(int n, vector<vector<int>>& edges) {
+        vector<bool>vis(n,false);
+        vector<bool>recPath(n,false);
+        vector<vector<int>>adj(n+1);
+        for(int i=0;i<edges.size();i++){
+            int u=edges[i][0];
+            int v=edges[i][1];
+            adj[u].push_back(v);
         }
-        vector<bool>vis(numCourses,false);
-        vector<bool>inRecPath(numCourses,false);
-        for(int i=0;i<numCourses;i++){
-                if(vis[i]==false){
-                    if(dfs(vis,numCourses,prerequisites,adj,inRecPath,i)){
+        for(int i=0;i<n;i++){
+            if(vis[i]==false){
+                if(solve(i,vis,recPath,adj)){
                     return false;
                 }
             }
         }
-        return true;   
+        return true;
+
     }
 };
