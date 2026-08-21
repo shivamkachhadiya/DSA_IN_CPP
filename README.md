@@ -1882,6 +1882,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0056-merge-intervals) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
 
 
