@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isValid(vector<int>&arr,int mid,int h){
-        long long total_hours=0;
+        long long toal_time=0;
         for(int i=0;i<arr.size();i++){
-            long long taken=ceil((double)arr[i]/mid);
-            total_hours+=taken;
+            long long take_time=ceil((double)arr[i]/mid);
+            toal_time+=take_time;
         }
-        return total_hours<=h;
+        return toal_time<=h;
     }
     int minEatingSpeed(vector<int>& arr, int h) {
         int n=arr.size();
