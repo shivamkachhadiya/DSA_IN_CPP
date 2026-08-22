@@ -8,8 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
+public:
     ListNode* reverse_nodes(ListNode* start,ListNode* end){
         ListNode* curr=start;
         ListNode* prev=NULL;
@@ -22,23 +22,17 @@ class Solution {
         }
         return prev;
     }
-   public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* start = head;
-        ListNode* end = head;
-        int temp = k;
-        while (temp && end != NULL) {
-            end = end->next;
+        ListNode* start=head;
+        ListNode* end=head;
+        int temp=k;
+        while(temp&&end!=NULL){
+            end=end->next;
             temp--;
         }
-        if (temp > 0) return head;
-
-        //till now pointer is set
-
-        // now main work start that is reverse
-
-       ListNode* newNode=reverse_nodes(start,end);
-       start->next=reverseKGroup(end,k);
-       return newNode;
+        if(temp>0)return head;
+        ListNode* newNode=reverse_nodes(start,end);
+        start->next=reverseKGroup(end,k);
+        return newNode;
     }
 };
