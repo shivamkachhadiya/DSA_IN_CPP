@@ -240,6 +240,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-lemonade-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
@@ -784,6 +785,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
@@ -1181,6 +1183,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1004-max-consecutive-ones-iii) |
