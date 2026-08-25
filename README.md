@@ -214,6 +214,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
@@ -481,6 +482,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0713-subarray-product-less-than-k) |
@@ -935,6 +937,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0763-partition-labels) |
@@ -1142,6 +1145,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1252,6 +1256,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0759-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0881-boats-to-save-people) |
