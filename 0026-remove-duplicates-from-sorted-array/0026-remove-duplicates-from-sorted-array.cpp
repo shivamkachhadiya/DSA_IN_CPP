@@ -1,18 +1,16 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        int uniqueElements=1;
-        //int cm=1;
-        int officer=0;
-        int n=nums.size();
-       for(int cm=1;cm<n;cm++){
-            if(nums[cm]!=nums[cm-1]){
-                //pichhe vale ke barabar nahi hei
-                nums[officer+1]=nums[cm];
-                officer++;
-                uniqueElements++;
+    int removeDuplicates(vector<int>& arr) {
+        int n = arr.size();
+        if (n == 0) return 0;
+        
+        int j = 0; // pointer for unique position
+        for (int i = 1; i < n; i++) {
+            if (arr[i] != arr[j]) {
+                j++;
+                arr[j] = arr[i];  // place unique element
             }
         }
-        return uniqueElements;
+        return j + 1; // length of unique array
     }
 };
