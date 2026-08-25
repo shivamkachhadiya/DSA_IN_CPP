@@ -1,29 +1,43 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        int n = tokens.size();
-        stack<int> s;
-        for (int i = 0; i < n; i++) {
-            if (tokens[i] != "+" && tokens[i] != "*" && tokens[i] != "-" &&
-                tokens[i] != "/") {
+        stack<int> st;
+        int ans = 0;
+        for (int i = 0; i < tokens.size(); i++) {
+            if (tokens[i] != "+" && tokens[i] != "-" && tokens[i] != "/" &&
+                tokens[i] != "*") {
                 int val = stoi(tokens[i]);
-                s.push(val);
-            } else {
-                int right = s.top();
-                s.pop();
-                int left = s.top();
-                s.pop();
-                if (tokens[i] == "+") {
-                    s.push(right + left);
-                } else if (tokens[i] == "-") {
-                    s.push(left - right);
-                } else if (tokens[i] == "*")
-                    s.push(left * right);
-                else {
-                    s.push(left / right);
-                }
+                st.push(val);
+            }
+            if (tokens[i] == "+") {
+                int firstTop = st.top();
+                st.pop();
+                int secondTop = st.top();
+                st.pop();
+                st.push(firstTop + secondTop);
+            } else if (tokens[i] == "-") {
+                int firstTop = st.top();
+                st.pop();
+                int secondTop = st.top();
+                st.pop();
+                st.push(secondTop - firstTop);
+            } else if (tokens[i] == "/") {
+                int firstTop = st.top();
+                st.pop();
+                int secondTop = st.top();
+                st.pop();
+                if (secondTop != 0) {
+                    st.push( secondTop/firstTop);
+                } else
+                    st.push(0);
+            } else if (tokens[i] == "*") {
+                int firstTop = st.top();
+                st.pop();
+                int secondTop = st.top();
+                st.pop();
+                st.push(firstTop * secondTop);
             }
         }
-        return s.top();
+        return st.top();
     }
 };
