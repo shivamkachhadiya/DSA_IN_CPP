@@ -1,21 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>> kClosest(vector<vector<int>>& mat, int k) {
-        int n=mat.size();
+    vector<vector<int>> kClosest(vector<vector<int>>& arr, int k) {
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
-        for(int i=0;i<n;i++){
-            int first=mat[i][0];
-            int second=mat[i][1];
-            int dist=(first*first)+(second*second);
-            pq.push({dist,{first,second}});
+
+        for(int i=0;i<arr.size();i++){
+            int x=arr[i][0];
+            int y=arr[i][1];
+            int diff=abs(x*x)+abs(y*y);
+            pq.push({diff,{x,y}});
         }
         vector<vector<int>>ans;
         while(k--){
-            int x1=pq.top().second.first;
-            int x2=pq.top().second.second;
-            ans.push_back({x1,x2});
+            int val1=pq.top().second.first;
+            int val2=pq.top().second.second;
+            ans.push_back({val1,val2});
             pq.pop();
-
         }
         return ans;
     }
