@@ -255,6 +255,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1219,6 +1220,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1094-car-pooling) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
