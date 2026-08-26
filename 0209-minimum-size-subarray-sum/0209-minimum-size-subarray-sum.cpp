@@ -1,18 +1,19 @@
 class Solution {
 public:
-    int minSubArrayLen(int target, vector<int>& nums) {
-        queue<int> q;
-        int sum = 0;
-        int ans = INT_MAX;
-        for (int x : nums) {
-            q.push(x);
-            sum += x;
-            while (sum >= target) {
-                ans = min(ans, (int)q.size());
-                sum -= q.front();
-                q.pop();
+    int minSubArrayLen(int target, vector<int>& arr) {
+        int n = arr.size();
+        int left = 0, right = 0;
+        int currsum=0;
+        int final_ans=INT_MAX;
+        while (right < n) {
+            currsum += arr[right];
+            while(currsum>=target){
+                final_ans=min(final_ans,right-left+1);
+                currsum-=arr[left];
+                left++;
             }
+            right++;
         }
-        return ans == INT_MAX ? 0 : ans;
+        return final_ans==INT_MAX?0:final_ans;
     }
 };
