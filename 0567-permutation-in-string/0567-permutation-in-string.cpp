@@ -1,35 +1,29 @@
 class Solution {
 public:
-    bool issame(int freq1[],int freq2[]){
-        for(int i=0;i<26;i++){
-            if(freq1[i]!=freq2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     bool checkInclusion(string s1, string s2) {
-        int freq[26]={0};
-        for(int i=0;i<s1.length();i++){
-            int index=s1[i]-'a';
-            freq[index]++;
-        }
-        int windowsize=s1.length();
-        for(int i=0;i<s2.length();i++){
-            int windowindex=0;
-            int indx=i;
-            int windowfreq[26]={0};
-            while(windowindex < windowsize && indx<s2.length()){
-                windowfreq[s2[indx]-'a']++;
-                windowindex++;
-                indx++;               
+        sort(s1.begin(), s1.end());   // sort s1 once
+        int n = s1.size();
+        int m = s2.size();
 
+        int left = 0, right = 0;
+
+        while(right < m) {
+            // jab tak window size < n hai, expand karo
+            if(right - left + 1 < n) {
+                right++;
+                continue;
             }
-            if(issame(freq,windowfreq)){
-                return true;
-            }
+
+            // jab window size == n ho jaaye
+            string temp = s2.substr(left, n);
+            sort(temp.begin(), temp.end());
+            if(temp == s1) return true;
+
+            // window slide karo
+            left++;
+            right++;
         }
+
         return false;
-        
     }
 };
