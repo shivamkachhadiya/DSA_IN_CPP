@@ -1,29 +1,30 @@
 class Solution {
 public:
+    unordered_map<char, int> map;
+
+    bool isValid(string& temp) {
+        unordered_map<char, int> freq2;
+        for (char c : temp)
+            freq2[c]++;
+        return map == freq2; // proper frequency match
+    }
     bool checkInclusion(string s1, string s2) {
-        sort(s1.begin(), s1.end());   // sort s1 once
-        int n = s1.size();
-        int m = s2.size();
-
+        for (int i = 0; i < s1.size(); i++) {
+            map[s1[i]]++;
+        }
         int left = 0, right = 0;
-
-        while(right < m) {
-            // jab tak window size < n hai, expand karo
-            if(right - left + 1 < n) {
+        while (right < s2.size()) {
+            if (right - left + 1 < s1.size()) {
                 right++;
                 continue;
             }
-
-            // jab window size == n ho jaaye
-            string temp = s2.substr(left, n);
-            sort(temp.begin(), temp.end());
-            if(temp == s1) return true;
-
-            // window slide karo
+            string temp = s2.substr(left, s1.size());
+            if (isValid(temp)) {
+                return true;
+            }
             left++;
             right++;
         }
-
         return false;
     }
 };
