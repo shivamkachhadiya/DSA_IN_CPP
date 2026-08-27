@@ -1,29 +1,31 @@
 class Solution {
 public:
-unordered_set<int>st;
-vector<vector<int>>ans;
-    void solve(vector<int>&arr,vector<int>&temp){
-        if(temp.size()==arr.size()){
-            ans.push_back(temp);
+    unordered_set<int>st;
+    vector<vector<int>>ans;
+
+    void solve(vector<int>&arr,vector<int>&part){
+        if(part.size()==arr.size()){
+            ans.push_back(part);
             return;
         }
+
         for(int i=0;i<arr.size();i++){
             if(st.find(arr[i])==st.end()){
+                part.push_back(arr[i]);
                 st.insert(arr[i]);
-                temp.push_back(arr[i]);
 
-                solve(arr,temp);
+                solve(arr,part);
 
-                temp.pop_back();
+                part.pop_back();
                 st.erase(arr[i]);
             }
         }
     }
-    
+
     vector<vector<int>> permute(vector<int>& arr) {
         int n=arr.size();
-        vector<int>temp;
-        solve(arr,temp);
-        return ans;
+        vector<int>part;
+        solve(arr,part);
+        return ans;    
     }
 };
