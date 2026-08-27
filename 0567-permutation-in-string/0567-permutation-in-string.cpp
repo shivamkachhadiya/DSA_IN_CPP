@@ -12,12 +12,9 @@ public:
         for (int i = 0; i < s1.size(); i++) {
             map[s1[i]]++;
         }
-        int left = 0, right = 0;
+        int left = 0, right = s1.size()-1;
         while (right < s2.size()) {
-            if (right - left + 1 < s1.size()) {
-                right++;
-                continue;
-            }
+           
             string temp = s2.substr(left, s1.size());
             if (isValid(temp)) {
                 return true;
