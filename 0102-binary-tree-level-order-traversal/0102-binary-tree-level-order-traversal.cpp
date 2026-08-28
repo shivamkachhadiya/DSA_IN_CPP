@@ -15,10 +15,11 @@ public:
         if(root==NULL)return {};
         queue<TreeNode*>q;
         vector<vector<int>>ans;
+                    vector<int>part;
+
         q.push(root);
         while(!q.empty()){
             int size=q.size();
-            vector<int>part;
             for(int i=0;i<size;i++){
                 TreeNode* frontNode=q.front();
                 q.pop();
@@ -27,6 +28,7 @@ public:
                 if(frontNode->right)q.push(frontNode->right);
             }
             ans.push_back(part);
+            part.clear();
         }
         return ans;
     }
