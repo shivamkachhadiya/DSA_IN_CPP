@@ -19,8 +19,7 @@ public:
         if(root==NULL)return 1;
         int leftH=height(root->left);
         int rightH=height(root->right);
-        int diff=abs(rightH-leftH);
-        
-        return diff<=1&&isBalanced(root->left)&&isBalanced(root->right);
+        if(abs(leftH-rightH)>1)return false;
+        return isBalanced(root->left)&&isBalanced(root->right);
     }
 };
