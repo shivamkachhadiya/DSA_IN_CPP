@@ -1,42 +1,31 @@
 class Solution {
 public:
-    vector<vector<string>> result;
-    bool isPalindrome(string& s, int start, int end) {
-        while (start < end) {
-            if (s[start] != s[end]) {
-                return false;
-            }
+    vector<vector<string>>ans;
+    bool isPali(string &s,int start,int end){
+        while(start<end){
+            if(s[start]!=s[end])return false;
             start++;
             end--;
         }
         return true;
     }
-
-    void solve(string &s,int start,vector<string>&path){
-        if (start == s.length()) {
-            result.push_back(path);
+    void solve(string& s,int idx,vector<string>&part){
+        if(idx==s.size()){
+            ans.push_back(part);
             return;
         }
-
-        for(int i=start;i<s.size();i++){
-            if(isPalindrome(s,start,i)){
-                //pick add in curr
-                path.push_back(s.substr(start,i-start+1));
-
-                //recursive
-                solve(s,i+1,path);
-
-                //backtrack
-                path.pop_back();
+        for(int i=idx;i<s.size();i++){
+            if(isPali(s,idx,i)){
+                part.push_back(s.substr(idx,i-idx+1));
+                solve(s,i+1,part);
+                part.pop_back();
             }
         }
-
-
     }
-
     vector<vector<string>> partition(string s) {
-        vector<string> path;
-        solve(s, 0, path);
-        return result;
+        int n=s.size();
+        vector<string>part;
+        solve(s,0,part);
+        return ans;
     }
 };
