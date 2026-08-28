@@ -11,20 +11,15 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root,TreeNode* subRoot){
-        if(root==NULL&& subRoot==NULL)return true;
+    bool solve(TreeNode* root, TreeNode* subRoot){
+        if(root==NULL&&subRoot==NULL)return true;
         if(root==NULL||subRoot==NULL)return false;
         return root->val==subRoot->val&&solve(root->left,subRoot->left)&&solve(root->right,subRoot->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL)return false;
         if(subRoot==NULL)return true;
-        if(solve(root,subRoot)){
-            return true;
-        }
-        return isSubtree(root->left,subRoot)||
-                    isSubtree(root->right,subRoot);
-    
-        
+        if(solve(root,subRoot))return true;
+        return isSubtree(root->left,subRoot)||isSubtree(root->right,subRoot);
     }
 };
