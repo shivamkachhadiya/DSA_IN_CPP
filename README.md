@@ -253,6 +253,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
@@ -855,6 +856,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
@@ -1560,6 +1562,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0802-find-eventual-safe-states](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
+| [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
@@ -1620,6 +1623,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1719,6 +1723,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0695-max-area-of-island](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
+| [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
