@@ -35,30 +35,13 @@ public:
         vector<vector<bool>> vis(n, vector<bool>(m, false));
 
         // top boundary
-        for (int col = 0; col < m; col++) {
-            if (!vis[0][col] && grid[0][col] == 1) {
-                dfs(grid, 0, col, vis, n, m);
-            }
-        }
-
-        // bottom boundary
-        for (int col = 0; col < m; col++) {
-            if (!vis[n - 1][col] && grid[n - 1][col] == 1) {
-                dfs(grid, n - 1, col, vis, n, m);
-            }
-        }
-
-        // left boundary
-        for (int row = 0; row < n; row++) {
-            if (!vis[row][0] && grid[row][0] == 1) {
-                dfs(grid, row, 0, vis, n, m);
-            }
-        }
-
-        // right boundary
-        for (int row = 0; row < n; row++) {
-            if (!vis[row][m - 1] && grid[row][m - 1] == 1) {
-                dfs(grid, row, m - 1, vis, n, m);
+        // mark all boundary-connected lands
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if ((i == 0 || j == 0 || i == n - 1 || j == m - 1) &&
+                    grid[i][j] == 1 && !vis[i][j]) {
+                    dfs(grid, i, j, vis, n, m);
+                }
             }
         }
 
