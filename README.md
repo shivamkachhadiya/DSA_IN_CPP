@@ -441,6 +441,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -577,6 +578,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -739,6 +741,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1033,6 +1036,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
@@ -1562,6 +1566,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0802-find-eventual-safe-states](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
