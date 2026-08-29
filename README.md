@@ -1931,6 +1931,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
 
 
