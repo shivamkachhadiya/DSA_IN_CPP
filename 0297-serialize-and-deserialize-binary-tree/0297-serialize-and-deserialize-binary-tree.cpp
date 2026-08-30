@@ -16,17 +16,16 @@ public:
         queue<TreeNode*>q;
         string ans="";
         q.push(root);
-
         while(!q.empty()){
-            TreeNode* curr=q.front();
+            TreeNode* frontNode=q.front();
             q.pop();
-
-            if(curr==NULL){
+            if(frontNode==NULL){
                 ans+="#,";
-            }else{
-                ans+=to_string(curr->val)+',';
-                q.push(curr->left);
-                q.push(curr->right);
+            }
+            else{
+                ans+=to_string(frontNode->val)+',';
+                q.push(frontNode->left);
+                q.push(frontNode->right);
             }
         }
         return ans;
@@ -41,34 +40,30 @@ public:
             if(ch==','){
                 tokens.push_back(temp);
                 temp="";
-            }else{
+            }
+            else{
                 temp+=ch;
             }
         }
-
         TreeNode* root=new TreeNode(stoi(tokens[0]));
         queue<TreeNode*>q;
         q.push(root);
         int i=1;
-
         while(!q.empty()){
-            TreeNode* curr=q.front();
+            TreeNode* frontNode=q.front();
             q.pop();
             if(tokens[i]!="#"){
-                curr->left=new TreeNode(stoi(tokens[i]));
-                q.push(curr->left);
+                frontNode->left=new TreeNode(stoi(tokens[i]));
+                q.push(frontNode->left);
             }
             i++;
             if(tokens[i]!="#"){
-                curr->right=new TreeNode(stoi(tokens[i]));
-                q.push(curr->right);
+                frontNode->right=new TreeNode(stoi(tokens[i]));
+                q.push(frontNode->right);
             }
             i++;
-
         }
-
         return root;
-
     }
 };
 
