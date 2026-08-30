@@ -1,31 +1,32 @@
 class Solution {
 public:
-    vector<vector<string>>ans;
-    bool isPali(string &s,int start,int end){
+    vector<vector<string>>final_ans;
+    bool isPali(string s,int start,int end){
         while(start<end){
-            if(s[start]!=s[end])return false;
+            if(s[start]!=s[end]){
+                return false;
+            }
             start++;
             end--;
         }
         return true;
     }
-    void solve(string& s,int idx,vector<string>&part){
-        if(idx==s.size()){
-            ans.push_back(part);
+    void solve(string s,int n,int start,vector<string>&part){
+        if(start==n){
+            final_ans.push_back(part);
             return;
         }
-        for(int i=idx;i<s.size();i++){
-            if(isPali(s,idx,i)){
-                part.push_back(s.substr(idx,i-idx+1));
-                solve(s,i+1,part);
+        for(int i=start;i<n;i++){
+            if(isPali(s,start,i)){
+                part.push_back(s.substr(start,i-start+1));
+                solve(s,n,i+1,part);
                 part.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
-        int n=s.size();
         vector<string>part;
-        solve(s,0,part);
-        return ans;
+        solve(s,s.size(),0,part);
+        return final_ans;    
     }
 };
