@@ -4,9 +4,8 @@ public:
         if(i==0&&j==0)return 1;
         if(i<0||j<0)return 0;
         if(dp[i][j]!=-1)return dp[i][j];
-        int left=solve(row,col,i,j-1,dp);
-        int top=solve(row,col,i-1,j,dp);
-        return dp[i][j]=left+top;
+        return dp[i][j]=solve(row,col,i,j-1,dp)+solve(row,col,i-1,j,dp);
+        
     }
     int uniquePaths(int m, int n) {
         vector<vector<int>>dp(m,vector<int>(n,-1));
