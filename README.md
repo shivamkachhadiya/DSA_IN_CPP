@@ -906,6 +906,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0876-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1765-merge-in-between-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
