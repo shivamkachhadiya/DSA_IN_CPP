@@ -271,6 +271,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1200-minimum-absolute-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -870,6 +871,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
@@ -1403,6 +1405,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1250-longest-common-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
