@@ -1,40 +1,24 @@
 class Solution {
 public:
-    bool solve(vector<int>& arr, int target, int sum, int n, int i,
-               vector<vector<int>>& dp) {
-        if (i >= n) {
-            if (sum == target) {
-                return true;
-            } else {
-                return false;
-            }
-        }
-        if (sum > target)
-            return false;
-        if (sum == target)
-            return true;
+    bool solve(vector<int>& nums, int i, int sum, int target, vector<vector<int>>& dp) {
+        if(sum == target) return true;
+        if(i >= nums.size() || sum > target) return false;
 
-        if (dp[sum][i] != -1) {
-            return dp[sum][i];
-        }
+        if(dp[i][sum] != -1) return dp[i][sum];
 
-        bool pick = solve(arr, target, sum + arr[i], n, i + 1, dp);
-        bool nonpick = solve(arr, target, sum, n, i + 1, dp);
+        bool take = solve(nums, i+1, sum+nums[i], target, dp);
+        bool notake = solve(nums, i+1, sum, target, dp);
 
-        return dp[sum][i] = pick || nonpick;
+        return dp[i][sum] = take || notake;
     }
+
     bool canPartition(vector<int>& nums) {
-        int total = 0;
-        for (auto i : nums) {
-            total += i;
-        }
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        if(sum % 2 != 0) return false;
+
         int n = nums.size();
-        if (total % 2 == 0) {
-            int target = total / 2;
-            vector<vector<int>> dp(target + 1, vector<int>(n, -1));
-            return solve(nums, target, 0, n, 0, dp);
-        } else {
-            return false;
-        }
+        vector<vector<int>> dp(n, vector<int>((sum/2)+1, -1));
+
+        return solve(nums, 0, 0, sum/2, dp);
     }
 };
