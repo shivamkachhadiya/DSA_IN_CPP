@@ -258,6 +258,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1401,6 +1402,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1049-last-stone-weight-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1121-partition-array-for-maximum-sum) |
@@ -1921,6 +1923,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0322-coin-change](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1964,6 +1967,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
 
 
