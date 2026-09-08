@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int solve(vector<int>&arr,int tar,int n,vector<long long>&dp){
-         if(tar<0)return 0;
-        if(tar==0)return 1;
-        if (dp[tar] != -1) return dp[tar];
+    int solve(vector<int>& arr, int target, int sum, vector<int>& dp) {
+        if(sum == target) return 1;   // ek valid way mila
+        if(sum > target) return 0;    // target cross ho gaya
 
-        long long ans = 0;
+        if(dp[sum] != -1) return dp[sum];  // memoization check
 
-        for(int i=0;i<n;i++){
-            ans+=solve(arr,tar-arr[i],n,dp);
+        int ans = 0;
+        for(int i = 0; i < arr.size(); i++) {
+            ans += solve(arr, target, sum + arr[i], dp);
         }
-        return dp[tar]=ans;
-
-        
+        return dp[sum] = ans;
     }
+
     int combinationSum4(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<long long>dp(target+1,-1);
-        return (int)solve(nums,target,n,dp);
+        vector<int> dp(target + 1, -1);  // memo table
+        return solve(nums, target, 0, dp);
     }
 };
