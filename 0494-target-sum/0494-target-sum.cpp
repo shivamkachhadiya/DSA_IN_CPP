@@ -1,21 +1,20 @@
 class Solution {
 public:
-    int count = 0;
-    void solve(vector<int>&arr,int target,int n,int i,int sum){
+    int count=0;
+    void solve(vector<int>& nums,int n,int target,int currSum,int i){
         if(i>=n){
-            if(sum==target){
-                count++;
-                return;
-            }else{
-                return;
-            }
+        if(currSum==target){
+            count++;
+            return;
         }
-        
-        solve(arr,target,n,i+1,sum+arr[i]);
-        solve(arr,target,n,i+1,sum-arr[i]);
+        return;
+        }
+        solve(nums,n,target,currSum+nums[i],i+1);
+        solve(nums,n,target,currSum-nums[i],i+1);
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        solve(nums,target,nums.size(),0,0);
-        return count;
+        int n=nums.size();
+         solve(nums,n,target,0,0);
+         return count;
     }
 };
