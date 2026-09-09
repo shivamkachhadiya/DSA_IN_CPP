@@ -1973,6 +1973,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0416-partition-equal-subset-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1049-last-stone-weight-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
 
 
