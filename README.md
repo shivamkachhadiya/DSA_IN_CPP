@@ -666,6 +666,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3870-count-commas-in-range](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
