@@ -1,63 +1,43 @@
 class Solution {
 public:
-    vector<int> solve(vector<int>& nums, int prev_index, int curr_index) {
-        if (curr_index == nums.size()) {
-            return {};
+    int solve(vector<int>& nums, int n, int i, int p, vector<vector<int>>& dp) {
+        if(i >= n) return 0;
+        if(dp[i][p+1] != -1) return dp[i][p+1];
+
+        int take = 0;
+        if(p == -1 || nums[i] % nums[p] == 0) {
+            take = 1 + solve(nums, n, i+1, i, dp);
         }
+        int notake = solve(nums, n, i+1, p, dp);
 
-        // Choice 1: Take nums[curr_index] if divisible
-        vector<int> take;
-        if (prev_index == -1 || nums[curr_index] % nums[prev_index] == 0) {
-            // next call mei jo abhi current index hei vo previous index ban
-            // jayega and jo curr index hei v +1 hoke aage badh jayega
-            take = solve(nums, curr_index, curr_index + 1);
-
-            take.insert(take.begin(), nums[curr_index]);
-        }
-
-        // Choice 2: Skip nums[curr_index]
-        vector<int> notTake = solve(nums, prev_index, curr_index + 1);
-
-        // Return the bigger subset
-        return (take.size() > notTake.size()) ? take : notTake;
+        return dp[i][p+1] = max(take, notake);
     }
 
-    vector<int> solveMEM(vector<int>& nums, int prev_index, int curr_index,
-                         vector<vector<vector<int>>>& dp) {
-        if (curr_index == nums.size()) {
-            return {};
-        }
-        if (!dp[prev_index + 1][curr_index].empty()) {
-            return dp[prev_index + 1][curr_index];
-        }
+    // helper to reconstruct subset using recursion
+    void build(vector<int>& nums, int n, int i, int p, int len,
+               vector<vector<int>>& dp, vector<int>& subset) {
+        if(i >= n || len == 0) return;
 
-        // Choice 1: Take nums[curr_index] if divisible
-        vector<int> take;
-        if (prev_index == -1 || nums[curr_index] % nums[prev_index] == 0) {
-            // next call mei jo abhi current index hei vo previous index ban
-            // jayega and jo curr index hei v +1 hoke aage badh jayega
-            take = solveMEM(nums, curr_index, curr_index + 1, dp);
-
-            take.insert(take.begin(), nums[curr_index]);
+        // if taking nums[i] gives correct length
+        if((p == -1 || nums[i] % nums[p] == 0) &&
+           1 + solve(nums, n, i+1, i, dp) == len) {
+            subset.push_back(nums[i]);
+            build(nums, n, i+1, i, len-1, dp, subset);
+        } else {
+            build(nums, n, i+1, p, len, dp, subset);
         }
-
-        // Choice 2: Skip nums[curr_index]
-        vector<int> notTake = solveMEM(nums, prev_index, curr_index + 1, dp);
-
-        // Store and return best
-        if (take.size() > notTake.size()) {
-            return dp[prev_index + 1][curr_index] = take;
-        }
-        return dp[prev_index + 1][curr_index] = notTake;
     }
 
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        sort(nums.begin(), nums.end()); // important step!
-        int n = nums.size();           
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(n));
+        sort(nums.begin(), nums.end()); // important
 
-        // return solve(nums, -1, 0);
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n+1, -1));
 
-        return solveMEM(nums, -1, 0, dp);
+        int maxLen = solve(nums, n, 0, -1, dp);
+
+        vector<int> subset;
+        build(nums, n, 0, -1, maxLen, dp, subset);
+        return subset;
     }
 };
