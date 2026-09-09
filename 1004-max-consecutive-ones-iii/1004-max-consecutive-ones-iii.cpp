@@ -2,18 +2,18 @@ class Solution {
 public:
     int longestOnes(vector<int>& arr, int k) {
         int n=arr.size();
-        int left=0,right=0;
-        int zeros=0;
-        int maxi=0;
-        while(right<n){
-            if(arr[right]==0)zeros++;
-            while(zeros>k){
-                if(arr[left]==0)zeros--;
+        int left=0;
+        int count=0;
+        int r=0;
+        for(;r<n;r++){
+            if(arr[r]==0){
+                count++;
+            }
+            if(count>k){
+                if(arr[left]==0)count--;
                 left++;
             }
-            right++;
-            maxi=max(maxi,right-left+1);
         }
-        return maxi-1;
+        return r-left;
     }
 };
