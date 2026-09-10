@@ -1,32 +1,33 @@
-#include <iostream>
-#include <thread>
-#include <atomic>
-#include <functional>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 class FooBar {
 private:
     int n;
-    atomic<bool> fooTurn;
+    mutex m;
+    condition_variable cv;
+    bool fooTurn = true;
 
 public:
     FooBar(int n) {
         this->n = n;
-        fooTurn = true;
     }
 
     void foo(function<void()> printFoo) {
 
         for (int i = 0; i < n; i++) {
 
-            // Wait until it is foo's turn
-            while (!fooTurn);
+            unique_lock<mutex> lock(m);
+
+            while (!fooTurn) {
+                cv.wait(lock);
+            }
 
             printFoo();
 
-            // Now bar's turn
             fooTurn = false;
+
+            cv.notify_all();
         }
     }
 
@@ -34,13 +35,17 @@ public:
 
         for (int i = 0; i < n; i++) {
 
-            // Wait until it is bar's turn
-            while (fooTurn);
+            unique_lock<mutex> lock(m);
+
+            while (fooTurn) {
+                cv.wait(lock);
+            }
 
             printBar();
 
-            // Now foo's turn
             fooTurn = true;
+
+            cv.notify_all();
         }
     }
 };
