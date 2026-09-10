@@ -17,10 +17,10 @@ public:
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL)return 0;
-        int left_h=solve(root->left);
-        int right_h=solve(root->right);
-        int leftRecursive=diameterOfBinaryTree(root->left);
-        int rightRecursive=diameterOfBinaryTree(root->right);
-        return max({left_h+right_h,leftRecursive,rightRecursive});
+        int leftH=solve(root->left);
+        int rightH=solve(root->right);
+        int leftR=diameterOfBinaryTree(root->left);
+        int rightR=diameterOfBinaryTree(root->right);
+        return max({leftH+rightH,leftR,rightR});
     }
 };
