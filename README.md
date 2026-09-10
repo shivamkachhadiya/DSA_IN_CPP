@@ -1867,6 +1867,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1115-print-foobar-alternately) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
