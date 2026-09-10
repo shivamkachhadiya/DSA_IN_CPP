@@ -1,36 +1,33 @@
-class Foo {
-private:
-    mutex firstCompleted;
-    mutex secondCompleted;
+using namespace std;
 
+class Foo {
 public:
+atomic<int>lock;
+void spinlock(int id){
+    while(lock!=id){}
+}
     Foo() {
-        firstCompleted.lock();
-        secondCompleted.lock();
+        lock=1;
     }
 
     void first(function<void()> printFirst) {
-
+        
+        // printFirst() outputs "first". Do not change or remove this line.
         printFirst();
-
-        // second() ko allow karo
-        firstCompleted.unlock();
+        lock=2;
     }
 
     void second(function<void()> printSecond) {
-
-        lock_guard<mutex> waitForFirst(firstCompleted);
-
+        
+        // printSecond() outputs "second". Do not change or remove this line.
+        spinlock(2);
         printSecond();
-
-        // third() ko allow karo
-        secondCompleted.unlock();
+        lock=3;
     }
 
     void third(function<void()> printThird) {
-
-        lock_guard<mutex> waitForSecond(secondCompleted);
-
+        spinlock(3);
+        // printThird() outputs "third". Do not change or remove this line.
         printThird();
     }
 };
