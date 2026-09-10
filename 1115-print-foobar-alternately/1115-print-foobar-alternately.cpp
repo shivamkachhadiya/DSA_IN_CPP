@@ -19,7 +19,7 @@ public:
 
             unique_lock<mutex> lock(m);
 
-            while (!fooTurn) {
+            while (fooTurn==false) {
                 cv.wait(lock);
             }
 
@@ -37,7 +37,7 @@ public:
 
             unique_lock<mutex> lock(m);
 
-            while (fooTurn) {
+            while (fooTurn==true) {
                 cv.wait(lock);
             }
 
