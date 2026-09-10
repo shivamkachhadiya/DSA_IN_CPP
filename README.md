@@ -250,6 +250,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0983-minimum-cost-for-tickets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -812,6 +813,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1048-longest-string-chain) |
 | [1087-longest-arithmetic-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1087-longest-arithmetic-subsequence) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1228,6 +1230,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0904-fruit-into-baskets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1517,6 +1520,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0169-majority-element](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0992-subarrays-with-k-different-integers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2833-furthest-point-from-origin) |
