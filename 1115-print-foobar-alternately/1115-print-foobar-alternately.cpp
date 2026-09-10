@@ -1,47 +1,36 @@
-#include<bits/stdc++.h>
+#include <atomic>
+#include <thread>
+#include <functional>
+
 using namespace std;
 
 class FooBar {
 private:
     int n;
-    mutex m;
-    condition_variable cv;
-    bool fooTurn = true;
+    atomic<bool> fooTurn{true};
 
 public:
-    FooBar(int n) { this->n = n; }
+    FooBar(int n) {
+        this->n = n;
+    }
+
     void foo(function<void()> printFoo) {
-
         for (int i = 0; i < n; i++) {
-
-            unique_lock<mutex> lock(m);
-
-            while (!fooTurn) {
-                cv.wait(lock);
-            }
+            while (!fooTurn.load());
 
             printFoo();
 
-            fooTurn = false;
-
-            cv.notify_all();
+            fooTurn.store(false);
         }
     }
+
     void bar(function<void()> printBar) {
-
         for (int i = 0; i < n; i++) {
-
-            unique_lock<mutex> lock(m);
-
-            while (fooTurn) {
-                cv.wait(lock);
-            }
+            while (fooTurn.load());
 
             printBar();
 
-            fooTurn = true;
-
-            cv.notify_all();
+            fooTurn.store(true);
         }
     }
 };
