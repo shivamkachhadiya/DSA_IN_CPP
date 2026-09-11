@@ -334,6 +334,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2625-increment-submatrices-by-one](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -836,6 +837,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2615-sum-of-distances](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1085,6 +1087,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -1439,6 +1442,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2463-minimum-total-distance-traveled) |
+| [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1810,6 +1814,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
