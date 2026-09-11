@@ -7,10 +7,10 @@ public:
         if (dp[i] != -1)
             return dp[i];
         int no_extra = 1e9;
-        for (int j = 1; j+i<=n; j++) {
-            string temp = s.substr(i, j);
+        for (int j = i; j<n; j++) {
+            string temp = s.substr(i, j-i+1);
             if (st.find(temp) != st.end()) {
-                no_extra = min(no_extra, solve(s, arr, st, i + j, n, dp));
+                no_extra = min(no_extra, solve(s, arr, st, j+1, n, dp));
             }
         }
         int take_extra = 1 + solve(s, arr, st, i + 1, n, dp);
