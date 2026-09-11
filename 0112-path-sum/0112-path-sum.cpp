@@ -1,28 +1,20 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
 public:
-    bool solve(TreeNode* root, int t, int sum) {
+    bool inOrder(TreeNode* root, int tar, int sum) {
         if (root == NULL)
             return false;
 
-        sum += root->val;
+        sum += root->val;  // pehle root->val add karo
 
-        if(root->left==NULL&&root->right==NULL&&sum==t)return true;
+        // agar leaf node hai aur sum match karta hai
+        if (root->left == NULL && root->right == NULL && sum == tar)
+            return true;
 
-        return solve(root->left,t,sum)||solve(root->right,t,sum);
+        // left/right recursion ka result return karo
+        return inOrder(root->left, tar, sum) || inOrder(root->right, tar, sum);
     }
+
     bool hasPathSum(TreeNode* root, int targetSum) {
-        return solve(root, targetSum, 0);
+        return inOrder(root, targetSum, 0);
     }
 };
