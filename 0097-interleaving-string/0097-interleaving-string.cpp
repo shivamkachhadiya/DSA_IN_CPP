@@ -9,6 +9,7 @@ public:
         if(j<n1&&s3[i]==s1[j]){
              result=result||solve(s1,s2,s3,n1,n2,n3,i+1,j+1,k,dp);
         }
+        if(result)return true;
         if(k<n2&&s3[i]==s2[k]){
              result=result||solve(s1,s2,s3,n1,n2,n3,i+1,j,k+1,dp);
         }
