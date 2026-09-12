@@ -345,6 +345,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3225-maximum-score-from-grid-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3225-maximum-score-from-grid-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -529,6 +530,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
@@ -1330,6 +1332,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
 | [2895-minimum-processing-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2895-minimum-processing-time) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1446,6 +1449,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3660-jump-game-ix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3660-jump-game-ix) |
