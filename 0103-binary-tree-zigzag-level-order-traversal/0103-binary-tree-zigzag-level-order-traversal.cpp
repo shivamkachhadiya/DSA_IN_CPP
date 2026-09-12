@@ -6,34 +6,44 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        if(root==NULL)return {};
-        queue<TreeNode*>q;
+        vector<vector<int>> ans;
+
+        if (root == NULL)
+            return ans;
+        queue<TreeNode*> q;
         q.push(root);
-        vector<vector<int>>ans;
-        bool leftToRight=true;
-        while(!q.empty()){
-            int size=q.size();
-            vector<int>part;
-            for(int i=0;i<size;i++){
-                TreeNode* frontNode=q.front();
+        bool lTor = true;
+        while (!q.empty()) {
+            int size = q.size();
+            vector<int> part;
+            for (int i = 0; i < size; i++) {
+
+                TreeNode* frontNode = q.front();
                 q.pop();
                 part.push_back(frontNode->val);
-                if(frontNode->left)q.push(frontNode->left);
-                if(frontNode->right)q.push(frontNode->right);
+                if (frontNode->left)
+                    q.push(frontNode->left);
+                if (frontNode->right)
+                    q.push(frontNode->right);
             }
-            if(leftToRight==false){
-                reverse(part.begin(),part.end());
+            if (lTor) {
+
                 ans.push_back(part);
-            }else{
+                lTor = !lTor;
+
+            } else {
+                reverse(part.begin(), part.end());
+
                 ans.push_back(part);
+                lTor = !lTor;
             }
-            leftToRight=!leftToRight;
         }
         return ans;
     }
