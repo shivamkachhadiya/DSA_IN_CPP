@@ -1,31 +1,26 @@
 class Solution {
 public:
-    int solveDP(int index, int buy, vector<int>& prices,
-                vector<vector<vector<int>>>& dp, int limits) {
-        if (index == prices.size() || limits == 0) {
+    int solve(int i, int buy, vector<int>& arr, vector<vector<vector<int>>>&dp,
+              int limit) {
+        if (i == arr.size())
             return 0;
-        }
-
-        if (dp[index][buy][limits] != -1)
-            return dp[index][buy][limits];
-
+        if (limit == 0)
+            return 0;
         int profit = 0;
+        if (dp[i][buy][limit] != -1)
+            return dp[i][buy][limit];
         if (buy) {
-            // Buy or Skip
-            profit = max(-prices[index] + solveDP(index + 1, 0, prices, dp, limits),
-                         0 + solveDP(index + 1, 1, prices, dp, limits));
+            profit = max((-arr[i] + solve(i + 1, 0, arr, dp,limit)),
+                         (0 + solve(i + 1, 1, arr, dp,limit)));
         } else {
-            // Sell or Skip
-            profit = max(prices[index] + solveDP(index + 1, 1, prices, dp, limits - 1),
-                         0 + solveDP(index + 1, 0, prices, dp, limits));
+            profit = max((+arr[i] + solve(i + 1, 1, arr, dp,limit-1)),
+                         (0 + solve(i + 1, 0, arr, dp,limit)));
         }
-
-        return dp[index][buy][limits] = profit;
+        return dp[i][buy][limit]=profit;
     }
     int maxProfit(int k, vector<int>& prices) {
-        int n = prices.size();
-        // dp[n][2][3] initialized with -1
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(k + 1, -1)));
-        return solveDP(0, 1, prices, dp, k);
+          int n = prices.size();
+        vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(k+1,-1)));
+        return solve(0, 1, prices, dp,k);
     }
 };
