@@ -1,32 +1,25 @@
 class Solution {
 public:
-    int solveDP(int index, int buy, vector<int>& prices, int fees,
-                vector<vector<int>>& dp) {
-        if (index == prices.size()) {
+    int Fees;
+    int solve(int i, int buy, vector<int>& arr, vector<vector<int>>& dp) {
+        if (i == arr.size())
             return 0;
-        }
-
-        if (dp[index][buy] != -1)
-            return dp[index][buy];
-
         int profit = 0;
+        if (dp[i][buy] != -1)
+            return dp[i][buy];
         if (buy) {
-            // Buy or Skip
-            dp[index][buy] =
-                max(-prices[index] + solveDP(index + 1, 0, prices, fees, dp),
-                    0 + solveDP(index + 1, 1, prices, fees, dp));
+            profit = max((-arr[i] + solve(i + 1, 0, arr, dp)),
+                         (0 + solve(i + 1, 1, arr, dp)));
         } else {
-            // Sell or Skip
-            dp[index][buy] = max(prices[index] - fees +
-                                     solveDP(index + 1, 1, prices, fees, dp),
-                                 solveDP(index + 1, 0, prices, fees, dp));
+            profit = max((+arr[i] + (-Fees)+solve(i + 1, 1, arr, dp)),
+                         (0 + solve(i + 1, 0, arr, dp)));
         }
-        return dp[index][buy];
+        return dp[i][buy] = profit;
     }
     int maxProfit(vector<int>& prices, int fee) {
         int n = prices.size();
+        Fees=fee;
         vector<vector<int>> dp(n, vector<int>(2, -1));
-        // return solve(0, 1, prices);
-        return solveDP(0, 1, prices, fee, dp);
+        return solve(0, 1, prices, dp);
     }
 };
