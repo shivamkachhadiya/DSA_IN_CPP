@@ -1,35 +1,49 @@
+class DSU {
+public:
+    vector<int> parent, size;
+    DSU(int n) {
+        parent.resize(n + 1);
+        size.resize(n + 1, 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+            size[i] = 1;
+        }
+    }
+    int find(int x) {
+        if (x == parent[x]) {
+            return x;
+        }
+        return parent[x] = find(parent[x]);
+    }
+
+    void Union(int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
+        if (x_parent == y_parent)
+            return;
+        if (size[x_parent] < size[y_parent]) {
+           parent[x_parent] = y_parent;
+            size[y_parent] += size[x_parent];
+        } else {
+            parent[y_parent] = x_parent;
+            size[x_parent] += size[y_parent];
+        }
+    }
+};
 class Solution {
 public:
-    bool dfs(unordered_map<int, vector<int>>& adj, vector<vector<int>>& edges,
-             int u, int v, vector<bool>& vis) {
-        vis[u] = true;
-        if (u == v)
-            return true;
-        for (auto& x : adj[u]) {
-            if (vis[x] == false) {
-                if (dfs(adj, edges, x, v, vis)) {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+        DSU dsu(n);
+        for (auto& x : edges) {
+            int u = x[0];
+            int v = x[1];
 
-        unordered_map<int, vector<int>> adj;
-        for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-            
-            vector<bool> vis(edges.size() + 1, false);
-
-            if (adj.find(u) != adj.end() && adj.find(v) != adj.end() &&
-                dfs(adj, edges, u, v, vis)) {
-                return edges[i];
+            if (dsu.find(u) == dsu.find(v)) {
+                return x;
             }
 
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            dsu.Union(u, v);
         }
         return {};
     }
