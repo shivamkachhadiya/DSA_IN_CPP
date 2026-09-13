@@ -1,36 +1,37 @@
 class Solution {
 public:
-    bool solve(int n,vector<bool>&vis,vector<vector<int>>&arr,vector<vector<int>>&adj,int start,vector<bool>&isRecPath){
-        vis[start]=true;
-        isRecPath[start]=true;
-        for(auto &p:adj[start]){
-            if(vis[p]==false){
-                if(solve(n,vis,arr,adj,p,isRecPath)){
+    bool dfs(int node,vector<vector<int>>&prerequisites,vector<vector<int>>&adj,vector<bool>&vis,vector<bool>&isRecPath){
+        vis[node]=true;
+        isRecPath[node]=true;
+        for(auto &x:adj[node]){
+            if(vis[x]==false){
+                if(dfs(x,prerequisites,adj,vis,isRecPath)){
                     return true;
                 }
-            }else if(isRecPath[p]==true){
+            }else if(isRecPath[x]==true){
                 return true;
             }
         }
-        isRecPath[start]=false;
+        isRecPath[node]=false;
         return false;
     }
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>adj(n+1);
-        for(auto &x:prerequisites){
-            int u=x[0];
-            int v=x[1];
-            adj[v].push_back(u);
+    bool canFinish(int V, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>adj(V);
+        for(int i=0;i<prerequisites.size();i++){
+            int u=prerequisites[i][0];
+            int v=prerequisites[i][1];
+            adj[u].push_back(v);
         }
-        vector<bool>vis(n,false);
-        vector<bool>isRecPath(n,false);
-        for(int i=0;i<n;i++){
+        vector<bool>vis(V,false);
+        vector<bool>isRecPath(V);
+        for(int i=0;i<V;i++){
             if(vis[i]==false){
-                if(solve(n,vis,prerequisites,adj,i,isRecPath)){
+                if(dfs(i,prerequisites,adj,vis,isRecPath)){
                     return false;
                 }
             }
         }
         return true;
+
     }
 };
