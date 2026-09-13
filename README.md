@@ -235,6 +235,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0815-bus-routes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0815-bus-routes) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0835-image-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0874-walking-robot-simulation) |
@@ -882,6 +883,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0542-01-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
