@@ -216,6 +216,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0560-subarray-sum-equals-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
+| [0643-maximum-average-subarray-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1236,6 +1237,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0239-sliding-window-maximum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0930-binary-subarrays-with-sum) |
