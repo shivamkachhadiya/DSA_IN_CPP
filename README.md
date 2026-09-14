@@ -647,6 +647,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0650-2-keys-keyboard](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1840,6 +1841,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
