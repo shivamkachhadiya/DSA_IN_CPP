@@ -650,6 +650,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0836-rectangle-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -1445,6 +1446,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1521,6 +1523,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1094-car-pooling](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1109-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -1551,6 +1554,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
