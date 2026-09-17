@@ -282,6 +282,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -523,6 +524,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
@@ -830,6 +832,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1253,6 +1256,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1444,6 +1448,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
