@@ -1,37 +1,40 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int,int>>>adj(n+1);
-        for(int i=0;i<times.size();i++){
-            int u=times[i][0];
-            int v=times[i][1];
-            int nodeDistance=times[i][2];
-            adj[u].push_back({v,nodeDistance});
-        }
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
-        //distance node
-        pq.push({0,k});
+        using Edge = pair<int,int>; // (neighbor, weight)
+        vector<vector<Edge>> adj(n+1);
 
-        vector<int>dist_vec(n+1,1e9);
-        dist_vec[k]=0;
-        while(!pq.empty()){
-            int dist=pq.top().first;
-            int Node=pq.top().second;
+        for (const auto& t : times) {
+            int u = t[0], v = t[1], w = t[2];
+            adj[u].push_back({v, w});
+        }
+
+        const int INF = INT_MAX;
+        vector<int> dist(n+1, INF);
+        dist[k] = 0;
+
+        using State = pair<int,int>; // (distance, node)
+        priority_queue<State, vector<State>, greater<State>> pq;
+        pq.push({0, k});
+
+        while (!pq.empty()) {
+            auto [d, u] = pq.top();
             pq.pop();
-             if(dist > dist_vec[Node]) continue; 
-            for(auto &x:adj[Node]){
-                int nextNodeDistance=x.second;
-                int nextNode=x.first;
-                if(dist_vec[nextNode]>nextNodeDistance+dist){
-                    dist_vec[nextNode]=nextNodeDistance+dist;
-                    pq.push({nextNodeDistance+dist,nextNode});
+
+            if (d > dist[u]) continue; // skip stale entry
+
+            for (auto [v, w] : adj[u]) {
+                if (dist[v] > d + w) {
+                    dist[v] = d + w;
+                    pq.push({dist[v], v});
                 }
             }
         }
-        int ans=0;
-        for(int i=1;i<=n;i++){  
-            if(dist_vec[i]==1e9) return -1;
-            ans=max(ans,dist_vec[i]);
+
+        int ans = 0;
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] == INF) return -1;
+            ans = max(ans, dist[i]);
         }
         return ans;
     }
