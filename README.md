@@ -285,6 +285,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
@@ -1286,6 +1287,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-last-stone-weight](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1094-car-pooling) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
+| [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1822,6 +1824,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0797-all-paths-from-source-to-target](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
+| [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -1834,6 +1837,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0399-evaluate-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
@@ -2005,6 +2009,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 ## Quicksort
 |  |
