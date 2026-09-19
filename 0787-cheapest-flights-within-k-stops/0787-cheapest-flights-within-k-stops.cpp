@@ -1,49 +1,38 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& arr, int src, int dst,
-                          int k) {
-        // int n=arr.size();
-        // int m=arr[0].size();
-        const int INF = 1e9;
-        vector<vector<pair<int, int>>> adj(n);
-        // adj
-        for (int i = 0; i < arr.size(); i++) {
-            int u = arr[i][0];
-            int v = arr[i][1];
-            int distance = arr[i][2];
-            adj[u].push_back({v, distance});
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+        const int INF = INT_MAX;
+
+        // Build adjacency list
+        vector<vector<pair<int,int>>> adj(n);
+        for (auto &f : flights) {
+            int u = f[0], v = f[1], w = f[2];
+            adj[u].push_back({v, w});
         }
-        queue<pair<int, pair<int, int>>> pq;
 
-        // pq= {stops,node,distance}
-        pq.push({0, {src, 0}});
-        vector<int> distArr(n, INF);
-        distArr[src] = 0;
+        // Queue holds (stops, node, cost)
+        queue<tuple<int,int,int>> q;
+        q.push({0, src, 0});
 
-        while (!pq.empty()) {
-            auto it = pq.front();
-            pq.pop();
-            int Stops = it.first;
-            int Node = it.second.first;
-            int Distance = it.second.second;
+        vector<int> dist(n, INF);
+        dist[src] = 0;
 
-            // if (Stops > k) continue;
-            // if(Node==dst)return Distance;
+        while (!q.empty()) {
+            auto [stops, node, cost] = q.front();
+            q.pop();
 
-            for (auto& x : adj[Node]) {
-                int newNode = x.first;
-                int newCost = Distance + x.second;
-                int newStop = Stops + 1;
-                if (newStop <= k + 1) {
-                    if (newCost < distArr[newNode]) {
-                        distArr[newNode] = newCost;
-                        pq.push({newStop, {newNode, newCost}});
-                    }
+            // Explore neighbors
+            for (auto [nbr, price] : adj[node]) {
+                int newCost = cost + price;
+                int newStops = stops + 1;
+
+                if (newStops <= k + 1 && newCost < dist[nbr]) {
+                    dist[nbr] = newCost;
+                    q.push({newStops, nbr, newCost});
                 }
             }
         }
-        if (distArr[dst] != 1e9)
-            return distArr[dst];
-        return -1;
+
+        return dist[dst] == INF ? -1 : dist[dst];
     }
 };
