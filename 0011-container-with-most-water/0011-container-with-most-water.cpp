@@ -1,21 +1,26 @@
 class Solution {
 public:
     int maxArea(vector<int>& arr) {
-        int left=0;
+        int start=0;
         int n=arr.size();
-        int right=n-1;
-        int maxi=INT_MIN;
-        while(left<right){
-            int height=min(arr[left],arr[right]);
-            int width=right-left;
-            int total=height*width;
-            maxi=max(maxi,total);
-            if(arr[left]<arr[right]){
-                left++;
+        int end=n-1;
+        int ans=0;
+        while(start<end){
+            int leftH=arr[start];
+            int rightH=arr[end];
+
+            int finalH=min(leftH,rightH);
+            int distance=end-start;
+
+            ans=max(ans,finalH*distance);
+
+            if(leftH<rightH){
+                start++;
             }else{
-                right--;
+                end--;
             }
+
         }
-        return maxi;
+        return ans;
     }
 };
