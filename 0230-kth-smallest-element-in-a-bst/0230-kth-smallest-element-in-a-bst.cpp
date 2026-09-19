@@ -14,7 +14,7 @@ public:
     int counter=0;
     int ans=0;
     void solve(TreeNode* root,int k){
-        if(root==NULL)return ;
+        if(root==NULL)return;
 
         solve(root->left,k);
         counter++;
@@ -25,7 +25,7 @@ public:
         solve(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        solve(root,k);
-        return ans;
+         solve(root,k);
+         return ans;
     }
 };
