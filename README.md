@@ -1110,6 +1110,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -1516,6 +1517,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2549-count-distinct-numbers-on-board) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
