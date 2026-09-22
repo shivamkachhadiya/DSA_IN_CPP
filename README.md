@@ -357,6 +357,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3488-closest-equal-element-queries](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -675,6 +676,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1761,6 +1763,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3525-find-x-value-of-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3525-find-x-value-of-array-ii) |
 ## Game Theory
 |  |
 | ------- |
