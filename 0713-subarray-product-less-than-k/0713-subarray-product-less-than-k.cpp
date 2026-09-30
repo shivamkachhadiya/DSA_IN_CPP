@@ -1,19 +1,25 @@
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& arr, int k) {
-                if(k <= 1) return 0; // edge case
         int n=arr.size();
+                if (k <= 1) return 0;
+
+        int maxProd=1;
         int left=0;
-        int maxCount=0;
-        long long prod=1;
+        int count=0;
+
         for(int right=0;right<n;right++){
-            prod*=arr[right];
-            while(prod>=k){
-                prod/=arr[left];
+            maxProd*=arr[right];
+           
+
+            while(maxProd>=k){
+                maxProd/=arr[left];
                 left++;
             }
-            maxCount+=(right-left+1);
+
+            count+=right-left+1;
+            
         }
-        return maxCount;
+        return count;
     }
 };
