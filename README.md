@@ -1088,6 +1088,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0784-letter-case-permutation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1048-longest-string-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1048-longest-string-chain) |
@@ -1157,6 +1158,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0678-valid-parenthesis-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1096-brace-expansion-ii) |
@@ -2073,6 +2075,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0020-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
