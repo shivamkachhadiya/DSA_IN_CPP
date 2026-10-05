@@ -1,25 +1,24 @@
 class Solution {
 public:
-    bool isValid(vector<int>&arr,int mid,int days){
-        int total_w=0;
-        int days_taken=1;
+    bool isPossible(const vector<int>&arr,const int days,const int currentCapacity){
+        int totalCapacity=0;
+        int Totaldays=1;
         for(int i=0;i<arr.size();i++){
-            total_w+=arr[i];
-            if(total_w>mid){
-                days_taken++;
-                total_w=arr[i];
+            totalCapacity+=arr[i];
+            if(totalCapacity>currentCapacity){
+                Totaldays++;
+                totalCapacity=arr[i];
             }
         }
-        return days_taken<=days;
+        return Totaldays<=days;
     }
     int shipWithinDays(vector<int>& arr, int days) {
-        int n=arr.size();
+        int start = *max_element(arr.begin(), arr.end());
         int ans=0;
-        int start=*max_element(arr.begin(),arr.end());
         int end=accumulate(arr.begin(),arr.end(),0);
         while(start<=end){
             int mid=(start+end)/2;
-            if(isValid(arr,mid,days)){
+            if(isPossible(arr,days,mid)){
                 ans=mid;
                 end=mid-1;
             }else{
