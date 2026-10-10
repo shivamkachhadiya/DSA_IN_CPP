@@ -1,26 +1,20 @@
 class Solution {
 public:
-    int solve(string &s, string &temp, int i, int j, vector<vector<int>>& dp) {
-        if (i == s.size() || j == temp.size())
-            return 0;
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int take = 0;
-        if (s[i] == temp[j]) {
-            take = 1 + solve(s, temp, i + 1, j + 1, dp);
+    int solve(string &a,string &b,int i,int j,int n1,int n2,vector<vector<int>>&dp){
+        if(i>=n1||j>=n2)return 0;
+        if(dp[i][j]!=-1)return dp[i][j];
+        if(a[i]==b[j]){
+            return dp[i][j]=1+solve(a,b,i+1,j+1,n1,n2,dp);
+        }else{
+            return dp[i][j]=max(solve(a,b,i+1,j,n1,n2,dp),solve(a,b,i,j+1,n1,n2,dp));
         }
-        int notake = max(solve(s, temp, i + 1, j, dp),
-                         solve(s, temp, i, j + 1, dp));
-
-        return dp[i][j] = max(take, notake);
     }
-
     int longestPalindromeSubseq(string s) {
-        string temp = s;
-        reverse(temp.begin(), temp.end());
-        int n = s.size();
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));  //  dynamic size
-        return solve(s, temp, 0, 0, dp);
+        string s2=s;
+        reverse(s2.begin(),s2.end());
+        int n1=s.size();
+        int n2=s.size();
+        vector<vector<int>>dp(n1+1,vector<int>(n2+1,-1));
+        return solve(s,s2,0,0,n1,n2,dp);
     }
 };
