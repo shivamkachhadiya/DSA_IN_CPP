@@ -7,7 +7,7 @@ public:
         return dp[i]=solve(n,i+1,dp)+solve(n,i+2,dp);
     }
     int climbStairs(int n) {
-         vector<int>dp(n+1,-1);
+        vector<int>dp(n+1,-1);
         return solve(n,0,dp);
     }
 };
