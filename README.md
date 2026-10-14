@@ -686,6 +686,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1258,6 +1259,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2895-minimum-processing-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2895-minimum-processing-time) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
