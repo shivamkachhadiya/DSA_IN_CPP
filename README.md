@@ -348,6 +348,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2895-minimum-processing-time) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -867,6 +868,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1791,6 +1793,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1798,6 +1801,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3525-find-x-value-of-array-ii) |
 ## Game Theory
 |  |
