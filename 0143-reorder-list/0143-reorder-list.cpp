@@ -11,50 +11,39 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if (!head || !head->next)
-            return;
+        if(head->next==NULL||head->next->next==NULL)return;
 
-        // middle find
-        ListNode* slow = head;
-        ListNode* fast = head;
+        ListNode* slow=head;
+        ListNode* fast=head;
 
-        while (fast->next && fast->next->next) {
-            slow = slow->next;
-            fast = fast->next->next;
+        while(fast->next!=NULL&&fast->next->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        // slow point middle
+        ListNode* second=slow->next;
+        slow->next=NULL;
 
-        // reverse start from slow+1
+        ListNode* prev=NULL;
+        ListNode* curr=second;
 
-        ListNode* prev = nullptr;
-        ListNode* curr = slow->next;
-
-        slow->next = nullptr;
-
-        while (curr) {
-            ListNode* newtemp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = newtemp;
+        while(curr!=NULL){
+            ListNode* next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
         }
+        ListNode* first=head;
+        second=prev;
+        while(second!=NULL){
+            ListNode* next1=first->next;
+            ListNode* next2=second->next;
 
-        // merge
+            first->next=second;
+            second->next=next1;
 
-        ListNode* first = head;  // 1
-        ListNode* second = prev; // 5
-
-        while (second) {
-            ListNode* temp1 = first->next;  // 2
-            ListNode* temp2 = second->next; // null
-
-            first->next = second;
-            second->next = temp1;
-
-            // temp1=2
-            // first=1
-            first = temp1;
-            second = temp2;
+            first=next1;
+            second=next2;
         }
     }
 };
