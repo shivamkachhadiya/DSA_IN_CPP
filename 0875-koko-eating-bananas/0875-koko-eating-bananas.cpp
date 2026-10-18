@@ -1,32 +1,28 @@
 class Solution {
 public:
-    bool isPossible(vector<int>& arr, int target, int currentlyEating) {
-        long long totalTimeTaken = 0;
-
-        for (int i = 0; i < arr.size(); i++) {
-            int currTime = ceil((double)arr[i] / currentlyEating);
-            totalTimeTaken += currTime;
+    inline int isPossible(const vector<int>&arr,const int mid,const int max_time_take){
+        int total_time=0;
+        for(int i=0;i<arr.size();i++){
+            int currTime=ceil((double)arr[i]/mid);
+            total_time+=currTime;
         }
-
-        return totalTimeTaken <= target;
+        return total_time<=max_time_take;
     }
-
     int minEatingSpeed(vector<int>& arr, int h) {
-        int n = arr.size();
-        int end = *max_element(arr.begin(), arr.end());
-        int ans = end;
-
+        int n=arr.size();
         int start=1;
+        int end=*max_element(arr.begin(),arr.end());
+        int ans=0;
         while(start<=end){
             int mid=(start+end)/2;
-            if(isPossible(arr,h,mid)){
+
+            if(isPossible(arr,mid,h)){
                 ans=mid;
                 end=mid-1;
             }else{
                 start=mid+1;
             }
         }
-
         return ans;
     }
 };
