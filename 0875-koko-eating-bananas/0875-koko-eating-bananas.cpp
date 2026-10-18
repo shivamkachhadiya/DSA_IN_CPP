@@ -1,9 +1,9 @@
 class Solution {
 public:
     inline int isPossible(const vector<int>&arr,const int mid,const int max_time_take){
-        int total_time=0;
+        long long total_time=0;
         for(int i=0;i<arr.size();i++){
-            int currTime=ceil((double)arr[i]/mid);
+            long long currTime=ceil((double)arr[i]/mid);
             total_time+=currTime;
         }
         return total_time<=max_time_take;
