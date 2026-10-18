@@ -291,6 +291,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -411,6 +412,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Tree
@@ -473,6 +475,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -537,6 +540,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -613,6 +617,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Math
@@ -665,6 +670,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1642-water-bottles) |
@@ -1498,6 +1504,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1609,6 +1616,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1784,6 +1792,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0638-shopping-offers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
@@ -1856,6 +1865,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
@@ -2107,6 +2117,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
 
 
