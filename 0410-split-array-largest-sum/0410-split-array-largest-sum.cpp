@@ -1,24 +1,26 @@
 class Solution {
 public:
-    bool isValid(vector<int>&arr,int maximum_allow_partition,int max_allow_val){
-        int partition=1;
-        int sum=0;
+    bool isPossible(vector<int>&arr,int k,int mid){
+        int total=0;
+        int days=0;
         for(int i=0;i<arr.size();i++){
-            sum+=arr[i];
-            if(sum>max_allow_val){
-                sum=arr[i];
-                partition++;
+            if(total+arr[i]<=mid){
+                total+=arr[i];
+            }else{
+                days++;
+                total=arr[i];
             }
         }
-        return partition<=maximum_allow_partition;
+        return days<k;
     }
     int splitArray(vector<int>& arr, int k) {
+        int n=arr.size();
         int start=*max_element(arr.begin(),arr.end());
         int end=accumulate(arr.begin(),arr.end(),0);
         int ans=0;
         while(start<=end){
             int mid=(start+end)/2;
-            if(isValid(arr,k,mid)){
+            if(isPossible(arr,k,mid)){
                 ans=mid;
                 end=mid-1;
             }else{
