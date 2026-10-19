@@ -17,15 +17,17 @@ public:
         string ans="";
         q.push(root);
         while(!q.empty()){
-            TreeNode* frontNode=q.front();
-            q.pop();
-            if(frontNode==NULL){
-                ans+="#,";
-            }
-            else{
-                ans+=to_string(frontNode->val)+',';
-                q.push(frontNode->left);
-                q.push(frontNode->right);
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode* frontNode=q.front();
+                q.pop();
+                if(frontNode==NULL){
+                    ans+="#,";
+                }else{
+                    ans+=to_string(frontNode->val)+',';
+                    q.push(frontNode->left);
+                    q.push(frontNode->right);
+                }
             }
         }
         return ans;
@@ -36,12 +38,11 @@ public:
         if(data=="")return NULL;
         string temp="";
         vector<string>tokens;
-        for(auto &ch:data){
+        for(auto& ch:data){
             if(ch==','){
                 tokens.push_back(temp);
                 temp="";
-            }
-            else{
+            }else{
                 temp+=ch;
             }
         }
