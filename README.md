@@ -315,6 +315,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2058-concatenation-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -545,6 +546,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1646-kth-missing-positive-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1386,6 +1388,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
