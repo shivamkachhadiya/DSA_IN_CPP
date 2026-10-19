@@ -19,8 +19,8 @@ public:
         if(root==NULL)return 0;
         int leftH=solve(root->left);
         int rightH=solve(root->right);
-        int leftRec=diameterOfBinaryTree(root->left);
-        int rightRec=diameterOfBinaryTree(root->right);
-        return max({leftH+rightH,leftRec,rightRec});
+        int leftR=diameterOfBinaryTree(root->left);
+        int rightR=diameterOfBinaryTree(root->right);
+        return max({leftH+rightH,leftR,rightR});
     }
 };
