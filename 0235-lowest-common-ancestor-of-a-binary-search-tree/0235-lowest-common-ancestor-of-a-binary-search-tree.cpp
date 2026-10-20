@@ -15,12 +15,12 @@ public:
         if(root->val==p->val||root->val==q->val){
             return root;
         }
-        TreeNode* left_lca=lowestCommonAncestor(root->left,p,q);
-        TreeNode* right_lca=lowestCommonAncestor(root->right,p,q);
-        if(left_lca&&right_lca)return root;
-        if(!left_lca&&right_lca)return right_lca;
-        if(left_lca&&!right_lca)return left_lca;
-        return nullptr;
+        TreeNode* leftAns=lowestCommonAncestor(root->left,p,q);
+        TreeNode* rightAns=lowestCommonAncestor(root->right,p,q);
 
+        if(leftAns==NULL&&rightAns!=NULL)return rightAns;
+        if(leftAns!=NULL&&rightAns==NULL)return leftAns;
+        if(leftAns!=NULL&&rightAns!=NULL)return root;
+        return NULL;
     }
 };
