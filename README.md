@@ -392,6 +392,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -709,6 +710,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3871-count-commas-in-range-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -1410,6 +1412,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1637,6 +1640,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
 | ------- |
