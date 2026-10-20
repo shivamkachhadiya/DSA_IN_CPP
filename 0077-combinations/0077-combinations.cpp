@@ -1,24 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>>ans;
-    void solve(vector<int>&arr,int n,int k,vector<int>&part,int i){
+    vector<vector<int>>result;
+    void solve(int start,int n,int k,vector<int>&temp){
         if(k==0){
-            ans.push_back(part);
+            result.push_back(temp);
             return;
         }
-        if(i>=n)return;
-        part.push_back(arr[i]);
-        solve(arr,n,k-1,part,i+1);
-        part.pop_back();
-        solve(arr,n,k,part,i+1);
+        if(start>n)return;
+        temp.push_back(start);
+
+        solve(start+1,n,k-1,temp);
+
+        temp.pop_back();
+
+        solve(start+1,n,k,temp);
     }
     vector<vector<int>> combine(int n, int k) {
-        vector<int>arr;
-        for(int i=1;i<=n;i++){
-            arr.push_back(i);
-        }
+        result.clear();
         vector<int>part;
-        solve(arr,n,k,part,0);
-        return ans;
+        solve(1,n,k,part);
+        return result;
     }
 };
