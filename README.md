@@ -225,6 +225,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0699-falling-squares) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1832,6 +1833,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0406-queue-reconstruction-by-height](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0699-falling-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3525-find-x-value-of-array-ii) |
@@ -1858,6 +1860,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0699-falling-squares) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
