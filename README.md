@@ -207,6 +207,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0474-ones-and-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0518-coin-change-ii) |
@@ -412,6 +413,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
@@ -517,6 +519,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0410-split-array-largest-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1817,6 +1820,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -1826,6 +1830,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -1852,6 +1857,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1980,6 +1986,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
@@ -2138,6 +2145,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
 
 
