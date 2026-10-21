@@ -1154,6 +1154,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3498-reverse-degree-of-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
