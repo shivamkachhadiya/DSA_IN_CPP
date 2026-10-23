@@ -1,28 +1,33 @@
 class Solution {
 public:
-    string removeKdigits(string arr, int k) {
-        stack<char> s;
-
-        for (char digit : arr) {
-            while (!s.empty() && k > 0 && s.top() > digit) {
-                s.pop();
+    string removeKdigits(string num, int k) {
+        stack<char>st;
+        //1432219
+        for(auto &digit:num){
+            while(!st.empty()&&k>0&&st.top()>digit){
+                st.pop();
                 k--;
             }
-            if (!s.empty() || digit != '0')  // avoid leading zeros
-                s.push(digit);
+            if(st.empty()&&digit=='0')continue;
+            st.push(digit);
         }
 
-        // remove extra digits if k still > 0
-        while (!s.empty() && k--) s.pop();
 
-        // build the result string
-        string result = "";
-        while (!s.empty()) {
-            result += s.top();
-            s.pop();
+        while(!st.empty()&&k--)st.pop();
+
+        //build string
+        string result="";
+
+        while(!st.empty()){
+            result+=st.top();
+            st.pop();
         }
-        reverse(result.begin(), result.end());
 
-        return result.empty() ? "0" : result;
+        reverse(result.begin(),result.end());
+
+        return result.empty()?"0":result;
+
+
+        
     }
 };
