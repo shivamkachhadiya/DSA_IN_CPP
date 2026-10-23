@@ -282,6 +282,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1195,6 +1196,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1096-brace-expansion-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1220,6 +1222,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0901-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
