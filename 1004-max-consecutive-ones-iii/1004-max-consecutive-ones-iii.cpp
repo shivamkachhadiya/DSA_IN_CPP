@@ -3,19 +3,21 @@ public:
     int longestOnes(vector<int>& arr, int k) {
         int n = arr.size();
         int left = 0;
-        int maxCount=0;
-        int zeros = 0;
+        int maxAns = 0;
+        int currLen = 0;
         for (int right = 0; right < n; right++) {
-            if (arr[right] == 0)
-                zeros++;
-            
-            while(zeros>k){
-                
-                if(arr[left]==0)zeros--;
+            if (arr[right] == 0) {
+                k--;
+            }
+            while (k < 0) {
+                if (arr[left] == 0)
+                    k++;
                 left++;
             }
-            maxCount = max(maxCount, right - left + 1);
+
+            maxAns = max(maxAns, right - left + 1);
         }
-        return maxCount;
+
+        return maxAns;
     }
 };
