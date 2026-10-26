@@ -14,6 +14,8 @@ public:
     // }
     bool isPalindrome(string s) {
         string toLower = "";
+        int n=s.size();
+        toLower.reserve(n);
         for (int i = 0; i < s.size(); i++) {
             char curr_char = s[i];
             if (isalnum(curr_char)) {
