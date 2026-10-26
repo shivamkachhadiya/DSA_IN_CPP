@@ -1,18 +1,29 @@
 class Solution {
 public:
-    int numRescueBoats(vector<int>& arr, int limit) {
-        sort(arr.begin(), arr.end());
-        int left = 0, right = arr.size() - 1;
-        int boats = 0;
-        
-        while (left <= right) {
-            if (arr[left] + arr[right] <= limit) {
-                left++;   // lightest + heaviest together
+    int numRescueBoats(vector<int>& people, int limit) {
+        sort(people.begin(),people.end(),greater<int>());
+
+        int bots=0;
+        int currWeight=0;//9 4 6 1
+
+        int start=0;
+        int end=people.size()-1;
+
+        while(start<=end){
+            if(people[start]+people[end]<=limit){
+                bots++;
+                start++;
+                end--;
+            }else if(people[start]>=people[end]){
+                bots++;
+                start++;
+            }else{
+                bots++;
+                end--;
             }
-            right--;      // heaviest always goes
-            boats++;
         }
+        return bots;
+
         
-        return boats;
     }
 };
