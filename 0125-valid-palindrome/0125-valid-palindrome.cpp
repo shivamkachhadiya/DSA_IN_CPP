@@ -23,7 +23,7 @@ public:
                 toLower.push_back(to_lower);
             }
         }
-        auto checkPalindrome = [&](string& s) {
+        auto checkPalindrome = [](string& s) {
             if (s.size() == 0)
                 return true;
             int n = s.size();
