@@ -1175,6 +1175,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1368,6 +1369,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1943,6 +1945,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1952,6 +1955,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
