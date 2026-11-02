@@ -205,6 +205,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0435-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0491-non-decreasing-subsequences) |
@@ -682,6 +683,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0396-rotate-function](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0553-optimal-division](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0679-24-game) |
@@ -1404,6 +1406,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0406-queue-reconstruction-by-height](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0759-set-intersection-size-at-least-two) |
