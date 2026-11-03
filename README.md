@@ -390,6 +390,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -719,6 +720,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3783-mirror-distance-of-an-integer) |
