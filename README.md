@@ -352,6 +352,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -907,6 +908,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-extra-characters-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2707-extra-characters-in-a-string) |
+| [2747-count-zero-request-servers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -1353,6 +1355,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2747-count-zero-request-servers) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1448,6 +1451,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2463-minimum-total-distance-traveled](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2463-minimum-total-distance-traveled) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2751-robot-collisions) |
 | [2895-minimum-processing-time](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2895-minimum-processing-time) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
