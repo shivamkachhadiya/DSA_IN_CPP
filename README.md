@@ -281,6 +281,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1200-minimum-absolute-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -963,6 +964,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1036-rotting-oranges](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1669,6 +1671,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0347-top-k-frequent-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2833-furthest-point-from-origin) |
@@ -1756,6 +1759,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1822,6 +1826,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1096-brace-expansion-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1939,6 +1944,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0886-possible-bipartition](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
