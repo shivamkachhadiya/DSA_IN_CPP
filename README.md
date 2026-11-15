@@ -294,6 +294,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
 | [1514-path-with-maximum-probability](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1552-build-an-array-with-stack-operations) |
@@ -703,6 +704,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1580,6 +1582,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1503-reducing-dishes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1664,6 +1667,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1109-corporate-flight-bookings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
