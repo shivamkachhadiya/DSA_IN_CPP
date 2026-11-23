@@ -285,6 +285,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -705,6 +706,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0836-rectangle-overlap](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1271,6 +1273,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0901-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2169-simple-bank-system) |
@@ -1297,6 +1300,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -1678,6 +1682,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [1046-max-consecutive-ones-iii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
