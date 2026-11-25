@@ -372,6 +372,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3331-find-subtree-sizes-after-changes](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -729,6 +730,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3524-find-x-value-of-array-i) |
@@ -1384,6 +1386,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2747-count-zero-request-servers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1731,6 +1734,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
@@ -1889,6 +1893,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
