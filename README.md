@@ -418,6 +418,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -593,6 +594,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -944,6 +946,7 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3863-power-grid-maintenance) |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -2082,10 +2085,12 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -2257,6 +2262,10 @@ This repository automatically syncs my solved **LeetCode problems in C++** using
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/0493-reverse-pairs) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shivamkachhadiya/DSA_IN_CPP/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
 
 
